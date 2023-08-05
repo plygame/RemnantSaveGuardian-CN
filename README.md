@@ -1,4 +1,4 @@
-# Remnant Save Guardian
+# 遗迹2存档管理器汉化版(Remnant Save Guardian)
 Back up your Remnant 2 saves and view your world rolls.
 
 **This project is a work in progress. Lots of features are broken or partially implemented.**

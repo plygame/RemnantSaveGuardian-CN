@@ -124,7 +124,7 @@
     <value>活跃</value>
   </data>
   <data name="Adventure" xml:space="preserve">
-    <value>探险</value>
+    <value>冒险</value>
   </data>
   <data name="Are you sure you want to delete backup {backupName}?" xml:space="preserve">
     <value>您确定要删除备份 {backupName} 吗？</value>

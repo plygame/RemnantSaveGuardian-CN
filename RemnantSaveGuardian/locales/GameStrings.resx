@@ -391,19 +391,19 @@
     <value>虚空</value>
   </data>
   <data name="Asylum" xml:space="preserve">
-    <value>精神病院</value>
+    <value>病院</value>
   </data>
   <data name="AsylumChainsaw" xml:space="preserve">
     <value>链锯</value>
   </data>
   <data name="AsylumStory" xml:space="preserve">
-    <value>精神病院</value>
+    <value>病院故事</value>
   </data>
   <data name="Base" xml:space="preserve">
     <value>地球</value>
   </data>
   <data name="BlackAndWhite" xml:space="preserve">
-    <value>The Flames</value>
+    <value>大厅火焰</value>
   </data>
   <data name="BlackHole" xml:space="preserve">
     <value>黑洞</value>
@@ -427,7 +427,7 @@
     <value>钟楼</value>
   </data>
   <data name="CrimsonHarvest" xml:space="preserve">
-    <value>The Burning</value>
+    <value>燃烧</value>
   </data>
   <data name="CustodianEye" xml:space="preserve">
     <value>保管人之眼</value>
@@ -541,7 +541,7 @@
     <value>柯亚拉库里巢穴</value>
   </data>
   <data name="LaemirsLyceum" xml:space="preserve">
-    <value>Laemirs' Lyceum</value>
+    <value>莱米尔学院</value>
   </data>
   <data name="Library" xml:space="preserve">
     <value>萎缩</value>
@@ -556,7 +556,7 @@
     <value>地球</value>
   </data>
   <data name="ManyFaces" xml:space="preserve">
-    <value>千面神/MotherBrain</value>
+    <value>机器人/腐化者</value>
   </data>
   <data name="Material_ThaenLeaf" xml:space="preserve">
     <value>塞恩叶片</value>
@@ -1762,7 +1762,7 @@
     <value>扭曲教堂</value>
   </data>
   <data name="Foesaken Quarter" xml:space="preserve">
-    <value>Foesaken Quarter</value>
+    <value>废弃区</value>
   </data>
   <data name="Astropath's Respite" xml:space="preserve">
     <value>星语者的喘息</value>
@@ -1797,6 +1797,9 @@
   <data name="AshenWasteland" xml:space="preserve">
     <value>灰烬荒原</value>
   </data>
+  <data name="AsylumHouse" xml:space="preserve">
+    <value>病院屋子</value>
+  </data>
   <data name="BloatKing" xml:space="preserve">
     <value>腐胀之王</value>
   </data>
@@ -1804,7 +1807,7 @@
     <value>白骨收获者巢穴</value>
   </data>
   <data name="BurningCity" xml:space="preserve">
-    <value>燃烧的城市|</value>
+    <value>燃烧的城市</value>
   </data>
   <data name="Cass" xml:space="preserve">
     <value>卡莎</value>
@@ -1824,11 +1827,17 @@
   <data name="ElevatorShaft" xml:space="preserve">
     <value>电梯井</value>
   </data>
+  <data name="EmpressStory" xml:space="preserve">
+    <value>女皇故事</value>
+  </data>
   <data name="Endaira's End" xml:space="preserve">
     <value>恩达瑞亚的终结</value>
   </data>
   <data name="Engrams" xml:space="preserve">
     <value>心痕</value>
+  </data>
+  <data name="Extermination" xml:space="preserve">
+    <value>灭绝</value>
   </data>
   <data name="Extraction Hub" xml:space="preserve">
     <value>开采中枢</value>
@@ -1837,10 +1846,13 @@
     <value>溃烂</value>
   </data>
   <data name="FieryGraveyard" xml:space="preserve">
-    <value>火红墓地|</value>
+    <value>火红墓地</value>
   </data>
   <data name="Flautist" xml:space="preserve">
     <value>长笛手</value>
+  </data>
+  <data name="Forgotten Field" xml:space="preserve">
+    <value>忘却之地</value>
   </data>
   <data name="GoldenHall" xml:space="preserve">
     <value>黄金殿堂</value>
@@ -1850,6 +1862,15 @@
   </data>
   <data name="HiddenMaze" xml:space="preserve">
     <value>隐藏的迷宫</value>
+  </data>
+  <data name="Imperial Gardens" xml:space="preserve">
+    <value>皇家花园</value>
+  </data>
+  <data name="IronGiant" xml:space="preserve">
+    <value>陨落飞船</value>
+  </data>
+  <data name="Island" xml:space="preserve">
+    <value>岛屿</value>
   </data>
   <data name="Islands" xml:space="preserve">
     <value>岛屿</value>
@@ -1863,20 +1884,35 @@
   <data name="KoaraKuri" xml:space="preserve">
     <value>柯亚拉库里</value>
   </data>
+  <data name="LabyrinthBackrooms" xml:space="preserve">
+    <value>迷宫后室</value>
+  </data>
   <data name="Lemark District" xml:space="preserve">
     <value>莱马克区</value>
   </data>
   <data name="Location" xml:space="preserve">
     <value>位置</value>
   </data>
+  <data name="Mantagora" xml:space="preserve">
+    <value>曼陀罗</value>
+  </data>
   <data name="Materials" xml:space="preserve">
     <value>材料</value>
+  </data>
+  <data name="Meidra" xml:space="preserve">
+    <value>梅德拉</value>
   </data>
   <data name="Merchant" xml:space="preserve">
     <value>商人</value>
   </data>
   <data name="Mods" xml:space="preserve">
     <value>模组</value>
+  </data>
+  <data name="MotherMind" xml:space="preserve">
+    <value>灵智之母</value>
+  </data>
+  <data name="NightWeaver" xml:space="preserve">
+    <value>织夜者</value>
   </data>
   <data name="Nimue" xml:space="preserve">
     <value>尼姆埃</value>
@@ -1920,6 +1956,9 @@
   <data name="Shattered Gallery" xml:space="preserve">
     <value>破碎画廊</value>
   </data>
+  <data name="Shockwire" xml:space="preserve">
+    <value>射击电线</value>
+  </data>
   <data name="Shrewd" xml:space="preserve">
     <value>精明</value>
   </data>
@@ -1929,8 +1968,14 @@
   <data name="Story" xml:space="preserve">
     <value>故事</value>
   </data>
+  <data name="The Dappled Glade" xml:space="preserve">
+    <value>斑驳林地</value>
+  </data>
   <data name="The Expanding Glade" xml:space="preserve">
     <value>扩张的林地</value>
+  </data>
+  <data name="The Widow's Court" xml:space="preserve">
+    <value>红寡妇王庭</value>
   </data>
   <data name="TheChimney" xml:space="preserve">
     <value>烟囱</value>
@@ -1941,11 +1986,17 @@
   <data name="TheCoreStory" xml:space="preserve">
     <value>核心故事</value>
   </data>
+  <data name="TheDreamlessSleep" xml:space="preserve">
+    <value>无梦之眠</value>
+  </data>
   <data name="TheNest" xml:space="preserve">
     <value>巢穴</value>
   </data>
   <data name="TheSafe" xml:space="preserve">
     <value>安全</value>
+  </data>
+  <data name="TheTangle" xml:space="preserve">
+    <value>纠缠</value>
   </data>
   <data name="TowerHeist" xml:space="preserve">
     <value>高塔劫掠</value>
@@ -1964,6 +2015,9 @@
   </data>
   <data name="Underworld" xml:space="preserve">
     <value>地下世界</value>
+  </data>
+  <data name="WailingField" xml:space="preserve">
+    <value>恸哭之地</value>
   </data>
   <data name="Weapons" xml:space="preserve">
     <value>武器</value>

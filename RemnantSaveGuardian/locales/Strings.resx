@@ -160,7 +160,7 @@
     <value>开始游戏</value>
   </data>
   <data name="Campaign" xml:space="preserve">
-    <value>活动</value>
+    <value>战役</value>
   </data>
   <data name="Cancel" xml:space="preserve">
     <value>取消</value>
@@ -344,9 +344,6 @@
   </data>
   <data name="Red" xml:space="preserve">
     <value>红色</value>
-  </data>
-  <data name="Remnant Save Guardian" xml:space="preserve">
-    <value>111</value>
   </data>
   <data name="Save Backups" xml:space="preserve">
     <value>存档备份</value>

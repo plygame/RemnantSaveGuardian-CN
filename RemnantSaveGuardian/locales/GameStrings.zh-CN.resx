@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <root>
   <!-- 
     Microsoft ResX Schema 
@@ -275,9 +275,6 @@
   </data>
   <data name="Amulet_ScavengersBauble" xml:space="preserve">
     <value>拾荒者饰品</value>
-  </data>
-  <data name="Amulet_ShadeBloomCrystal" xml:space="preserve">
-    <value>刹邸绽放水晶</value>
   </data>
   <data name="Amulet_ShockDevice" xml:space="preserve">
     <value>电击设备</value>
@@ -682,7 +679,7 @@
     <value>胃</value>
   </data>
   <data name="OverworldPOI" xml:space="preserve">
-    <value>世界兴趣点</value>
+    <value>地图兴趣点</value>
   </data>
   <data name="Phantom" xml:space="preserve">
     <value>星语者</value>
@@ -1530,9 +1527,6 @@
   <data name="Engrams" xml:space="preserve">
     <value>心痕</value>
   </data>
-  <data name="Gems" xml:space="preserve">
-    <value>突变因子</value>
-  </data>
   <data name="Materials" xml:space="preserve">
     <value>材料</value>
   </data>
@@ -1546,22 +1540,22 @@
     <value>火焰风暴</value>
   </data>
   <data name="Mutators" xml:space="preserve">
-    <value>REPLACE</value>
+    <value>突变因子</value>
   </data>
   <data name="Quests" xml:space="preserve">
-    <value>REPLACE</value>
+    <value>任务</value>
   </data>
   <data name="Quest_Global_TheHunterDream_Template01" xml:space="preserve">
-    <value>REPLACE</value>
+    <value>喜乐宫</value>
   </data>
   <data name="Quest_Story_AllFather_DranCity1_Template" xml:space="preserve">
-    <value>REPLACE</value>
+    <value>布罗克韦瑟区</value>
   </data>
   <data name="Quest_Story_AllFather_DranCity2_Template" xml:space="preserve">
-    <value>REPLACE</value>
+    <value>铁区</value>
   </data>
   <data name="Quest_Story_Empress_Zone01_Template01" xml:space="preserve">
-    <value>REPLACE</value>
+    <value>红王座</value>
   </data>
   <data name="Relic" xml:space="preserve">
     <value>圣物</value>
@@ -1573,7 +1567,7 @@
     <value>迅捷之石</value>
   </data>
   <data name="Ring_ShaedBloomCrystal" xml:space="preserve">
-    <value>REPLACE</value>
+    <value>刹邸绽放水晶</value>
   </data>
   <data name="RisingTides" xml:space="preserve">
     <value>涨水</value>
@@ -1656,9 +1650,6 @@
   <data name="Fae" xml:space="preserve">
     <value>翡族</value>
   </data>
-  <data name="Brocwithe Quarter" xml:space="preserve">
-    <value>布罗克韦瑟区</value>
-  </data>
   <data name="RootEarth" xml:space="preserve">
     <value>根蔓地球</value>
   </data>
@@ -1676,9 +1667,6 @@
   </data>
   <data name="Ascension Spire" xml:space="preserve">
     <value>升天尖塔</value>
-  </data>
-  <data name="Ironborough" xml:space="preserve">
-    <value>铁区</value>
   </data>
   <data name="Butcher's Quarter" xml:space="preserve">
     <value>屠夫区</value>
@@ -1755,9 +1743,6 @@
   <data name="The Dark Conduit" xml:space="preserve">
     <value>黑暗之渠</value>
   </data>
-  <data name="Beatific Palace" xml:space="preserve">
-    <value>喜乐宫</value>
-  </data>
   <data name="The Great Bole" xml:space="preserve">
     <value>巨树</value>
   </data>
@@ -1811,9 +1796,6 @@
   </data>
   <data name="Ashen Wasteland" xml:space="preserve">
     <value>灰烬荒原</value>
-  </data>
-  <data name="The Red Throne" xml:space="preserve">
-    <value>红王座</value>
   </data>
   <data name="Briella's Reverie" xml:space="preserve">
     <value>布瑞拉的梦</value>

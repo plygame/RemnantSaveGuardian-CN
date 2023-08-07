@@ -610,15 +610,6 @@ namespace RemnantSaveGuardian.locales {
         }
         
         /// <summary>
-        ///   查找类似 刹邸绽放水晶 的本地化字符串。
-        /// </summary>
-        public static string Amulet_ShadeBloomCrystal {
-            get {
-                return ResourceManager.GetString("Amulet_ShadeBloomCrystal", resourceCulture);
-            }
-        }
-        
-        /// <summary>
         ///   查找类似 电击设备 的本地化字符串。
         /// </summary>
         public static string Amulet_ShockDevice {
@@ -1042,15 +1033,6 @@ namespace RemnantSaveGuardian.locales {
         }
         
         /// <summary>
-        ///   查找类似 喜乐宫 的本地化字符串。
-        /// </summary>
-        public static string Beatific_Palace {
-            get {
-                return ResourceManager.GetString("Beatific Palace", resourceCulture);
-            }
-        }
-        
-        /// <summary>
         ///   查找类似 大厅火焰 的本地化字符串。
         /// </summary>
         public static string BlackAndWhite {
@@ -1128,15 +1110,6 @@ namespace RemnantSaveGuardian.locales {
         public static string Briella_s_Reverie {
             get {
                 return ResourceManager.GetString("Briella\'s Reverie", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   查找类似 布罗克韦瑟区 的本地化字符串。
-        /// </summary>
-        public static string Brocwithe_Quarter {
-            get {
-                return ResourceManager.GetString("Brocwithe Quarter", resourceCulture);
             }
         }
         
@@ -1591,15 +1564,6 @@ namespace RemnantSaveGuardian.locales {
         }
         
         /// <summary>
-        ///   查找类似 突变因子 的本地化字符串。
-        /// </summary>
-        public static string Gems {
-            get {
-                return ResourceManager.GetString("Gems", resourceCulture);
-            }
-        }
-        
-        /// <summary>
         ///   查找类似 鎏金大厅 的本地化字符串。
         /// </summary>
         public static string Gilded_Chambers {
@@ -1749,15 +1713,6 @@ namespace RemnantSaveGuardian.locales {
         public static string Invader {
             get {
                 return ResourceManager.GetString("Invader", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   查找类似 铁区 的本地化字符串。
-        /// </summary>
-        public static string Ironborough {
-            get {
-                return ResourceManager.GetString("Ironborough", resourceCulture);
             }
         }
         
@@ -2536,7 +2491,7 @@ namespace RemnantSaveGuardian.locales {
         }
         
         /// <summary>
-        ///   查找类似 REPLACE 的本地化字符串。
+        ///   查找类似 突变因子 的本地化字符串。
         /// </summary>
         public static string Mutators {
             get {
@@ -2635,7 +2590,7 @@ namespace RemnantSaveGuardian.locales {
         }
         
         /// <summary>
-        ///   查找类似 主世界POI 的本地化字符串。
+        ///   查找类似 地图兴趣点 的本地化字符串。
         /// </summary>
         public static string OverworldPOI {
             get {
@@ -2689,7 +2644,7 @@ namespace RemnantSaveGuardian.locales {
         }
         
         /// <summary>
-        ///   查找类似 REPLACE 的本地化字符串。
+        ///   查找类似 喜乐宫 的本地化字符串。
         /// </summary>
         public static string Quest_Global_TheHunterDream_Template01 {
             get {
@@ -2716,7 +2671,7 @@ namespace RemnantSaveGuardian.locales {
         }
         
         /// <summary>
-        ///   查找类似 REPLACE 的本地化字符串。
+        ///   查找类似 布罗克韦瑟区 的本地化字符串。
         /// </summary>
         public static string Quest_Story_AllFather_DranCity1_Template {
             get {
@@ -2725,7 +2680,7 @@ namespace RemnantSaveGuardian.locales {
         }
         
         /// <summary>
-        ///   查找类似 REPLACE 的本地化字符串。
+        ///   查找类似 铁区 的本地化字符串。
         /// </summary>
         public static string Quest_Story_AllFather_DranCity2_Template {
             get {
@@ -2734,7 +2689,7 @@ namespace RemnantSaveGuardian.locales {
         }
         
         /// <summary>
-        ///   查找类似 REPLACE 的本地化字符串。
+        ///   查找类似 红王座 的本地化字符串。
         /// </summary>
         public static string Quest_Story_Empress_Zone01_Template01 {
             get {
@@ -2743,7 +2698,7 @@ namespace RemnantSaveGuardian.locales {
         }
         
         /// <summary>
-        ///   查找类似 REPLACE 的本地化字符串。
+        ///   查找类似 任务 的本地化字符串。
         /// </summary>
         public static string Quests {
             get {
@@ -3967,7 +3922,7 @@ namespace RemnantSaveGuardian.locales {
         }
         
         /// <summary>
-        ///   查找类似 REPLACE 的本地化字符串。
+        ///   查找类似 刹邸绽放水晶 的本地化字符串。
         /// </summary>
         public static string Ring_ShaedBloomCrystal {
             get {
@@ -4647,15 +4602,6 @@ namespace RemnantSaveGuardian.locales {
         public static string The_Putrid_Domain {
             get {
                 return ResourceManager.GetString("The Putrid Domain", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   查找类似 红王座 的本地化字符串。
-        /// </summary>
-        public static string The_Red_Throne {
-            get {
-                return ResourceManager.GetString("The Red Throne", resourceCulture);
             }
         }
         

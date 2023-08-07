@@ -7,18 +7,15 @@ on:
     branches: [ "main" ]
 
 jobs:
-
   build:
-
     strategy:
       matrix:
         configuration: [Debug, Release]
 
-    runs-on: windows-latest  # For a list of available runner types, refer to
-                             # https://help.github.com/en/actions/reference/workflow-syntax-for-github-actions#jobsjob_idruns-on
+    runs-on: windows-latest
 
     env:
-      Solution_Name: RemnantSaveGuardian.sln                                             # Replace with your solution name, i.e. MyWpfApp.sln.
+      Solution_Name: RemnantSaveGuardian.sln
       
     steps:
     - name: Checkout
@@ -44,7 +41,7 @@ jobs:
 
     # Create the app package by building and packaging the Windows Application Packaging project
     - name: Build
-      run: msbuild $env:Solution_Name /p:Configuration=$env:Configuratio /t:Build
+      run: msbuild $env:Solution_Name /t:Build /p:Configuration=$env:Configuratio /p:Platform="Any CPU"
       env:
         Configuration: ${{ matrix.configuration }}
 

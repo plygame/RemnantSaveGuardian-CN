@@ -35,9 +35,9 @@
 
   <ItemGroup>
     <Compile Update="locales\GameStrings.Designer.cs">
-      <DependentUpon>GameStrings.resx</DependentUpon>
       <DesignTime>True</DesignTime>
       <AutoGen>True</AutoGen>
+      <DependentUpon>GameStrings.resx</DependentUpon>
     </Compile>
     <Compile Update="locales\Strings.Designer.cs">
       <DependentUpon>Strings.resx</DependentUpon>
@@ -58,25 +58,25 @@
 
   <ItemGroup>
     <EmbeddedResource Update="locales\GameStrings.resx">
-      <LastGenOutput>GameStrings.Designer.cs</LastGenOutput>
-      <Generator>PublicResXFileCodeGenerator</Generator>
+        <LastGenOutput>GameStrings.Designer.cs</LastGenOutput>
+        <Generator>PublicResXFileCodeGenerator</Generator>
     </EmbeddedResource>
     <EmbeddedResource Update="locales\GameStrings.ko.resx">
-      <Generator>PublicResXFileCodeGenerator</Generator>
+    <Generator>PublicResXFileCodeGenerator</Generator>
     </EmbeddedResource>
     <EmbeddedResource Update="locales\Strings.resx">
-      <LastGenOutput>Strings.Designer.cs</LastGenOutput>
-      <Generator>PublicResXFileCodeGenerator</Generator>
+    <LastGenOutput>Strings.Designer.cs</LastGenOutput>
+    <Generator>PublicResXFileCodeGenerator</Generator>
     </EmbeddedResource>
     <EmbeddedResource Update="locales\Strings.ko.resx">
-      <Generator>PublicResXFileCodeGenerator</Generator>
+    <Generator>PublicResXFileCodeGenerator</Generator>
     </EmbeddedResource>
     <EmbeddedResource Update="locales\Strings.ru.resx">
-      <Generator>PublicResXFileCodeGenerator</Generator>
+    <Generator>PublicResXFileCodeGenerator</Generator>
     </EmbeddedResource>
     <EmbeddedResource Update="Properties\Resources.resx">
-      <Generator>ResXFileCodeGenerator</Generator>
-      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    <Generator>ResXFileCodeGenerator</Generator>
+    <LastGenOutput>Resources.Designer.cs</LastGenOutput>
     </EmbeddedResource>
   </ItemGroup>
 

@@ -121,7 +121,7 @@
     <value>关于</value>
   </data>
   <data name="Active" xml:space="preserve">
-    <value>活跃</value>
+    <value>启用</value>
   </data>
   <data name="Adventure" xml:space="preserve">
     <value>冒险</value>
@@ -130,16 +130,16 @@
     <value>您确定要删除备份 {backupName} 吗？</value>
   </data>
   <data name="Backup completed" xml:space="preserve">
-    <value>备份已完成</value>
+    <value>备份完成</value>
   </data>
   <data name="Backup Folder" xml:space="preserve">
     <value>备份文件夹</value>
   </data>
   <data name="Backup folder not set; reverting to default." xml:space="preserve">
-    <value>未设置备份文件夹；恢复为默认值。</value>
+    <value>未设置备份文件夹；恢复为默认。</value>
   </data>
   <data name="Backup restored" xml:space="preserve">
-    <value>恢复备份</value>
+    <value>备份已恢复</value>
   </data>
   <data name="Backups folder not found, creating..." xml:space="preserve">
     <value>未找到备份文件夹，正在创建...</value>
@@ -172,7 +172,7 @@
     <value>角色</value>
   </data>
   <data name="chkAutoBackup_Content" xml:space="preserve">
-    <value>自动备份存档文件</value>
+    <value>自动备份存档</value>
   </data>
   <data name="chkAutoBackup_ToolTip" xml:space="preserve">
     <value>监控遗迹存档文件，并在文件更改时进行备份</value>
@@ -187,7 +187,7 @@
     <value>是否创建log.txt文件</value>
   </data>
   <data name="chkShowPossibleItems_Content" xml:space="preserve">
-    <value>在分析器中显示可能项目栏</value>
+    <value>在分析器中显示可能出现的物品</value>
   </data>
   <data name="Choose a backup to restore from the list." xml:space="preserve">
     <value>从列表中选择要还原的备份。</value>
@@ -202,7 +202,7 @@
     <value>找不到保存文件的位置; 请手动设置</value>
   </data>
   <data name="Dark" xml:space="preserve">
-    <value>黑暗</value>
+    <value>深色</value>
   </data>
   <data name="Date" xml:space="preserve">
     <value>日期</value>
@@ -214,16 +214,16 @@
     <value>删除多余备份</value>
   </data>
   <data name="Do you want to move your backups to this new folder?" xml:space="preserve">
-    <value>您想将备份转移到这个新文件夹吗？</value>
+    <value>您想将备份移动到这个新文件夹吗？</value>
   </data>
   <data name="Error checking for new game info" xml:space="preserve">
-    <value>新游戏信息错误检查</value>
+    <value>检查新游戏信息时出错</value>
   </data>
   <data name="Error checking for new version" xml:space="preserve">
-    <value>新版本的错误检查</value>
+    <value>检查新版本时出错</value>
   </data>
   <data name="Exit the game before restoring a save backup." xml:space="preserve">
-    <value>在恢复保存备份前退出游戏。</value>
+    <value>在恢复存档备份前请退出游戏。</value>
   </data>
   <data name="Export save files as plaintext" xml:space="preserve">
     <value>导出保存文件</value>
@@ -250,7 +250,7 @@
     <value>无效文件夹</value>
   </data>
   <data name="InvalidBackupFolderNoBackupsInSaves" xml:space="preserve">
-    <value>无效文件夹：备份文件夹不能是游戏的保存文件夹。</value>
+    <value>无效文件夹：备份文件夹不能是游戏的存档文件夹。</value>
   </data>
   <data name="InvalidGameFolder" xml:space="preserve">
     <value>文件夹无效：选择遗迹2的安装位置。</value>
@@ -262,7 +262,7 @@
     <value>无效文件夹：请选择备份文件夹以外的文件夹。</value>
   </data>
   <data name="Keep" xml:space="preserve">
-    <value>保持</value>
+    <value>保留</value>
   </data>
   <data name="Last backup save date" xml:space="preserve">
     <value>最后备份日期</value>
@@ -280,7 +280,7 @@
     <value>自上次备份后必须经过的最短时间，然后才能进行新的备份</value>
   </data>
   <data name="lblMissingItemColor_Content" xml:space="preserve">
-    <value>世界分析仪缺少项目颜色</value>
+    <value>世界分析器中未取得物品的颜色</value>
   </data>
   <data name="lblStartPage_Text" xml:space="preserve">
     <value>起始页</value>
@@ -289,7 +289,7 @@
     <value>应用程序启动时加载哪个页面</value>
   </data>
   <data name="Light" xml:space="preserve">
-    <value>明亮</value>
+    <value>浅色</value>
   </data>
   <data name="Location" xml:space="preserve">
     <value>位置</value>
@@ -301,10 +301,10 @@
     <value>一切</value>
   </data>
   <data name="menuRestoreCharacters_Header" xml:space="preserve">
-    <value>仅限角色</value>
+    <value>仅角色</value>
   </data>
   <data name="menuRestoreWorlds_Header" xml:space="preserve">
-    <value>仅限世界</value>
+    <value>仅世界</value>
   </data>
   <data name="menuRestore_Header" xml:space="preserve">
     <value>恢复备份</value>
@@ -319,7 +319,7 @@
     <value>名称</value>
   </data>
   <data name="New version available!" xml:space="preserve">
-    <value>新版本可用！</value>
+    <value>可以更新到新版本！</value>
   </data>
   <data name="Normal" xml:space="preserve">
     <value>正常</value>
@@ -376,7 +376,7 @@
     <value>生存</value>
   </data>
   <data name="Text_Highlight" xml:space="preserve">
-    <value>亮点</value>
+    <value>强调</value>
   </data>
   <data name="Text_Normal" xml:space="preserve">
     <value>正常</value>

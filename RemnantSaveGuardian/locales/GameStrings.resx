@@ -129,15 +129,6 @@
   <data name="AllFatherStory" xml:space="preserve">
     <value>全能之父</value>
   </data>
-  <data name="Amulet_01" xml:space="preserve">
-    <value>{Amulet_KineticShieldExchanger}</value>
-  </data>
-  <data name="Amulet_02" xml:space="preserve">
-    <value>{Amulet_InertOvercharger}</value>
-  </data>
-  <data name="Amulet_03" xml:space="preserve">
-    <value>{Amulet_EmergencySwitch}</value>
-  </data>
   <data name="Amulet_AbrasiveWhetstone" xml:space="preserve">
     <value>腐蚀磨石</value>
   </data>
@@ -459,9 +450,6 @@
   <data name="FaelinFaerlin" xml:space="preserve">
     <value>翡凌</value>
   </data>
-  <data name="FaelinFaerlin_POI" xml:space="preserve">
-    <value>翡凌 / 翡麟</value>
-  </data>
   <data name="Faerin" xml:space="preserve">
     <value>翡麟</value>
   </data>
@@ -476,9 +464,6 @@
   </data>
   <data name="ForgottenField" xml:space="preserve">
     <value>忘却之地</value>
-  </data>
-  <data name="Gems" xml:space="preserve">
-    <value>突变因子</value>
   </data>
   <data name="GoldenHall_Nimue" xml:space="preserve">
     <value>尼姆埃的隐居所</value>
@@ -624,9 +609,6 @@
   <data name="MetaGem_VengefulStrike" xml:space="preserve">
     <value>复仇女神</value>
   </data>
-  <data name="Mod_AstralBurst" xml:space="preserve">
-    <value>星辰爆裂</value>
-  </data>
   <data name="Mod_BloodDraw" xml:space="preserve">
     <value>血引</value>
   </data>
@@ -647,9 +629,6 @@
   </data>
   <data name="Mod_Fargazer" xml:space="preserve">
     <value>千里眼</value>
-  </data>
-  <data name="Mod_Firestorm" xml:space="preserve">
-    <value>火焰风暴</value>
   </data>
   <data name="Mod_Helix" xml:space="preserve">
     <value>螺旋飞弹</value>
@@ -1212,9 +1191,6 @@
   <data name="SewageFacility" xml:space="preserve">
     <value>被淹没的房间</value>
   </data>
-  <data name="Sewer" xml:space="preserve">
-    <value>淹没的下水道</value>
-  </data>
   <data name="SideD" xml:space="preserve">
     <value>地牢</value>
   </data>
@@ -1230,7 +1206,7 @@
   <data name="TalRatha" xml:space="preserve">
     <value>达拉裟</value>
   </data>
-  <data name="TheTwistedChantry" xml:space="preserve">
+  <data name="The Twisted Chantry" xml:space="preserve">
     <value>扭曲教堂</value>
   </data>
   <data name="TheCustodian" xml:space="preserve">
@@ -1542,6 +1518,93 @@
   <data name="World_RootEarth" xml:space="preserve">
     <value>根蔓地球</value>
   </data>
+  <data name="Amulets" xml:space="preserve">
+    <value>项链</value>
+  </data>
+  <data name="Armor" xml:space="preserve">
+    <value>护甲</value>
+  </data>
+  <data name="BoneHarvesterLair" xml:space="preserve">
+    <value>白骨收获者巢穴</value>
+  </data>
+  <data name="Engrams" xml:space="preserve">
+    <value>心痕</value>
+  </data>
+  <data name="Gems" xml:space="preserve">
+    <value>突变因子</value>
+  </data>
+  <data name="Materials" xml:space="preserve">
+    <value>材料</value>
+  </data>
+  <data name="Mods" xml:space="preserve">
+    <value>模组</value>
+  </data>
+  <data name="Mod_AstralBurst" xml:space="preserve">
+    <value>星辰爆裂</value>
+  </data>
+  <data name="Mod_Firestorm" xml:space="preserve">
+    <value>火焰风暴</value>
+  </data>
+  <data name="Mutators" xml:space="preserve">
+    <value>REPLACE</value>
+  </data>
+  <data name="Quests" xml:space="preserve">
+    <value>REPLACE</value>
+  </data>
+  <data name="Quest_Global_TheHunterDream_Template01" xml:space="preserve">
+    <value>REPLACE</value>
+  </data>
+  <data name="Quest_Story_AllFather_DranCity1_Template" xml:space="preserve">
+    <value>REPLACE</value>
+  </data>
+  <data name="Quest_Story_AllFather_DranCity2_Template" xml:space="preserve">
+    <value>REPLACE</value>
+  </data>
+  <data name="Quest_Story_Empress_Zone01_Template01" xml:space="preserve">
+    <value>REPLACE</value>
+  </data>
+  <data name="Relic" xml:space="preserve">
+    <value>圣物</value>
+  </data>
+  <data name="Rings" xml:space="preserve">
+    <value>戒指</value>
+  </data>
+  <data name="Ring_CelerityStone" xml:space="preserve">
+    <value>迅捷之石</value>
+  </data>
+  <data name="Ring_ShaedBloomCrystal" xml:space="preserve">
+    <value>REPLACE</value>
+  </data>
+  <data name="RisingTides" xml:space="preserve">
+    <value>涨水</value>
+  </data>
+  <data name="TheSafe" xml:space="preserve">
+    <value>安全</value>
+  </data>
+  <data name="Traits" xml:space="preserve">
+    <value>特性</value>
+  </data>
+  <data name="Weapons" xml:space="preserve">
+    <value>武器</value>
+  </data>
+  <data name="Amulet_01" xml:space="preserve">
+    <value>{Amulet_KineticShieldExchanger}</value>
+  </data>
+  <data name="Amulet_02" xml:space="preserve">
+    <value>{Amulet_InertOvercharger}</value>
+  </data>
+  <data name="Amulet_03" xml:space="preserve">
+    <value>{Amulet_EmergencySwitch}</value>
+  </data>
+  <data name="FaelinFaerlin_POI" xml:space="preserve">
+    <value>翡凌 / 翡麟</value>
+  </data>
+  <data name="Sewer" xml:space="preserve">
+    <value>淹没的下水道</value>
+  </data>
+  <data name="TheTwistedChantry" xml:space="preserve">
+    <value>扭曲教堂</value>
+  </data>
   <data name="Widow's Court" xml:space="preserve">
     <value>红寡妇王庭</value>
   </data>
@@ -1758,9 +1821,6 @@
   <data name="Retreat's Horizon" xml:space="preserve">
     <value>隐居所的地平线</value>
   </data>
-  <data name="The Twisted Chantry" xml:space="preserve">
-    <value>扭曲教堂</value>
-  </data>
   <data name="Foesaken Quarter" xml:space="preserve">
     <value>废弃区</value>
   </data>
@@ -1785,14 +1845,8 @@
   <data name="Alepsis" xml:space="preserve">
     <value>阿莱普西斯</value>
   </data>
-  <data name="Amulets" xml:space="preserve">
-    <value>项链</value>
-  </data>
   <data name="Arcanist" xml:space="preserve">
     <value>奥术师?</value>
-  </data>
-  <data name="Armor" xml:space="preserve">
-    <value>护甲</value>
   </data>
   <data name="AshenWasteland" xml:space="preserve">
     <value>灰烬荒原</value>
@@ -1802,9 +1856,6 @@
   </data>
   <data name="BloatKing" xml:space="preserve">
     <value>腐胀之王</value>
-  </data>
-  <data name="BoneHarvesterLair" xml:space="preserve">
-    <value>白骨收获者巢穴</value>
   </data>
   <data name="BurningCity" xml:space="preserve">
     <value>燃烧的城市</value>
@@ -1832,9 +1883,6 @@
   </data>
   <data name="Endaira's End" xml:space="preserve">
     <value>恩达瑞亚的终结</value>
-  </data>
-  <data name="Engrams" xml:space="preserve">
-    <value>心痕</value>
   </data>
   <data name="Extermination" xml:space="preserve">
     <value>灭绝</value>
@@ -1896,17 +1944,11 @@
   <data name="Mantagora" xml:space="preserve">
     <value>曼陀罗</value>
   </data>
-  <data name="Materials" xml:space="preserve">
-    <value>材料</value>
-  </data>
   <data name="Meidra" xml:space="preserve">
     <value>梅德拉</value>
   </data>
   <data name="Merchant" xml:space="preserve">
     <value>商人</value>
-  </data>
-  <data name="Mods" xml:space="preserve">
-    <value>模组</value>
   </data>
   <data name="MotherMind" xml:space="preserve">
     <value>灵智之母</value>
@@ -1931,18 +1973,6 @@
   </data>
   <data name="RedPrince" xml:space="preserve">
     <value>红王子</value>
-  </data>
-  <data name="Relic" xml:space="preserve">
-    <value>圣物</value>
-  </data>
-  <data name="Rings" xml:space="preserve">
-    <value>戒指</value>
-  </data>
-  <data name="Ring_CelerityStone" xml:space="preserve">
-    <value>迅捷之石</value>
-  </data>
-  <data name="RisingTides" xml:space="preserve">
-    <value>涨水</value>
   </data>
   <data name="Seeker" xml:space="preserve">
     <value>追寻者</value>
@@ -1992,9 +2022,6 @@
   <data name="TheNest" xml:space="preserve">
     <value>巢穴</value>
   </data>
-  <data name="TheSafe" xml:space="preserve">
-    <value>安全</value>
-  </data>
   <data name="TheTangle" xml:space="preserve">
     <value>纠缠</value>
   </data>
@@ -2007,9 +2034,6 @@
   <data name="Train" xml:space="preserve">
     <value>火车</value>
   </data>
-  <data name="Traits" xml:space="preserve">
-    <value>特性</value>
-  </data>
   <data name="Type" xml:space="preserve">
     <value>类型</value>
   </data>
@@ -2018,9 +2042,6 @@
   </data>
   <data name="WailingField" xml:space="preserve">
     <value>恸哭之地</value>
-  </data>
-  <data name="Weapons" xml:space="preserve">
-    <value>武器</value>
   </data>
   <data name="Wither" xml:space="preserve">
     <value>凋零</value>

@@ -45,8 +45,11 @@ jobs:
       env:
         Configuration: ${{ matrix.configuration }}
 
+    - name: echo Desktop
+      run: echo $env:HOMEPATH\Desktop\RemnantSaveGuardian.zip
+      
     - name: Upload build artifacts
       uses: actions/upload-artifact@v3
       with:
         name: Zip Package
-        path: $env:userprofile\Desktop\RemnantSaveGuardian.zip
+        path: $env:HOMEPATH\Desktop\RemnantSaveGuardian.zip

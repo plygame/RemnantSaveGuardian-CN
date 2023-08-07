@@ -10,7 +10,7 @@ jobs:
   build:
     strategy:
       matrix:
-        configuration: [Debug, Release]
+        configuration: [Release]
 
     runs-on: windows-latest
 
@@ -41,7 +41,7 @@ jobs:
 
     # Create the app package by building and packaging the Windows Application Packaging project
     - name: Build
-      run: msbuild $env:Solution_Name /t:Build /p:Configuration=$env:Configuratio /p:Platform="Any CPU"
+      run: msbuild $env:Solution_Name
       env:
         Configuration: ${{ matrix.configuration }}
 

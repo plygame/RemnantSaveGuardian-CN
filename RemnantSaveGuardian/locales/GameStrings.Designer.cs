@@ -1033,6 +1033,15 @@ namespace RemnantSaveGuardian.locales {
         }
         
         /// <summary>
+        ///   查找类似 喜乐宫 的本地化字符串。
+        /// </summary>
+        public static string Beatific_Palace {
+            get {
+                return ResourceManager.GetString("Beatific Palace", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   查找类似 大厅火焰 的本地化字符串。
         /// </summary>
         public static string BlackAndWhite {
@@ -1560,6 +1569,15 @@ namespace RemnantSaveGuardian.locales {
         public static string ForgottenField {
             get {
                 return ResourceManager.GetString("ForgottenField", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   查找类似 突变因子 的本地化字符串。
+        /// </summary>
+        public static string Gems {
+            get {
+                return ResourceManager.GetString("Gems", resourceCulture);
             }
         }
         
@@ -2455,7 +2473,7 @@ namespace RemnantSaveGuardian.locales {
         }
         
         /// <summary>
-        ///   查找类似 模组 的本地化字符串。
+        ///   查找类似 改装 的本地化字符串。
         /// </summary>
         public static string Mods {
             get {

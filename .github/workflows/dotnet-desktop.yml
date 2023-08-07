@@ -49,4 +49,4 @@ jobs:
       uses: actions/upload-artifact@v3
       with:
         name: Zip Package
-        path: %HOMEPATH%\Desktop\RemnantSaveGuardian.zip
+        path: ${{ env.userprofile }}\Desktop\RemnantSaveGuardian.zip

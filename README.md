@@ -11,18 +11,20 @@
 3. 将最新版本解压缩到任意文件夹中（可以不用解压到游戏目录）
 4. 运行 RemnantSaveGuardian.exe
 
+## 汉化补丁
+1. 新增单独的汉化补丁, 可用于汉化[原版 Remnant Save Guardian](https://github.com/Razzmatazzz/RemnantSaveGuardian)
+2. [下载汉化补丁](https://github.com/plygame/RemnantSaveGuardian-CN/releases/download/1.0.1.8/zh-cn_patch.zip)
+3. 解压缩汉化补丁(zh-cn_patch.zip), 移动zh-CN文件夹原版的根目录
+4. 注意系统时区需要是中国
+5. 运行原版的 RemnantSaveGuardian.exe
+
 ## 已知问题
 - [某些项目错误地显示为缺失](https://github.com/Razzmatazzz/RemnantSaveGuardian/issues/16)
 - [某些事件和物品没有良好的格式化的名称](https://github.com/Razzmatazzz/RemnantSaveGuardian/issues/9)
 - [某些事件(特别是Boss)显示错误](https://github.com/Razzmatazzz/RemnantSaveGuardian/issues/12)
 - [某些事件是重复的](https://github.com/Razzmatazzz/RemnantSaveGuardian/issues/14)
 
-## 汉化补丁
-- 新增单独的汉化补丁, 可用于汉化[原版 Remnant Save Guardian](https://github.com/Razzmatazzz/RemnantSaveGuardian)
-- [下载汉化补丁](https://github.com/plygame/RemnantSaveGuardian-CN/releases/download/1.0.1.8/zh-cn_patch.zip)
-- 解压缩汉化补丁(zh-cn_patch.zip), 移动zh-CN文件夹原版的根目录
-- 注意系统时区需要是中国
-- 运行原版的 RemnantSaveGuardian.exe
+
 
 Thanks for @crackedmind for the inflation code to convert saves into partial plaintext. 
 

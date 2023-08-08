@@ -14,7 +14,7 @@
 ## 汉化补丁
 1. 新增单独的汉化补丁, 可用于汉化[原版 Remnant Save Guardian](https://github.com/Razzmatazzz/RemnantSaveGuardian)
 2. [下载汉化补丁](https://github.com/plygame/RemnantSaveGuardian-CN/releases/download/1.0.1.8/zh-cn_patch.zip)
-3. 解压缩汉化补丁(zh-cn_patch.zip), 移动zh-CN文件夹原版的根目录
+3. 解压缩汉化补丁(`zh-cn_patch.zip`), 移动zh-CN文件夹到原版的根目录
 4. 注意系统时区需要是中国
 5. 运行原版的 RemnantSaveGuardian.exe
 

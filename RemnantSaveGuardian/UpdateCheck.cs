@@ -11,7 +11,7 @@ namespace RemnantSaveGuardian
 {
     internal class UpdateCheck
     {
-        private static string repo = "Razzmatazzz/RemnantSaveGuardian";
+        private static string repo = "plygame/RemnantSaveGuardian-CN";
         private static readonly HttpClient client = new();
         private static DateTime lastUpdateCheck = DateTime.MinValue;
 
@@ -43,7 +43,7 @@ namespace RemnantSaveGuardian
                     NewVersion?.Invoke(null, new() { Version = remoteVersion, Uri = new(latestRelease["html_url"].ToString()) });
                     if (OpenDownloadPage)
                     {
-                        Process.Start("explorer", "https://github.com/Razzmatazzz/RemnantSaveGuardian/releases/latest");
+                        Process.Start("explorer", $"https://github.com/{repo}/releases/latest");
                     }
                 }
             }

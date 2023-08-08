@@ -35,14 +35,14 @@
 
   <ItemGroup>
     <Compile Update="locales\GameStrings.Designer.cs">
-      <DependentUpon>GameStrings.resx</DependentUpon>
       <DesignTime>True</DesignTime>
       <AutoGen>True</AutoGen>
+      <DependentUpon>GameStrings.resx</DependentUpon>
     </Compile>
     <Compile Update="locales\Strings.Designer.cs">
-      <DependentUpon>Strings.resx</DependentUpon>
       <DesignTime>True</DesignTime>
       <AutoGen>True</AutoGen>
+      <DependentUpon>Strings.resx</DependentUpon>
     </Compile>
     <Compile Update="Properties\Resources.Designer.cs">
       <DesignTime>True</DesignTime>

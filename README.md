@@ -3,7 +3,7 @@
 
 **该项目是一项正在进行的工作。许多功能被破坏或部分实现。**
 
-## 点击[这里下载](https://github.com/plygame/RemnantSaveGuardian-CN/releases/download/1.0.1.8/RemnantSaveGuardian.zip)
+## 点击[这里下载](https://github.com/plygame/RemnantSaveGuardian-CN/releases/download/1.0.1.9/RemnantSaveGuardian.zip)
 
 ## 安装
 1. 下载并安装[Microsoft .NET Framework 4.8](https://dotnet.microsoft.com/en-us/download/dotnet-framework)
@@ -13,7 +13,7 @@
 
 ## 汉化补丁
 1. 新增单独的汉化补丁, 可用于汉化[原版 Remnant Save Guardian](https://github.com/Razzmatazzz/RemnantSaveGuardian)
-2. [下载汉化补丁](https://github.com/plygame/RemnantSaveGuardian-CN/releases/download/1.0.1.8/zh-cn_patch.zip)
+2. [下载汉化补丁](https://github.com/plygame/RemnantSaveGuardian-CN/releases/download/1.0.1.9/zh-cn_patch.zip)
 3. 解压缩汉化补丁(`zh-cn_patch.zip`), 移动zh-CN文件夹到原版的根目录
 4. 注意系统时区需要是中国
 5. 运行原版的 RemnantSaveGuardian.exe

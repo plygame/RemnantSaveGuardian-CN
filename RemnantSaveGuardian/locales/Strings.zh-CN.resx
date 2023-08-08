@@ -199,7 +199,7 @@
     <value>复制</value>
   </data>
   <data name="Could not find save file location; please set manually" xml:space="preserve">
-    <value>找不到保存文件的位置; 请手动设置</value>
+    <value>找不到存档文件的位置; 请手动设置</value>
   </data>
   <data name="Dark" xml:space="preserve">
     <value>黑暗</value>
@@ -226,7 +226,7 @@
     <value>在恢复存档备份前请退出游戏。</value>
   </data>
   <data name="Export save files as plaintext" xml:space="preserve">
-    <value>导出保存文件</value>
+    <value>导出存档文件</value>
   </data>
   <data name="Game Folder" xml:space="preserve">
     <value>游戏文件夹</value>
@@ -250,7 +250,7 @@
     <value>无效文件夹</value>
   </data>
   <data name="InvalidBackupFolderNoBackupsInSaves" xml:space="preserve">
-    <value>无效文件夹：备份文件夹不能是游戏的存档文件夹。</value>
+    <value>文件夹无效：备份文件夹不能是游戏的存档文件夹。</value>
   </data>
   <data name="InvalidGameFolder" xml:space="preserve">
     <value>文件夹无效：选择遗迹2的安装位置。</value>
@@ -328,7 +328,7 @@
     <value>打开文件夹</value>
   </data>
   <data name="Open wiki" xml:space="preserve">
-    <value>打开wiki(非英文打不开)</value>
+    <value>打开wiki</value>
   </data>
   <data name="Possible Items" xml:space="preserve">
     <value>可能的项目</value>
@@ -340,7 +340,7 @@
     <value>处理存档件更改</value>
   </data>
   <data name="Progression" xml:space="preserve">
-    <value>状态</value>
+    <value>进度</value>
   </data>
   <data name="Red" xml:space="preserve">
     <value>红色</value>
@@ -348,14 +348,17 @@
   <data name="Save Backups" xml:space="preserve">
     <value>存档备份</value>
   </data>
+  <data name="Save change detected; waiting {numMinutes} minutes until next backup" xml:space="preserve">
+    <value>检测到存档改变；距离下次备份还有 {numMinutes} 分钟</value>
+  </data>
   <data name="Save file in use; waiting 0.5 seconds and retrying." xml:space="preserve">
-    <value>存档使用中的文件；等待 0.5 秒后重试。</value>
+    <value>存档文件正在使用中；等待 0.5 秒后重试。</value>
   </data>
   <data name="Save Folder" xml:space="preserve">
     <value>存档文件夹</value>
   </data>
   <data name="Save plaintext data" xml:space="preserve">
-    <value>存档明文数据</value>
+    <value>存储纯文本数据</value>
   </data>
   <data name="SaveDate" xml:space="preserve">
     <value>存档日期</value>

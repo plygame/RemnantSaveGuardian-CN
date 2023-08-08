@@ -8,10 +8,11 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace RemnantSaveGuardian.locales {
+namespace RemnantSaveGuardian.locales
+{
     using System;
-    
-    
+
+
     /// <summary>
     ///   一个强类型的资源类，用于查找本地化的字符串等。
     /// </summary>
@@ -22,4963 +23,6065 @@ namespace RemnantSaveGuardian.locales {
     [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Resources.Tools.StronglyTypedResourceBuilder", "17.0.0.0")]
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
     [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
-    public class GameStrings {
-        
+    public class GameStrings
+    {
+
         private static global::System.Resources.ResourceManager resourceMan;
-        
+
         private static global::System.Globalization.CultureInfo resourceCulture;
-        
+
         [global::System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1811:AvoidUncalledPrivateCode")]
-        internal GameStrings() {
+        internal GameStrings()
+        {
         }
-        
+
         /// <summary>
         ///   返回此类使用的缓存的 ResourceManager 实例。
         /// </summary>
         [global::System.ComponentModel.EditorBrowsableAttribute(global::System.ComponentModel.EditorBrowsableState.Advanced)]
-        public static global::System.Resources.ResourceManager ResourceManager {
-            get {
-                if (object.ReferenceEquals(resourceMan, null)) {
+        public static global::System.Resources.ResourceManager ResourceManager
+        {
+            get
+            {
+                if (object.ReferenceEquals(resourceMan, null))
+                {
                     global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("RemnantSaveGuardian.locales.GameStrings", typeof(GameStrings).Assembly);
                     resourceMan = temp;
                 }
                 return resourceMan;
             }
         }
-        
+
         /// <summary>
         ///   重写当前线程的 CurrentUICulture 属性，对
         ///   使用此强类型资源类的所有资源查找执行重写。
         /// </summary>
         [global::System.ComponentModel.EditorBrowsableAttribute(global::System.ComponentModel.EditorBrowsableState.Advanced)]
-        public static global::System.Globalization.CultureInfo Culture {
-            get {
+        public static global::System.Globalization.CultureInfo Culture
+        {
+            get
+            {
                 return resourceCulture;
             }
-            set {
+            set
+            {
                 resourceCulture = value;
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Abandoned Ruins 的本地化字符串。
         /// </summary>
-        public static string AbandonedRuins {
-            get {
+        public static string AbandonedRuins
+        {
+            get
+            {
                 return ResourceManager.GetString("AbandonedRuins", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 The Executioner 的本地化字符串。
         /// </summary>
-        public static string AboveBelow {
-            get {
+        public static string AboveBelow
+        {
+            get
+            {
                 return ResourceManager.GetString("AboveBelow", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Alchemist 的本地化字符串。
         /// </summary>
-        public static string Alchemist {
-            get {
+        public static string Alchemist
+        {
+            get
+            {
                 return ResourceManager.GetString("Alchemist", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 {AllFatherStory} 的本地化字符串。
         /// </summary>
-        public static string AllFather {
-            get {
+        public static string AllFather
+        {
+            get
+            {
                 return ResourceManager.GetString("AllFather", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Jester 的本地化字符串。
         /// </summary>
-        public static string AllFatherStory {
-            get {
+        public static string AllFatherStory
+        {
+            get
+            {
                 return ResourceManager.GetString("AllFatherStory", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 {Amulet_KineticShieldExchanger} 的本地化字符串。
         /// </summary>
-        public static string Amulet_01 {
-            get {
+        public static string Amulet_01
+        {
+            get
+            {
                 return ResourceManager.GetString("Amulet_01", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 {Amulet_InertOvercharger} 的本地化字符串。
         /// </summary>
-        public static string Amulet_02 {
-            get {
+        public static string Amulet_02
+        {
+            get
+            {
                 return ResourceManager.GetString("Amulet_02", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 {Amulet_EmergencySwitch} 的本地化字符串。
         /// </summary>
-        public static string Amulet_03 {
-            get {
+        public static string Amulet_03
+        {
+            get
+            {
                 return ResourceManager.GetString("Amulet_03", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Abrasive Whetstone 的本地化字符串。
         /// </summary>
-        public static string Amulet_AbrasiveWhetstone {
-            get {
+        public static string Amulet_AbrasiveWhetstone
+        {
+            get
+            {
                 return ResourceManager.GetString("Amulet_AbrasiveWhetstone", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Ankh of Power 的本地化字符串。
         /// </summary>
-        public static string Amulet_AnkhOfPower {
-            get {
+        public static string Amulet_AnkhOfPower
+        {
+            get
+            {
                 return ResourceManager.GetString("Amulet_AnkhOfPower", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Broken Pocket Watch 的本地化字符串。
         /// </summary>
-        public static string Amulet_BrokenPocketWatch {
-            get {
+        public static string Amulet_BrokenPocketWatch
+        {
+            get
+            {
                 return ResourceManager.GetString("Amulet_BrokenPocketWatch", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Butcher&apos;s Fetish 的本地化字符串。
         /// </summary>
-        public static string Amulet_ButchersFetish {
-            get {
+        public static string Amulet_ButchersFetish
+        {
+            get
+            {
                 return ResourceManager.GetString("Amulet_ButchersFetish", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Chains of Amplification 的本地化字符串。
         /// </summary>
-        public static string Amulet_ChainsOfAmplification {
-            get {
+        public static string Amulet_ChainsOfAmplification
+        {
+            get
+            {
                 return ResourceManager.GetString("Amulet_ChainsOfAmplification", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Cleansing Stone 的本地化字符串。
         /// </summary>
-        public static string Amulet_CleansingStone {
-            get {
+        public static string Amulet_CleansingStone
+        {
+            get
+            {
                 return ResourceManager.GetString("Amulet_CleansingStone", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Core Booster 的本地化字符串。
         /// </summary>
-        public static string Amulet_CoreBooster {
-            get {
+        public static string Amulet_CoreBooster
+        {
+            get
+            {
                 return ResourceManager.GetString("Amulet_CoreBooster", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Daredevil&apos;s Charm 的本地化字符串。
         /// </summary>
-        public static string Amulet_DaredevilsCharm {
-            get {
+        public static string Amulet_DaredevilsCharm
+        {
+            get
+            {
                 return ResourceManager.GetString("Amulet_DaredevilsCharm", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Death&apos;s Embrace 的本地化字符串。
         /// </summary>
-        public static string Amulet_DeathsEmbrace {
-            get {
+        public static string Amulet_DeathsEmbrace
+        {
+            get
+            {
                 return ResourceManager.GetString("Amulet_DeathsEmbrace", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Decayed Margin 的本地化字符串。
         /// </summary>
-        public static string Amulet_DecayedMargin {
-            get {
+        public static string Amulet_DecayedMargin
+        {
+            get
+            {
                 return ResourceManager.GetString("Amulet_DecayedMargin", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Detonation Trigger 的本地化字符串。
         /// </summary>
-        public static string Amulet_DetonationTrigger {
-            get {
+        public static string Amulet_DetonationTrigger
+        {
+            get
+            {
                 return ResourceManager.GetString("Amulet_DetonationTrigger", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Difference Engine 的本地化字符串。
         /// </summary>
-        public static string Amulet_DifferenceEngine {
-            get {
+        public static string Amulet_DifferenceEngine
+        {
+            get
+            {
                 return ResourceManager.GetString("Amulet_DifferenceEngine", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Downward Spiral 的本地化字符串。
         /// </summary>
-        public static string Amulet_DownwardSpiral {
-            get {
+        public static string Amulet_DownwardSpiral
+        {
+            get
+            {
                 return ResourceManager.GetString("Amulet_DownwardSpiral", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Effigy Pendant 的本地化字符串。
         /// </summary>
-        public static string Amulet_EffigyPendant {
-            get {
+        public static string Amulet_EffigyPendant
+        {
+            get
+            {
                 return ResourceManager.GetString("Amulet_EffigyPendant", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Effluvium Enhancer 的本地化字符串。
         /// </summary>
-        public static string Amulet_EffluviumEnhancer {
-            get {
+        public static string Amulet_EffluviumEnhancer
+        {
+            get
+            {
                 return ResourceManager.GetString("Amulet_EffluviumEnhancer", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Emergency Switch 的本地化字符串。
         /// </summary>
-        public static string Amulet_EmergencySwitch {
-            get {
+        public static string Amulet_EmergencySwitch
+        {
+            get
+            {
                 return ResourceManager.GetString("Amulet_EmergencySwitch", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Energized Neck Coil 的本地化字符串。
         /// </summary>
-        public static string Amulet_EnergizedNeckCoil {
-            get {
+        public static string Amulet_EnergizedNeckCoil
+        {
+            get
+            {
                 return ResourceManager.GetString("Amulet_EnergizedNeckCoil", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Energy Diverter 的本地化字符串。
         /// </summary>
-        public static string Amulet_EnergyDiverter {
-            get {
+        public static string Amulet_EnergyDiverter
+        {
+            get
+            {
                 return ResourceManager.GetString("Amulet_EnergyDiverter", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Escalation Protocol 的本地化字符串。
         /// </summary>
-        public static string Amulet_EscalationProtocol {
-            get {
+        public static string Amulet_EscalationProtocol
+        {
+            get
+            {
                 return ResourceManager.GetString("Amulet_EscalationProtocol", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Full Moon Circlet 的本地化字符串。
         /// </summary>
-        public static string Amulet_FullMoonCirclet {
-            get {
+        public static string Amulet_FullMoonCirclet
+        {
+            get
+            {
                 return ResourceManager.GetString("Amulet_FullMoonCirclet", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Golden Ribbon 的本地化字符串。
         /// </summary>
-        public static string Amulet_GoldenRibbon {
-            get {
+        public static string Amulet_GoldenRibbon
+        {
+            get
+            {
                 return ResourceManager.GetString("Amulet_GoldenRibbon", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Gunfire Security Lanyard 的本地化字符串。
         /// </summary>
-        public static string Amulet_GunfireSecurityLanyard {
-            get {
+        public static string Amulet_GunfireSecurityLanyard
+        {
+            get
+            {
                 return ResourceManager.GetString("Amulet_GunfireSecurityLanyard", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Gunslinger&apos;s Charm 的本地化字符串。
         /// </summary>
-        public static string Amulet_GunslingersCharm {
-            get {
+        public static string Amulet_GunslingersCharm
+        {
+            get
+            {
                 return ResourceManager.GetString("Amulet_GunslingersCharm", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Hallowed Egg 的本地化字符串。
         /// </summary>
-        public static string Amulet_HallowedEgg {
-            get {
+        public static string Amulet_HallowedEgg
+        {
+            get
+            {
                 return ResourceManager.GetString("Amulet_HallowedEgg", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Hyperconductor 的本地化字符串。
         /// </summary>
-        public static string Amulet_Hyperconductor {
-            get {
+        public static string Amulet_Hyperconductor
+        {
+            get
+            {
                 return ResourceManager.GetString("Amulet_Hyperconductor", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Indignant Fetish 的本地化字符串。
         /// </summary>
-        public static string Amulet_IndignantFetish {
-            get {
+        public static string Amulet_IndignantFetish
+        {
+            get
+            {
                 return ResourceManager.GetString("Amulet_IndignantFetish", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Inert Overcharger 的本地化字符串。
         /// </summary>
-        public static string Amulet_InertOvercharger {
-            get {
+        public static string Amulet_InertOvercharger
+        {
+            get
+            {
                 return ResourceManager.GetString("Amulet_InertOvercharger", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Insulation Driver 的本地化字符串。
         /// </summary>
-        public static string Amulet_InsulationDriver {
-            get {
+        public static string Amulet_InsulationDriver
+        {
+            get
+            {
                 return ResourceManager.GetString("Amulet_InsulationDriver", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Jester&apos;s Bell 的本地化字符串。
         /// </summary>
-        public static string Amulet_JestersBell {
-            get {
+        public static string Amulet_JestersBell
+        {
+            get
+            {
                 return ResourceManager.GetString("Amulet_JestersBell", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Kinetic Shield Exchanger 的本地化字符串。
         /// </summary>
-        public static string Amulet_KineticShieldExchanger {
-            get {
+        public static string Amulet_KineticShieldExchanger
+        {
+            get
+            {
                 return ResourceManager.GetString("Amulet_KineticShieldExchanger", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 {Amulet_KuriKuriCharm} 的本地化字符串。
         /// </summary>
-        public static string Amulet_KoaraKuri {
-            get {
+        public static string Amulet_KoaraKuri
+        {
+            get
+            {
                 return ResourceManager.GetString("Amulet_KoaraKuri", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Kuri Kuri Charm 的本地化字符串。
         /// </summary>
-        public static string Amulet_KuriKuriCharm {
-            get {
+        public static string Amulet_KuriKuriCharm
+        {
+            get
+            {
                 return ResourceManager.GetString("Amulet_KuriKuriCharm", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Laemir Censer 的本地化字符串。
         /// </summary>
-        public static string Amulet_LaemirCenser {
-            get {
+        public static string Amulet_LaemirCenser
+        {
+            get
+            {
                 return ResourceManager.GetString("Amulet_LaemirCenser", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Leto&apos;s Amulet 的本地化字符串。
         /// </summary>
-        public static string Amulet_LetosAmulet {
-            get {
+        public static string Amulet_LetosAmulet
+        {
+            get
+            {
                 return ResourceManager.GetString("Amulet_LetosAmulet", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Matriarch&apos;s Insignia 的本地化字符串。
         /// </summary>
-        public static string Amulet_MatriarchsInsignia {
-            get {
+        public static string Amulet_MatriarchsInsignia
+        {
+            get
+            {
                 return ResourceManager.GetString("Amulet_MatriarchsInsignia", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Navigator&apos;s Pendant 的本地化字符串。
         /// </summary>
-        public static string Amulet_NavigatorsPendant {
-            get {
+        public static string Amulet_NavigatorsPendant
+        {
+            get
+            {
                 return ResourceManager.GetString("Amulet_NavigatorsPendant", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Neckbone Necklace 的本地化字符串。
         /// </summary>
-        public static string Amulet_NeckboneNecklace {
-            get {
+        public static string Amulet_NeckboneNecklace
+        {
+            get
+            {
                 return ResourceManager.GetString("Amulet_NeckboneNecklace", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Necklace of Flowing Life 的本地化字符串。
         /// </summary>
-        public static string Amulet_NecklaceOfFlowingLife {
-            get {
+        public static string Amulet_NecklaceOfFlowingLife
+        {
+            get
+            {
                 return ResourceManager.GetString("Amulet_NecklaceOfFlowingLife", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Necklace of Supremacy 的本地化字符串。
         /// </summary>
-        public static string Amulet_NecklaceOfSupremacy {
-            get {
+        public static string Amulet_NecklaceOfSupremacy
+        {
+            get
+            {
                 return ResourceManager.GetString("Amulet_NecklaceOfSupremacy", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Nightweaver&apos;s Grudge 的本地化字符串。
         /// </summary>
-        public static string Amulet_NightweaversGrudge {
-            get {
+        public static string Amulet_NightweaversGrudge
+        {
+            get
+            {
                 return ResourceManager.GetString("Amulet_NightweaversGrudge", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Nimue&apos;s Ribbon 的本地化字符串。
         /// </summary>
-        public static string Amulet_NimuesRibbon {
-            get {
+        public static string Amulet_NimuesRibbon
+        {
+            get
+            {
                 return ResourceManager.GetString("Amulet_NimuesRibbon", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 One-Eyed Joker Idol 的本地化字符串。
         /// </summary>
-        public static string Amulet_OneEyedJokerIdol {
-            get {
+        public static string Amulet_OneEyedJokerIdol
+        {
+            get
+            {
                 return ResourceManager.GetString("Amulet_OneEyedJokerIdol", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 One True King Sigil 的本地化字符串。
         /// </summary>
-        public static string Amulet_OneTrueKingSigil {
-            get {
+        public static string Amulet_OneTrueKingSigil
+        {
+            get
+            {
                 return ResourceManager.GetString("Amulet_OneTrueKingSigil", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Range Finder 的本地化字符串。
         /// </summary>
-        public static string Amulet_RangeFinder {
-            get {
+        public static string Amulet_RangeFinder
+        {
+            get
+            {
                 return ResourceManager.GetString("Amulet_RangeFinder", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Ravager&apos;s Mark 的本地化字符串。
         /// </summary>
-        public static string Amulet_RavagersMark {
-            get {
+        public static string Amulet_RavagersMark
+        {
+            get
+            {
                 return ResourceManager.GetString("Amulet_RavagersMark", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Red Doe Sigil 的本地化字符串。
         /// </summary>
-        public static string Amulet_RedDoeSigil {
-            get {
+        public static string Amulet_RedDoeSigil
+        {
+            get
+            {
                 return ResourceManager.GetString("Amulet_RedDoeSigil", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Rusted Navigator&apos;s Pendant 的本地化字符串。
         /// </summary>
-        public static string Amulet_RustedNavigatorsPendant {
-            get {
+        public static string Amulet_RustedNavigatorsPendant
+        {
+            get
+            {
                 return ResourceManager.GetString("Amulet_RustedNavigatorsPendant", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Samoflange 的本地化字符串。
         /// </summary>
-        public static string Amulet_Samoflange {
-            get {
+        public static string Amulet_Samoflange
+        {
+            get
+            {
                 return ResourceManager.GetString("Amulet_Samoflange", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Scavenger&apos;s Bauble 的本地化字符串。
         /// </summary>
-        public static string Amulet_ScavengersBauble {
-            get {
+        public static string Amulet_ScavengersBauble
+        {
+            get
+            {
                 return ResourceManager.GetString("Amulet_ScavengersBauble", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Shaed Bloom Crystal 的本地化字符串。
         /// </summary>
-        public static string Amulet_ShadeBloomCrystal {
-            get {
+        public static string Amulet_ShadeBloomCrystal
+        {
+            get
+            {
                 return ResourceManager.GetString("Amulet_ShadeBloomCrystal", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Shock Device 的本地化字符串。
         /// </summary>
-        public static string Amulet_ShockDevice {
-            get {
+        public static string Amulet_ShockDevice
+        {
+            get
+            {
                 return ResourceManager.GetString("Amulet_ShockDevice", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Silver Ribbon 的本地化字符串。
         /// </summary>
-        public static string Amulet_SilverRibbon {
-            get {
+        public static string Amulet_SilverRibbon
+        {
+            get
+            {
                 return ResourceManager.GetString("Amulet_SilverRibbon", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Spirit Wisp Amulet 的本地化字符串。
         /// </summary>
-        public static string Amulet_SpiritWispAmulet {
-            get {
+        public static string Amulet_SpiritWispAmulet
+        {
+            get
+            {
                 return ResourceManager.GetString("Amulet_SpiritWispAmulet", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Stalker&apos;s Brand 的本地化字符串。
         /// </summary>
-        public static string Amulet_StalkersBrand {
-            get {
+        public static string Amulet_StalkersBrand
+        {
+            get
+            {
                 return ResourceManager.GetString("Amulet_StalkersBrand", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Talisman of the Sun 的本地化字符串。
         /// </summary>
-        public static string Amulet_TalismanOfTheSun {
-            get {
+        public static string Amulet_TalismanOfTheSun
+        {
+            get
+            {
                 return ResourceManager.GetString("Amulet_TalismanOfTheSun", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Toxic Release Valve 的本地化字符串。
         /// </summary>
-        public static string Amulet_ToxicReleaseValve {
-            get {
+        public static string Amulet_ToxicReleaseValve
+        {
+            get
+            {
                 return ResourceManager.GetString("Amulet_ToxicReleaseValve", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Twisted Idol 的本地化字符串。
         /// </summary>
-        public static string Amulet_TwistedIdol {
-            get {
+        public static string Amulet_TwistedIdol
+        {
+            get
+            {
                 return ResourceManager.GetString("Amulet_TwistedIdol", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Vengeance Idol 的本地化字符串。
         /// </summary>
-        public static string Amulet_VengeanceIdol {
-            get {
+        public static string Amulet_VengeanceIdol
+        {
+            get
+            {
                 return ResourceManager.GetString("Amulet_VengeanceIdol", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Weightless Weight 的本地化字符串。
         /// </summary>
-        public static string Amulet_WeightlessWeight {
-            get {
+        public static string Amulet_WeightlessWeight
+        {
+            get
+            {
                 return ResourceManager.GetString("Amulet_WeightlessWeight", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Amulets 的本地化字符串。
         /// </summary>
-        public static string Amulets {
-            get {
+        public static string Amulets
+        {
+            get
+            {
                 return ResourceManager.GetString("Amulets", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Archon 的本地化字符串。
         /// </summary>
-        public static string Archon {
-            get {
+        public static string Archon
+        {
+            get
+            {
                 return ResourceManager.GetString("Archon", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Area {areaNumber} 的本地化字符串。
         /// </summary>
-        public static string Area__areaNumber_ {
-            get {
+        public static string Area__areaNumber_
+        {
+            get
+            {
                 return ResourceManager.GetString("Area {areaNumber}", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Armor 的本地化字符串。
         /// </summary>
-        public static string Armor {
-            get {
+        public static string Armor
+        {
+            get
+            {
                 return ResourceManager.GetString("Armor", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Alchemist 的本地化字符串。
         /// </summary>
-        public static string Armor_Alchemist {
-            get {
+        public static string Armor_Alchemist
+        {
+            get
+            {
                 return ResourceManager.GetString("Armor_Alchemist", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Archon 的本地化字符串。
         /// </summary>
-        public static string Armor_Archon {
-            get {
+        public static string Armor_Archon
+        {
+            get
+            {
                 return ResourceManager.GetString("Armor_Archon", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Body 的本地化字符串。
         /// </summary>
-        public static string Armor_Body {
-            get {
+        public static string Armor_Body
+        {
+            get
+            {
                 return ResourceManager.GetString("Armor_Body", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Bruiser 的本地化字符串。
         /// </summary>
-        public static string Armor_Challenger {
-            get {
+        public static string Armor_Challenger
+        {
+            get
+            {
                 return ResourceManager.GetString("Armor_Challenger", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Engineer 的本地化字符串。
         /// </summary>
-        public static string Armor_Engineer {
-            get {
+        public static string Armor_Engineer
+        {
+            get
+            {
                 return ResourceManager.GetString("Armor_Engineer", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Explorer 的本地化字符串。
         /// </summary>
-        public static string Armor_Explorer {
-            get {
+        public static string Armor_Explorer
+        {
+            get
+            {
                 return ResourceManager.GetString("Armor_Explorer", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Fae Royal Guard 的本地化字符串。
         /// </summary>
-        public static string Armor_FaeRoyalGuard {
-            get {
+        public static string Armor_FaeRoyalGuard
+        {
+            get
+            {
                 return ResourceManager.GetString("Armor_FaeRoyalGuard", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Gloves 的本地化字符串。
         /// </summary>
-        public static string Armor_Gloves {
-            get {
+        public static string Armor_Gloves
+        {
+            get
+            {
                 return ResourceManager.GetString("Armor_Gloves", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 High Noon 的本地化字符串。
         /// </summary>
-        public static string Armor_Gunslinger {
-            get {
+        public static string Armor_Gunslinger
+        {
+            get
+            {
                 return ResourceManager.GetString("Armor_Gunslinger", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Trainer 的本地化字符串。
         /// </summary>
-        public static string Armor_Handler {
-            get {
+        public static string Armor_Handler
+        {
+            get
+            {
                 return ResourceManager.GetString("Armor_Handler", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Head 的本地化字符串。
         /// </summary>
-        public static string Armor_Head {
-            get {
+        public static string Armor_Head
+        {
+            get
+            {
                 return ResourceManager.GetString("Armor_Head", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Nightstalker 的本地化字符串。
         /// </summary>
-        public static string Armor_Hunter {
-            get {
+        public static string Armor_Hunter
+        {
+            get
+            {
                 return ResourceManager.GetString("Armor_Hunter", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Invader 的本地化字符串。
         /// </summary>
-        public static string Armor_Invader {
-            get {
+        public static string Armor_Invader
+        {
+            get
+            {
                 return ResourceManager.GetString("Armor_Invader", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Legs 的本地化字符串。
         /// </summary>
-        public static string Armor_Legs {
-            get {
+        public static string Armor_Legs
+        {
+            get
+            {
                 return ResourceManager.GetString("Armor_Legs", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Leto Mark II 的本地化字符串。
         /// </summary>
-        public static string Armor_Leto2 {
-            get {
+        public static string Armor_Leto2
+        {
+            get
+            {
                 return ResourceManager.GetString("Armor_Leto2", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Lodestone Crown 的本地化字符串。
         /// </summary>
-        public static string Armor_LodestoneCrown {
-            get {
+        public static string Armor_LodestoneCrown
+        {
+            get
+            {
                 return ResourceManager.GetString("Armor_LodestoneCrown", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Field Medic 的本地化字符串。
         /// </summary>
-        public static string Armor_Medic {
-            get {
+        public static string Armor_Medic
+        {
+            get
+            {
                 return ResourceManager.GetString("Armor_Medic", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Navigator&apos;s Helm 的本地化字符串。
         /// </summary>
-        public static string Armor_PilotsHelm {
-            get {
+        public static string Armor_PilotsHelm
+        {
+            get
+            {
                 return ResourceManager.GetString("Armor_PilotsHelm", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Radiant 的本地化字符串。
         /// </summary>
-        public static string Armor_Radiant {
-            get {
+        public static string Armor_Radiant
+        {
+            get
+            {
                 return ResourceManager.GetString("Armor_Radiant", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Crown of the Red Prince 的本地化字符串。
         /// </summary>
-        public static string Armor_RedPrince {
-            get {
+        public static string Armor_RedPrince
+        {
+            get
+            {
                 return ResourceManager.GetString("Armor_RedPrince", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Red Widow 的本地化字符串。
         /// </summary>
-        public static string Armor_RedWidow {
-            get {
+        public static string Armor_RedWidow
+        {
+            get
+            {
                 return ResourceManager.GetString("Armor_RedWidow", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Space Worker 的本地化字符串。
         /// </summary>
-        public static string Armor_SpaceWorker {
-            get {
+        public static string Armor_SpaceWorker
+        {
+            get
+            {
                 return ResourceManager.GetString("Armor_SpaceWorker", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Summoner 的本地化字符串。
         /// </summary>
-        public static string Armor_Summoner {
-            get {
+        public static string Armor_Summoner
+        {
+            get
+            {
                 return ResourceManager.GetString("Armor_Summoner", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Void 的本地化字符串。
         /// </summary>
-        public static string Armor_Void {
-            get {
+        public static string Armor_Void
+        {
+            get
+            {
                 return ResourceManager.GetString("Armor_Void", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Asylum 的本地化字符串。
         /// </summary>
-        public static string Asylum {
-            get {
+        public static string Asylum
+        {
+            get
+            {
                 return ResourceManager.GetString("Asylum", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Ripsaw 的本地化字符串。
         /// </summary>
-        public static string AsylumChainsaw {
-            get {
+        public static string AsylumChainsaw
+        {
+            get
+            {
                 return ResourceManager.GetString("AsylumChainsaw", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 The Asylum 的本地化字符串。
         /// </summary>
-        public static string AsylumStory {
-            get {
+        public static string AsylumStory
+        {
+            get
+            {
                 return ResourceManager.GetString("AsylumStory", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Bairn&apos;s Crossing 的本地化字符串。
         /// </summary>
-        public static string BairnsCrossing {
-            get {
+        public static string BairnsCrossing
+        {
+            get
+            {
                 return ResourceManager.GetString("BairnsCrossing", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Earth 的本地化字符串。
         /// </summary>
-        public static string Base {
-            get {
+        public static string Base
+        {
+            get
+            {
                 return ResourceManager.GetString("Base", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Beatific Palace 的本地化字符串。
         /// </summary>
-        public static string BeatificPalace {
-            get {
+        public static string BeatificPalace
+        {
+            get
+            {
                 return ResourceManager.GetString("BeatificPalace", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 The Flames 的本地化字符串。
         /// </summary>
-        public static string BlackAndWhite {
-            get {
+        public static string BlackAndWhite
+        {
+            get
+            {
                 return ResourceManager.GetString("BlackAndWhite", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Gravity Anomaly 的本地化字符串。
         /// </summary>
-        public static string BlackHole {
-            get {
+        public static string BlackHole
+        {
+            get
+            {
                 return ResourceManager.GetString("BlackHole", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Bloat King 的本地化字符串。
         /// </summary>
-        public static string BloatKing {
-            get {
+        public static string BloatKing
+        {
+            get
+            {
                 return ResourceManager.GetString("BloatKing", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Blood Moon Altar 的本地化字符串。
         /// </summary>
-        public static string BloodMoon {
-            get {
+        public static string BloodMoon
+        {
+            get
+            {
                 return ResourceManager.GetString("BloodMoon", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Monster in the Drain 的本地化字符串。
         /// </summary>
-        public static string BoneHarvesterLair {
-            get {
+        public static string BoneHarvesterLair
+        {
+            get
+            {
                 return ResourceManager.GetString("BoneHarvesterLair", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Brabus 的本地化字符串。
         /// </summary>
-        public static string Brabus {
-            get {
+        public static string Brabus
+        {
+            get
+            {
                 return ResourceManager.GetString("Brabus", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Briella&apos;s Garden 的本地化字符串。
         /// </summary>
-        public static string BriellasGarden {
-            get {
+        public static string BriellasGarden
+        {
+            get
+            {
                 return ResourceManager.GetString("BriellasGarden", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 The Weald Stalker/The Gnarled Archer 的本地化字符串。
         /// </summary>
-        public static string BrokenTomb {
-            get {
+        public static string BrokenTomb
+        {
+            get
+            {
                 return ResourceManager.GetString("BrokenTomb", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Butcher&apos;s Quarter 的本地化字符串。
         /// </summary>
-        public static string ButchersQuarter {
-            get {
+        public static string ButchersQuarter
+        {
+            get
+            {
                 return ResourceManager.GetString("ButchersQuarter", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Cass 的本地化字符串。
         /// </summary>
-        public static string Cass {
-            get {
+        public static string Cass
+        {
+            get
+            {
                 return ResourceManager.GetString("Cass", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Cathedral of Omens 的本地化字符串。
         /// </summary>
-        public static string CathedralOfSeasons {
-            get {
+        public static string CathedralOfSeasons
+        {
+            get
+            {
                 return ResourceManager.GetString("CathedralOfSeasons", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Challenger 的本地化字符串。
         /// </summary>
-        public static string Challenger {
-            get {
+        public static string Challenger
+        {
+            get
+            {
                 return ResourceManager.GetString("Challenger", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Barghest the Vile 的本地化字符串。
         /// </summary>
-        public static string CharnelHouse {
-            get {
+        public static string CharnelHouse
+        {
+            get
+            {
                 return ResourceManager.GetString("CharnelHouse", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 The Clock Tower 的本地化字符串。
         /// </summary>
-        public static string ClockTower {
-            get {
+        public static string ClockTower
+        {
+            get
+            {
                 return ResourceManager.GetString("ClockTower", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Cotton&apos;s Kiln 的本地化字符串。
         /// </summary>
-        public static string CottonsKiln {
-            get {
+        public static string CottonsKiln
+        {
+            get
+            {
                 return ResourceManager.GetString("CottonsKiln", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Council Chamber 的本地化字符串。
         /// </summary>
-        public static string CouncilChamber {
-            get {
+        public static string CouncilChamber
+        {
+            get
+            {
                 return ResourceManager.GetString("CouncilChamber", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 The Burning 的本地化字符串。
         /// </summary>
-        public static string CrimsonHarvest {
-            get {
+        public static string CrimsonHarvest
+        {
+            get
+            {
                 return ResourceManager.GetString("CrimsonHarvest", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 The Custodian&apos;s Eye 的本地化字符串。
         /// </summary>
-        public static string CustodianEye {
-            get {
+        public static string CustodianEye
+        {
+            get
+            {
                 return ResourceManager.GetString("CustodianEye", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Dark Conduit 的本地化字符串。
         /// </summary>
-        public static string DarkConduit {
-            get {
+        public static string DarkConduit
+        {
+            get
+            {
                 return ResourceManager.GetString("DarkConduit", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 死15次 的本地化字符串。
         /// </summary>
-        public static string die_15_times {
-            get {
+        public static string die_15_times
+        {
+            get
+            {
                 return ResourceManager.GetString("die 15 times", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Dormant N&apos;Erudian Facility 的本地化字符串。
         /// </summary>
-        public static string DormantNErudianFacility {
-            get {
+        public static string DormantNErudianFacility
+        {
+            get
+            {
                 return ResourceManager.GetString("DormantNErudianFacility", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Gwendil The Unburnt 的本地化字符串。
         /// </summary>
-        public static string DranGrenadier {
-            get {
+        public static string DranGrenadier
+        {
+            get
+            {
                 return ResourceManager.GetString("DranGrenadier", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Oracle of the Dran 的本地化字符串。
         /// </summary>
-        public static string DranOracle {
-            get {
+        public static string DranOracle
+        {
+            get
+            {
                 return ResourceManager.GetString("DranOracle", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Dran City 的本地化字符串。
         /// </summary>
-        public static string DranStarter {
-            get {
+        public static string DranStarter
+        {
+            get
+            {
                 return ResourceManager.GetString("DranStarter", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 The Eternal Empress 的本地化字符串。
         /// </summary>
-        public static string EmpressStory {
-            get {
+        public static string EmpressStory
+        {
+            get
+            {
                 return ResourceManager.GetString("EmpressStory", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Endaira&apos;s End 的本地化字符串。
         /// </summary>
-        public static string EndairasEnd {
-            get {
+        public static string EndairasEnd
+        {
+            get
+            {
                 return ResourceManager.GetString("EndairasEnd", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Engineer 的本地化字符串。
         /// </summary>
-        public static string Engineer {
-            get {
+        public static string Engineer
+        {
+            get
+            {
                 return ResourceManager.GetString("Engineer", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Engrams 的本地化字符串。
         /// </summary>
-        public static string Engrams {
-            get {
+        public static string Engrams
+        {
+            get
+            {
                 return ResourceManager.GetString("Engrams", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Explorer 的本地化字符串。
         /// </summary>
-        public static string Explorer {
-            get {
+        public static string Explorer
+        {
+            get
+            {
                 return ResourceManager.GetString("Explorer", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Magister Dullain 的本地化字符串。
         /// </summary>
-        public static string FaeArchon {
-            get {
+        public static string FaeArchon
+        {
+            get
+            {
                 return ResourceManager.GetString("FaeArchon", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 The Fae Council 的本地化字符串。
         /// </summary>
-        public static string FaeCouncil {
-            get {
+        public static string FaeCouncil
+        {
+            get
+            {
                 return ResourceManager.GetString("FaeCouncil", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Faelin 的本地化字符串。
         /// </summary>
-        public static string FaelinFaerlin {
-            get {
+        public static string FaelinFaerlin
+        {
+            get
+            {
                 return ResourceManager.GetString("FaelinFaerlin", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Faerin 的本地化字符串。
         /// </summary>
-        public static string Faerin {
-            get {
+        public static string Faerin
+        {
+            get
+            {
                 return ResourceManager.GetString("Faerin", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Fae Shaman Ring 的本地化字符串。
         /// </summary>
-        public static string FaeShamanRing {
-            get {
+        public static string FaeShamanRing
+        {
+            get
+            {
                 return ResourceManager.GetString("FaeShamanRing", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Golden Halls 的本地化字符串。
         /// </summary>
-        public static string FaeStarter {
-            get {
+        public static string FaeStarter
+        {
+            get
+            {
                 return ResourceManager.GetString("FaeStarter", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Fae Warrior Ring 的本地化字符串。
         /// </summary>
-        public static string FaeWarriorRing {
-            get {
+        public static string FaeWarriorRing
+        {
+            get
+            {
                 return ResourceManager.GetString("FaeWarriorRing", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 扑倒100次 的本地化字符串。
         /// </summary>
-        public static string flop_100_times {
-            get {
+        public static string flop_100_times
+        {
+            get
+            {
                 return ResourceManager.GetString("flop 100 times", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Forgotten Field 的本地化字符串。
         /// </summary>
-        public static string ForgottenField {
-            get {
+        public static string ForgottenField
+        {
+            get
+            {
                 return ResourceManager.GetString("ForgottenField", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Forgotten Prison 的本地化字符串。
         /// </summary>
-        public static string ForgottenPrison {
-            get {
+        public static string ForgottenPrison
+        {
+            get
+            {
                 return ResourceManager.GetString("ForgottenPrison", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Mutators 的本地化字符串。
         /// </summary>
-        public static string Gems {
-            get {
+        public static string Gems
+        {
+            get
+            {
                 return ResourceManager.GetString("Gems", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Gilded Chambers 的本地化字符串。
         /// </summary>
-        public static string GildedChambers {
-            get {
+        public static string GildedChambers
+        {
+            get
+            {
                 return ResourceManager.GetString("GildedChambers", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Nimue&apos;s Retreat 的本地化字符串。
         /// </summary>
-        public static string GoldenHall_Nimue {
-            get {
+        public static string GoldenHall_Nimue
+        {
+            get
+            {
                 return ResourceManager.GetString("GoldenHall_Nimue", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Gunslinger 的本地化字符串。
         /// </summary>
-        public static string Gunslinger {
-            get {
+        public static string Gunslinger
+        {
+            get
+            {
                 return ResourceManager.GetString("Gunslinger", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Handler 的本地化字符串。
         /// </summary>
-        public static string Handler {
-            get {
+        public static string Handler
+        {
+            get
+            {
                 return ResourceManager.GetString("Handler", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Harvester&apos;s Reach 的本地化字符串。
         /// </summary>
-        public static string HarvestersReach {
-            get {
+        public static string HarvestersReach
+        {
+            get
+            {
                 return ResourceManager.GetString("HarvestersReach", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Primogenitor 的本地化字符串。
         /// </summary>
-        public static string Hatchery {
-            get {
+        public static string Hatchery
+        {
+            get
+            {
                 return ResourceManager.GetString("Hatchery", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Hunter 的本地化字符串。
         /// </summary>
-        public static string Hunter {
-            get {
+        public static string Hunter
+        {
+            get
+            {
                 return ResourceManager.GetString("Hunter", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Imperial Gardens 的本地化字符串。
         /// </summary>
-        public static string ImperialGardens {
-            get {
+        public static string ImperialGardens
+        {
+            get
+            {
                 return ResourceManager.GetString("ImperialGardens", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Indignant Fetish 的本地化字符串。
         /// </summary>
-        public static string IndignantFetish {
-            get {
+        public static string IndignantFetish
+        {
+            get
+            {
                 return ResourceManager.GetString("IndignantFetish", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Invader 的本地化字符串。
         /// </summary>
-        public static string Invader {
-            get {
+        public static string Invader
+        {
+            get
+            {
                 return ResourceManager.GetString("Invader", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Navigation Room 的本地化字符串。
         /// </summary>
-        public static string IronGiant {
-            get {
+        public static string IronGiant
+        {
+            get
+            {
                 return ResourceManager.GetString("IronGiant", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Alchemist 的本地化字符串。
         /// </summary>
-        public static string Item_HiddenContainer_Material_Engram_Alchemist {
-            get {
+        public static string Item_HiddenContainer_Material_Engram_Alchemist
+        {
+            get
+            {
                 return ResourceManager.GetString("Item_HiddenContainer_Material_Engram_Alchemist", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Archon 的本地化字符串。
         /// </summary>
-        public static string Item_HiddenContainer_Material_Engram_Archon {
-            get {
+        public static string Item_HiddenContainer_Material_Engram_Archon
+        {
+            get
+            {
                 return ResourceManager.GetString("Item_HiddenContainer_Material_Engram_Archon", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Challenger 的本地化字符串。
         /// </summary>
-        public static string Item_HiddenContainer_Material_Engram_Challenger {
-            get {
+        public static string Item_HiddenContainer_Material_Engram_Challenger
+        {
+            get
+            {
                 return ResourceManager.GetString("Item_HiddenContainer_Material_Engram_Challenger", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Engineer 的本地化字符串。
         /// </summary>
-        public static string Item_HiddenContainer_Material_Engram_Engineer {
-            get {
+        public static string Item_HiddenContainer_Material_Engram_Engineer
+        {
+            get
+            {
                 return ResourceManager.GetString("Item_HiddenContainer_Material_Engram_Engineer", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Gunslinger 的本地化字符串。
         /// </summary>
-        public static string Item_HiddenContainer_Material_Engram_Gunslinger {
-            get {
+        public static string Item_HiddenContainer_Material_Engram_Gunslinger
+        {
+            get
+            {
                 return ResourceManager.GetString("Item_HiddenContainer_Material_Engram_Gunslinger", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Handler 的本地化字符串。
         /// </summary>
-        public static string Item_HiddenContainer_Material_Engram_Handler {
-            get {
+        public static string Item_HiddenContainer_Material_Engram_Handler
+        {
+            get
+            {
                 return ResourceManager.GetString("Item_HiddenContainer_Material_Engram_Handler", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Hunter 的本地化字符串。
         /// </summary>
-        public static string Item_HiddenContainer_Material_Engram_Hunter {
-            get {
+        public static string Item_HiddenContainer_Material_Engram_Hunter
+        {
+            get
+            {
                 return ResourceManager.GetString("Item_HiddenContainer_Material_Engram_Hunter", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Invader 的本地化字符串。
         /// </summary>
-        public static string Item_HiddenContainer_Material_Engram_Invader {
-            get {
+        public static string Item_HiddenContainer_Material_Engram_Invader
+        {
+            get
+            {
                 return ResourceManager.GetString("Item_HiddenContainer_Material_Engram_Invader", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Medic 的本地化字符串。
         /// </summary>
-        public static string Item_HiddenContainer_Material_Engram_Medic {
-            get {
+        public static string Item_HiddenContainer_Material_Engram_Medic
+        {
+            get
+            {
                 return ResourceManager.GetString("Item_HiddenContainer_Material_Engram_Medic", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Summoner 的本地化字符串。
         /// </summary>
-        public static string Item_HiddenContainer_Material_Engram_Summoner {
-            get {
+        public static string Item_HiddenContainer_Material_Engram_Summoner
+        {
+            get
+            {
                 return ResourceManager.GetString("Item_HiddenContainer_Material_Engram_Summoner", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Kaeula&apos;s Rest 的本地化字符串。
         /// </summary>
-        public static string KaeulasRest {
-            get {
+        public static string KaeulasRest
+        {
+            get
+            {
                 return ResourceManager.GetString("KaeulasRest", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Koara Kuri Nest 的本地化字符串。
         /// </summary>
-        public static string KoaraKuriNest {
-            get {
+        public static string KoaraKuriNest
+        {
+            get
+            {
                 return ResourceManager.GetString("KoaraKuriNest", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Laemirs&apos; Lyceum 的本地化字符串。
         /// </summary>
-        public static string LaemirsLyceum {
-            get {
+        public static string LaemirsLyceum
+        {
+            get
+            {
                 return ResourceManager.GetString("LaemirsLyceum", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Lemark District 的本地化字符串。
         /// </summary>
-        public static string LemarkDistrict {
-            get {
+        public static string LemarkDistrict
+        {
+            get
+            {
                 return ResourceManager.GetString("LemarkDistrict", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Atrophy 的本地化字符串。
         /// </summary>
-        public static string Library {
-            get {
+        public static string Library
+        {
+            get
+            {
                 return ResourceManager.GetString("Library", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 WeepingAngels 的本地化字符串。
         /// </summary>
-        public static string LivingStone {
-            get {
+        public static string LivingStone
+        {
+            get
+            {
                 return ResourceManager.GetString("LivingStone", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 W.D. 109 的本地化字符串。
         /// </summary>
-        public static string LurkerVents {
-            get {
+        public static string LurkerVents
+        {
+            get
+            {
                 return ResourceManager.GetString("LurkerVents", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Earth 的本地化字符串。
         /// </summary>
-        public static string Main {
-            get {
+        public static string Main
+        {
+            get
+            {
                 return ResourceManager.GetString("Main", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Malefic Gallery 的本地化字符串。
         /// </summary>
-        public static string MaleficGallery {
-            get {
+        public static string MaleficGallery
+        {
+            get
+            {
                 return ResourceManager.GetString("MaleficGallery", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Corruptor 的本地化字符串。
         /// </summary>
-        public static string ManyFaces {
-            get {
+        public static string ManyFaces
+        {
+            get
+            {
                 return ResourceManager.GetString("ManyFaces", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 ThaenLeaf 的本地化字符串。
         /// </summary>
-        public static string Material_ThaenLeaf {
-            get {
+        public static string Material_ThaenLeaf
+        {
+            get
+            {
                 return ResourceManager.GetString("Material_ThaenLeaf", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Materials 的本地化字符串。
         /// </summary>
-        public static string Materials {
-            get {
+        public static string Materials
+        {
+            get
+            {
                 return ResourceManager.GetString("Materials", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Medic 的本地化字符串。
         /// </summary>
-        public static string Medic {
-            get {
+        public static string Medic
+        {
+            get
+            {
                 return ResourceManager.GetString("Medic", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Bandit 的本地化字符串。
         /// </summary>
-        public static string MetaGem_Bandit {
-            get {
+        public static string MetaGem_Bandit
+        {
+            get
+            {
                 return ResourceManager.GetString("MetaGem_Bandit", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Bulletweaver 的本地化字符串。
         /// </summary>
-        public static string MetaGem_Bulletweaver {
-            get {
+        public static string MetaGem_Bulletweaver
+        {
+            get
+            {
                 return ResourceManager.GetString("MetaGem_Bulletweaver", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Disengage 的本地化字符串。
         /// </summary>
-        public static string MetaGem_Disengage {
-            get {
+        public static string MetaGem_Disengage
+        {
+            get
+            {
                 return ResourceManager.GetString("MetaGem_Disengage", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Extender 的本地化字符串。
         /// </summary>
-        public static string MetaGem_Extender {
-            get {
+        public static string MetaGem_Extender
+        {
+            get
+            {
                 return ResourceManager.GetString("MetaGem_Extender", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Failsafe 的本地化字符串。
         /// </summary>
-        public static string MetaGem_Failsafe {
-            get {
+        public static string MetaGem_Failsafe
+        {
+            get
+            {
                 return ResourceManager.GetString("MetaGem_Failsafe", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Lithely 的本地化字符串。
         /// </summary>
-        public static string MetaGem_Lithely {
-            get {
+        public static string MetaGem_Lithely
+        {
+            get
+            {
                 return ResourceManager.GetString("MetaGem_Lithely", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Misfortune 的本地化字符串。
         /// </summary>
-        public static string MetaGem_Misfortune {
-            get {
+        public static string MetaGem_Misfortune
+        {
+            get
+            {
                 return ResourceManager.GetString("MetaGem_Misfortune", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Momentum 的本地化字符串。
         /// </summary>
-        public static string MetaGem_Momentum {
-            get {
+        public static string MetaGem_Momentum
+        {
+            get
+            {
                 return ResourceManager.GetString("MetaGem_Momentum", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Overdrive 的本地化字符串。
         /// </summary>
-        public static string MetaGem_Overdrive {
-            get {
+        public static string MetaGem_Overdrive
+        {
+            get
+            {
                 return ResourceManager.GetString("MetaGem_Overdrive", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Refunder 的本地化字符串。
         /// </summary>
-        public static string MetaGem_Refunder {
-            get {
+        public static string MetaGem_Refunder
+        {
+            get
+            {
                 return ResourceManager.GetString("MetaGem_Refunder", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Reinvigorate 的本地化字符串。
         /// </summary>
-        public static string MetaGem_Reinvigorate {
-            get {
+        public static string MetaGem_Reinvigorate
+        {
+            get
+            {
                 return ResourceManager.GetString("MetaGem_Reinvigorate", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Steadfast 的本地化字符串。
         /// </summary>
-        public static string MetaGem_Steadfast {
-            get {
+        public static string MetaGem_Steadfast
+        {
+            get
+            {
                 return ResourceManager.GetString("MetaGem_Steadfast", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Striker 的本地化字符串。
         /// </summary>
-        public static string MetaGem_Striker {
-            get {
+        public static string MetaGem_Striker
+        {
+            get
+            {
                 return ResourceManager.GetString("MetaGem_Striker", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Supercharger 的本地化字符串。
         /// </summary>
-        public static string MetaGem_Supercharger {
-            get {
+        public static string MetaGem_Supercharger
+        {
+            get
+            {
                 return ResourceManager.GetString("MetaGem_Supercharger", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Timewave 的本地化字符串。
         /// </summary>
-        public static string MetaGem_Timewave {
-            get {
+        public static string MetaGem_Timewave
+        {
+            get
+            {
                 return ResourceManager.GetString("MetaGem_Timewave", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Transference 的本地化字符串。
         /// </summary>
-        public static string MetaGem_Transference {
-            get {
+        public static string MetaGem_Transference
+        {
+            get
+            {
                 return ResourceManager.GetString("MetaGem_Transference", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Transpose 的本地化字符串。
         /// </summary>
-        public static string MetaGem_Transpose {
-            get {
+        public static string MetaGem_Transpose
+        {
+            get
+            {
                 return ResourceManager.GetString("MetaGem_Transpose", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Twisting Wounds 的本地化字符串。
         /// </summary>
-        public static string MetaGem_TwistingWounds {
-            get {
+        public static string MetaGem_TwistingWounds
+        {
+            get
+            {
                 return ResourceManager.GetString("MetaGem_TwistingWounds", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Vampire Blade 的本地化字符串。
         /// </summary>
-        public static string MetaGem_VampireBlade {
-            get {
+        public static string MetaGem_VampireBlade
+        {
+            get
+            {
                 return ResourceManager.GetString("MetaGem_VampireBlade", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Vengeful Strike 的本地化字符串。
         /// </summary>
-        public static string MetaGem_VengefulStrike {
-            get {
+        public static string MetaGem_VengefulStrike
+        {
+            get
+            {
                 return ResourceManager.GetString("MetaGem_VengefulStrike", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Astral Burst 的本地化字符串。
         /// </summary>
-        public static string Mod_AstralBurst {
-            get {
+        public static string Mod_AstralBurst
+        {
+            get
+            {
                 return ResourceManager.GetString("Mod_AstralBurst", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Blood Draw 的本地化字符串。
         /// </summary>
-        public static string Mod_BloodDraw {
-            get {
+        public static string Mod_BloodDraw
+        {
+            get
+            {
                 return ResourceManager.GetString("Mod_BloodDraw", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Bore 的本地化字符串。
         /// </summary>
-        public static string Mod_Bore {
-            get {
+        public static string Mod_Bore
+        {
+            get
+            {
                 return ResourceManager.GetString("Mod_Bore", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Corrosive Rounds 的本地化字符串。
         /// </summary>
-        public static string Mod_CorrosiveRounds {
-            get {
+        public static string Mod_CorrosiveRounds
+        {
+            get
+            {
                 return ResourceManager.GetString("Mod_CorrosiveRounds", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Defrag 的本地化字符串。
         /// </summary>
-        public static string Mod_Defrag {
-            get {
+        public static string Mod_Defrag
+        {
+            get
+            {
                 return ResourceManager.GetString("Mod_Defrag", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Energy Wall 的本地化字符串。
         /// </summary>
-        public static string Mod_EnergyWall {
-            get {
+        public static string Mod_EnergyWall
+        {
+            get
+            {
                 return ResourceManager.GetString("Mod_EnergyWall", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Familiar 的本地化字符串。
         /// </summary>
-        public static string Mod_Familiar {
-            get {
+        public static string Mod_Familiar
+        {
+            get
+            {
                 return ResourceManager.GetString("Mod_Familiar", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Fargazer 的本地化字符串。
         /// </summary>
-        public static string Mod_Fargazer {
-            get {
+        public static string Mod_Fargazer
+        {
+            get
+            {
                 return ResourceManager.GetString("Mod_Fargazer", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Firestorm 的本地化字符串。
         /// </summary>
-        public static string Mod_Firestorm {
-            get {
+        public static string Mod_Firestorm
+        {
+            get
+            {
                 return ResourceManager.GetString("Mod_Firestorm", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Helix 的本地化字符串。
         /// </summary>
-        public static string Mod_Helix {
-            get {
+        public static string Mod_Helix
+        {
+            get
+            {
                 return ResourceManager.GetString("Mod_Helix", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Overflow 的本地化字符串。
         /// </summary>
-        public static string Mod_Overflow {
-            get {
+        public static string Mod_Overflow
+        {
+            get
+            {
                 return ResourceManager.GetString("Mod_Overflow", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Prismatic Driver 的本地化字符串。
         /// </summary>
-        public static string Mod_PrismaticDriver {
-            get {
+        public static string Mod_PrismaticDriver
+        {
+            get
+            {
                 return ResourceManager.GetString("Mod_PrismaticDriver", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Rootlash 的本地化字符串。
         /// </summary>
-        public static string Mod_Rootlash {
-            get {
+        public static string Mod_Rootlash
+        {
+            get
+            {
                 return ResourceManager.GetString("Mod_Rootlash", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Rotted Arrow 的本地化字符串。
         /// </summary>
-        public static string Mod_RottedArrow {
-            get {
+        public static string Mod_RottedArrow
+        {
+            get
+            {
                 return ResourceManager.GetString("Mod_RottedArrow", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Skewer 2.0 的本地化字符串。
         /// </summary>
-        public static string Mod_Skewer {
-            get {
+        public static string Mod_Skewer
+        {
+            get
+            {
                 return ResourceManager.GetString("Mod_Skewer", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Song of Eafir 的本地化字符串。
         /// </summary>
-        public static string Mod_SongOfEafir {
-            get {
+        public static string Mod_SongOfEafir
+        {
+            get
+            {
                 return ResourceManager.GetString("Mod_SongOfEafir", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Soulbinder 的本地化字符串。
         /// </summary>
-        public static string Mod_Soulbinder {
-            get {
+        public static string Mod_Soulbinder
+        {
+            get
+            {
                 return ResourceManager.GetString("Mod_Soulbinder", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Space Crabs 的本地化字符串。
         /// </summary>
-        public static string Mod_SpaceCrabs {
-            get {
+        public static string Mod_SpaceCrabs
+        {
+            get
+            {
                 return ResourceManager.GetString("Mod_SpaceCrabs", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Stasis Beam 的本地化字符串。
         /// </summary>
-        public static string Mod_StasisBeam {
-            get {
+        public static string Mod_StasisBeam
+        {
+            get
+            {
                 return ResourceManager.GetString("Mod_StasisBeam", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Time Lapse 的本地化字符串。
         /// </summary>
-        public static string Mod_TimeLapse {
-            get {
+        public static string Mod_TimeLapse
+        {
+            get
+            {
                 return ResourceManager.GetString("Mod_TimeLapse", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Tremor 的本地化字符串。
         /// </summary>
-        public static string Mod_Tremor {
-            get {
+        public static string Mod_Tremor
+        {
+            get
+            {
                 return ResourceManager.GetString("Mod_Tremor", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Voltaic Rondure 的本地化字符串。
         /// </summary>
-        public static string Mod_VoltaicRondure {
-            get {
+        public static string Mod_VoltaicRondure
+        {
+            get
+            {
                 return ResourceManager.GetString("Mod_VoltaicRondure", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Witchfire 的本地化字符串。
         /// </summary>
-        public static string Mod_Witchfire {
-            get {
+        public static string Mod_Witchfire
+        {
+            get
+            {
                 return ResourceManager.GetString("Mod_Witchfire", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Mods 的本地化字符串。
         /// </summary>
-        public static string Mods {
-            get {
+        public static string Mods
+        {
+            get
+            {
                 return ResourceManager.GetString("Mods", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Mother Mind 的本地化字符串。
         /// </summary>
-        public static string MotherMind {
-            get {
+        public static string MotherMind
+        {
+            get
+            {
                 return ResourceManager.GetString("MotherMind", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Mudtooth 的本地化字符串。
         /// </summary>
-        public static string Mudtooth {
-            get {
+        public static string Mudtooth
+        {
+            get
+            {
                 return ResourceManager.GetString("Mudtooth", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Mutators 的本地化字符串。
         /// </summary>
-        public static string Mutators {
-            get {
+        public static string Mutators
+        {
+            get
+            {
                 return ResourceManager.GetString("Mutators", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Sha&apos;Hala: Spectral Guardian of N&apos;Erud 的本地化字符串。
         /// </summary>
-        public static string NerudGuardian {
-            get {
+        public static string NerudGuardian
+        {
+            get
+            {
                 return ResourceManager.GetString("NerudGuardian", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Nightweaver&apos;s Web 的本地化字符串。
         /// </summary>
-        public static string Nightweb {
-            get {
+        public static string Nightweb
+        {
+            get
+            {
                 return ResourceManager.GetString("Nightweb", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Nimue&apos;s Retreat 的本地化字符串。
         /// </summary>
-        public static string NimuesRetreat {
-            get {
+        public static string NimuesRetreat
+        {
+            get
+            {
                 return ResourceManager.GetString("NimuesRetreat", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Gorge 的本地化字符串。
         /// </summary>
-        public static string Oink {
-            get {
+        public static string Oink
+        {
+            get
+            {
                 return ResourceManager.GetString("Oink", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Oracle&apos;s Refuge 的本地化字符串。
         /// </summary>
-        public static string OraclesRefuge {
-            get {
+        public static string OraclesRefuge
+        {
+            get
+            {
                 return ResourceManager.GetString("OraclesRefuge", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 OverworldPOI 的本地化字符串。
         /// </summary>
-        public static string OverworldPOI {
-            get {
+        public static string OverworldPOI
+        {
+            get
+            {
                 return ResourceManager.GetString("OverworldPOI", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 The Astropath 的本地化字符串。
         /// </summary>
-        public static string Phantom {
-            get {
+        public static string Phantom
+        {
+            get
+            {
                 return ResourceManager.GetString("Phantom", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Postulant&apos;s Parlor 的本地化字符串。
         /// </summary>
-        public static string PostulantsParlor {
-            get {
+        public static string PostulantsParlor
+        {
+            get
+            {
                 return ResourceManager.GetString("PostulantsParlor", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Beatific Palace 的本地化字符串。
         /// </summary>
-        public static string Quest_Global_TheHunterDream_Template01 {
-            get {
+        public static string Quest_Global_TheHunterDream_Template01
+        {
+            get
+            {
                 return ResourceManager.GetString("Quest_Global_TheHunterDream_Template01", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Memory Core II 的本地化字符串。
         /// </summary>
-        public static string Quest_Item_Extermination_AICore {
-            get {
+        public static string Quest_Item_Extermination_AICore
+        {
+            get
+            {
                 return ResourceManager.GetString("Quest_Item_Extermination_AICore", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Decorum Cipher 的本地化字符串。
         /// </summary>
-        public static string Quest_Item_Train_AICore {
-            get {
+        public static string Quest_Item_Train_AICore
+        {
+            get
+            {
                 return ResourceManager.GetString("Quest_Item_Train_AICore", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Brocwithe Quarter 的本地化字符串。
         /// </summary>
-        public static string Quest_Story_AllFather_DranCity1_Template {
-            get {
+        public static string Quest_Story_AllFather_DranCity1_Template
+        {
+            get
+            {
                 return ResourceManager.GetString("Quest_Story_AllFather_DranCity1_Template", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Ironborough 的本地化字符串。
         /// </summary>
-        public static string Quest_Story_AllFather_DranCity2_Template {
-            get {
+        public static string Quest_Story_AllFather_DranCity2_Template
+        {
+            get
+            {
                 return ResourceManager.GetString("Quest_Story_AllFather_DranCity2_Template", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 The Red Throne 的本地化字符串。
         /// </summary>
-        public static string Quest_Story_Empress_Zone01_Template01 {
-            get {
+        public static string Quest_Story_Empress_Zone01_Template01
+        {
+            get
+            {
                 return ResourceManager.GetString("Quest_Story_Empress_Zone01_Template01", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Quests 的本地化字符串。
         /// </summary>
-        public static string Quests {
-            get {
+        public static string Quests
+        {
+            get
+            {
                 return ResourceManager.GetString("Quests", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Ravager &amp; Doe 的本地化字符串。
         /// </summary>
-        public static string RavagerStory {
-            get {
+        public static string RavagerStory
+        {
+            get
+            {
                 return ResourceManager.GetString("RavagerStory", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 The Feast 的本地化字符串。
         /// </summary>
-        public static string Ravenous {
-            get {
+        public static string Ravenous
+        {
+            get
+            {
                 return ResourceManager.GetString("Ravenous", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Reggie 的本地化字符串。
         /// </summary>
-        public static string Reggie {
-            get {
+        public static string Reggie
+        {
+            get
+            {
                 return ResourceManager.GetString("Reggie", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Relic 的本地化字符串。
         /// </summary>
-        public static string Relic {
-            get {
+        public static string Relic
+        {
+            get
+            {
                 return ResourceManager.GetString("Relic", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Blooming Heart 的本地化字符串。
         /// </summary>
-        public static string Relic_Consumable_BloomingHeart {
-            get {
+        public static string Relic_Consumable_BloomingHeart
+        {
+            get
+            {
                 return ResourceManager.GetString("Relic_Consumable_BloomingHeart", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Crystal Heart 的本地化字符串。
         /// </summary>
-        public static string Relic_Consumable_CrystalHeart {
-            get {
+        public static string Relic_Consumable_CrystalHeart
+        {
+            get
+            {
                 return ResourceManager.GetString("Relic_Consumable_CrystalHeart", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Decayed Heart 的本地化字符串。
         /// </summary>
-        public static string Relic_Consumable_DecayedHeart {
-            get {
+        public static string Relic_Consumable_DecayedHeart
+        {
+            get
+            {
                 return ResourceManager.GetString("Relic_Consumable_DecayedHeart", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Enlarged Heart 的本地化字符串。
         /// </summary>
-        public static string Relic_Consumable_EnlargedHeart {
-            get {
+        public static string Relic_Consumable_EnlargedHeart
+        {
+            get
+            {
                 return ResourceManager.GetString("Relic_Consumable_EnlargedHeart", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Lifeless Heart 的本地化字符串。
         /// </summary>
-        public static string Relic_Consumable_LifelessHeart {
-            get {
+        public static string Relic_Consumable_LifelessHeart
+        {
+            get
+            {
                 return ResourceManager.GetString("Relic_Consumable_LifelessHeart", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Pulsing Heart 的本地化字符串。
         /// </summary>
-        public static string Relic_Consumable_PulsingHeart {
-            get {
+        public static string Relic_Consumable_PulsingHeart
+        {
+            get
+            {
                 return ResourceManager.GetString("Relic_Consumable_PulsingHeart", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Quilted Heart 的本地化字符串。
         /// </summary>
-        public static string Relic_Consumable_QuiltedHeart {
-            get {
+        public static string Relic_Consumable_QuiltedHeart
+        {
+            get
+            {
                 return ResourceManager.GetString("Relic_Consumable_QuiltedHeart", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Reprocessed Heart 的本地化字符串。
         /// </summary>
-        public static string Relic_Consumable_ReprocessedHeart {
-            get {
+        public static string Relic_Consumable_ReprocessedHeart
+        {
+            get
+            {
                 return ResourceManager.GetString("Relic_Consumable_ReprocessedHeart", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Resonating Heart 的本地化字符串。
         /// </summary>
-        public static string Relic_Consumable_ResonatingHeart {
-            get {
+        public static string Relic_Consumable_ResonatingHeart
+        {
+            get
+            {
                 return ResourceManager.GetString("Relic_Consumable_ResonatingHeart", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Ripened Heart 的本地化字符串。
         /// </summary>
-        public static string Relic_Consumable_RipenedHeart {
-            get {
+        public static string Relic_Consumable_RipenedHeart
+        {
+            get
+            {
                 return ResourceManager.GetString("Relic_Consumable_RipenedHeart", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Runed Heart 的本地化字符串。
         /// </summary>
-        public static string Relic_Consumable_RunedHeart {
-            get {
+        public static string Relic_Consumable_RunedHeart
+        {
+            get
+            {
                 return ResourceManager.GetString("Relic_Consumable_RunedHeart", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Salvaged Heart 的本地化字符串。
         /// </summary>
-        public static string Relic_Consumable_SalvagedHeart {
-            get {
+        public static string Relic_Consumable_SalvagedHeart
+        {
+            get
+            {
                 return ResourceManager.GetString("Relic_Consumable_SalvagedHeart", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Shielded Heart 的本地化字符串。
         /// </summary>
-        public static string Relic_Consumable_ShieldedHeart {
-            get {
+        public static string Relic_Consumable_ShieldedHeart
+        {
+            get
+            {
                 return ResourceManager.GetString("Relic_Consumable_ShieldedHeart", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Siphon Heart 的本地化字符串。
         /// </summary>
-        public static string Relic_Consumable_SiphonHeart {
-            get {
+        public static string Relic_Consumable_SiphonHeart
+        {
+            get
+            {
                 return ResourceManager.GetString("Relic_Consumable_SiphonHeart", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Tormented Heart 的本地化字符串。
         /// </summary>
-        public static string Relic_Consumable_TormentedHeart {
-            get {
+        public static string Relic_Consumable_TormentedHeart
+        {
+            get
+            {
                 return ResourceManager.GetString("Relic_Consumable_TormentedHeart", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Tranquil Heart 的本地化字符串。
         /// </summary>
-        public static string Relic_Consumable_TranquilHeart {
-            get {
+        public static string Relic_Consumable_TranquilHeart
+        {
+            get
+            {
                 return ResourceManager.GetString("Relic_Consumable_TranquilHeart", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Unsullied Heart 的本地化字符串。
         /// </summary>
-        public static string Relic_Consumable_UnsulliedHeart {
-            get {
+        public static string Relic_Consumable_UnsulliedHeart
+        {
+            get
+            {
                 return ResourceManager.GetString("Relic_Consumable_UnsulliedHeart", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Void Heart 的本地化字符串。
         /// </summary>
-        public static string Relic_Consumable_VoidHeart {
-            get {
+        public static string Relic_Consumable_VoidHeart
+        {
+            get
+            {
                 return ResourceManager.GetString("Relic_Consumable_VoidHeart", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Restless Spirit 的本地化字符串。
         /// </summary>
-        public static string RemainsBelow {
-            get {
+        public static string RemainsBelow
+        {
+            get
+            {
                 return ResourceManager.GetString("RemainsBelow", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Acid Stone 的本地化字符串。
         /// </summary>
-        public static string Ring_AcidStone {
-            get {
+        public static string Ring_AcidStone
+        {
+            get
+            {
                 return ResourceManager.GetString("Ring_AcidStone", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Akari War Band 的本地化字符串。
         /// </summary>
-        public static string Ring_AkariWarBand {
-            get {
+        public static string Ring_AkariWarBand
+        {
+            get
+            {
                 return ResourceManager.GetString("Ring_AkariWarBand", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Alchemy Stone 的本地化字符串。
         /// </summary>
-        public static string Ring_AlchemyStone {
-            get {
+        public static string Ring_AlchemyStone
+        {
+            get
+            {
                 return ResourceManager.GetString("Ring_AlchemyStone", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Alumni Ring 的本地化字符串。
         /// </summary>
-        public static string Ring_AlumniRing {
-            get {
+        public static string Ring_AlumniRing
+        {
+            get
+            {
                 return ResourceManager.GetString("Ring_AlumniRing", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Amber Moonstone 的本地化字符串。
         /// </summary>
-        public static string Ring_AmberMoonstone {
-            get {
+        public static string Ring_AmberMoonstone
+        {
+            get
+            {
                 return ResourceManager.GetString("Ring_AmberMoonstone", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Anastasia&apos;s Inspiration 的本地化字符串。
         /// </summary>
-        public static string Ring_AnastasijasInspiration {
-            get {
+        public static string Ring_AnastasijasInspiration
+        {
+            get
+            {
                 return ResourceManager.GetString("Ring_AnastasijasInspiration", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Archer&apos;s Crest 的本地化字符串。
         /// </summary>
-        public static string Ring_ArchersCrest {
-            get {
+        public static string Ring_ArchersCrest
+        {
+            get
+            {
                 return ResourceManager.GetString("Ring_ArchersCrest", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Assassin&apos;s Seal 的本地化字符串。
         /// </summary>
-        public static string Ring_AssassinsSeal {
-            get {
+        public static string Ring_AssassinsSeal
+        {
+            get
+            {
                 return ResourceManager.GetString("Ring_AssassinsSeal", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Band Band 的本地化字符串。
         /// </summary>
-        public static string Ring_BandBand {
-            get {
+        public static string Ring_BandBand
+        {
+            get
+            {
                 return ResourceManager.GetString("Ring_BandBand", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Bisected Ring 的本地化字符串。
         /// </summary>
-        public static string Ring_BisectedRing {
-            get {
+        public static string Ring_BisectedRing
+        {
+            get
+            {
                 return ResourceManager.GetString("Ring_BisectedRing", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Black Cat Band 的本地化字符串。
         /// </summary>
-        public static string Ring_BlackCatBand {
-            get {
+        public static string Ring_BlackCatBand
+        {
+            get
+            {
                 return ResourceManager.GetString("Ring_BlackCatBand", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Blackout Ring 的本地化字符串。
         /// </summary>
-        public static string Ring_BlackoutRing {
-            get {
+        public static string Ring_BlackoutRing
+        {
+            get
+            {
                 return ResourceManager.GetString("Ring_BlackoutRing", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Black Pawn Stamp 的本地化字符串。
         /// </summary>
-        public static string Ring_BlackPawnStamp {
-            get {
+        public static string Ring_BlackPawnStamp
+        {
+            get
+            {
                 return ResourceManager.GetString("Ring_BlackPawnStamp", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Blasting Cap Ring 的本地化字符串。
         /// </summary>
-        public static string Ring_BlastingCapRing {
-            get {
+        public static string Ring_BlastingCapRing
+        {
+            get
+            {
                 return ResourceManager.GetString("Ring_BlastingCapRing", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Blessed Ring 的本地化字符串。
         /// </summary>
-        public static string Ring_BlessedRing {
-            get {
+        public static string Ring_BlessedRing
+        {
+            get
+            {
                 return ResourceManager.GetString("Ring_BlessedRing", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Blood Jewel 的本地化字符串。
         /// </summary>
-        public static string Ring_BloodJewel {
-            get {
+        public static string Ring_BloodJewel
+        {
+            get
+            {
                 return ResourceManager.GetString("Ring_BloodJewel", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 {Ring_WaxSealedRing} 的本地化字符串。
         /// </summary>
-        public static string Ring_BloodStamp {
-            get {
+        public static string Ring_BloodStamp
+        {
+            get
+            {
                 return ResourceManager.GetString("Ring_BloodStamp", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Blood Tinged Ring 的本地化字符串。
         /// </summary>
-        public static string Ring_BloodTingedRing {
-            get {
+        public static string Ring_BloodTingedRing
+        {
+            get
+            {
                 return ResourceManager.GetString("Ring_BloodTingedRing", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Booster Ring 的本地化字符串。
         /// </summary>
-        public static string Ring_BoosterRing {
-            get {
+        public static string Ring_BoosterRing
+        {
+            get
+            {
                 return ResourceManager.GetString("Ring_BoosterRing", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Braided Thorns 的本地化字符串。
         /// </summary>
-        public static string Ring_BraidedThorns {
-            get {
+        public static string Ring_BraidedThorns
+        {
+            get
+            {
                 return ResourceManager.GetString("Ring_BraidedThorns", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Burden of the Audacious 的本地化字符串。
         /// </summary>
-        public static string Ring_BurdenOfTheAudacious {
-            get {
+        public static string Ring_BurdenOfTheAudacious
+        {
+            get
+            {
                 return ResourceManager.GetString("Ring_BurdenOfTheAudacious", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Burden of the Destroyer 的本地化字符串。
         /// </summary>
-        public static string Ring_BurdenOfTheDestroyer {
-            get {
+        public static string Ring_BurdenOfTheDestroyer
+        {
+            get
+            {
                 return ResourceManager.GetString("Ring_BurdenOfTheDestroyer", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Burden of the Divine 的本地化字符串。
         /// </summary>
-        public static string Ring_BurdenOfTheDivine {
-            get {
+        public static string Ring_BurdenOfTheDivine
+        {
+            get
+            {
                 return ResourceManager.GetString("Ring_BurdenOfTheDivine", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Burden of the Follower 的本地化字符串。
         /// </summary>
-        public static string Ring_BurdenOfTheFollower {
-            get {
+        public static string Ring_BurdenOfTheFollower
+        {
+            get
+            {
                 return ResourceManager.GetString("Ring_BurdenOfTheFollower", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Burden of the Gambler 的本地化字符串。
         /// </summary>
-        public static string Ring_BurdenOfTheGambler {
-            get {
+        public static string Ring_BurdenOfTheGambler
+        {
+            get
+            {
                 return ResourceManager.GetString("Ring_BurdenOfTheGambler", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Burden of the Mariner 的本地化字符串。
         /// </summary>
-        public static string Ring_BurdenOfTheMariner {
-            get {
+        public static string Ring_BurdenOfTheMariner
+        {
+            get
+            {
                 return ResourceManager.GetString("Ring_BurdenOfTheMariner", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Burden of the Rebel 的本地化字符串。
         /// </summary>
-        public static string Ring_BurdenOfTheRebel {
-            get {
+        public static string Ring_BurdenOfTheRebel
+        {
+            get
+            {
                 return ResourceManager.GetString("Ring_BurdenOfTheRebel", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Burden of the Stargazer 的本地化字符串。
         /// </summary>
-        public static string Ring_BurdenOfTheStargazer {
-            get {
+        public static string Ring_BurdenOfTheStargazer
+        {
+            get
+            {
                 return ResourceManager.GetString("Ring_BurdenOfTheStargazer", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Burden of the Warlock 的本地化字符串。
         /// </summary>
-        public static string Ring_BurdenOfTheWarlock {
-            get {
+        public static string Ring_BurdenOfTheWarlock
+        {
+            get
+            {
                 return ResourceManager.GetString("Ring_BurdenOfTheWarlock", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Captain&apos;s Insignia 的本地化字符串。
         /// </summary>
-        public static string Ring_CaptainsInsignia {
-            get {
+        public static string Ring_CaptainsInsignia
+        {
+            get
+            {
                 return ResourceManager.GetString("Ring_CaptainsInsignia", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Cataloger&apos;s Jewel 的本地化字符串。
         /// </summary>
-        public static string Ring_CatalogersJewel {
-            get {
+        public static string Ring_CatalogersJewel
+        {
+            get
+            {
                 return ResourceManager.GetString("Ring_CatalogersJewel", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Celerity Stone 的本地化字符串。
         /// </summary>
-        public static string Ring_CelerityStone {
-            get {
+        public static string Ring_CelerityStone
+        {
+            get
+            {
                 return ResourceManager.GetString("Ring_CelerityStone", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Compulsion Loop 的本地化字符串。
         /// </summary>
-        public static string Ring_CompulsionLoop {
-            get {
+        public static string Ring_CompulsionLoop
+        {
+            get
+            {
                 return ResourceManager.GetString("Ring_CompulsionLoop", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Conservation Seal 的本地化字符串。
         /// </summary>
-        public static string Ring_ConservationSeal {
-            get {
+        public static string Ring_ConservationSeal
+        {
+            get
+            {
                 return ResourceManager.GetString("Ring_ConservationSeal", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Constant Variable Ring 的本地化字符串。
         /// </summary>
-        public static string Ring_ConstantVariableRing {
-            get {
+        public static string Ring_ConstantVariableRing
+        {
+            get
+            {
                 return ResourceManager.GetString("Ring_ConstantVariableRing", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Dead King&apos;s Memento 的本地化字符串。
         /// </summary>
-        public static string Ring_DeadKingsMemento {
-            get {
+        public static string Ring_DeadKingsMemento
+        {
+            get
+            {
                 return ResourceManager.GetString("Ring_DeadKingsMemento", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Deceiver&apos;s Band 的本地化字符串。
         /// </summary>
-        public static string Ring_DeceiversBand {
-            get {
+        public static string Ring_DeceiversBand
+        {
+            get
+            {
                 return ResourceManager.GetString("Ring_DeceiversBand", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Deep Pocket Ring 的本地化字符串。
         /// </summary>
-        public static string Ring_DeepPocketRing {
-            get {
+        public static string Ring_DeepPocketRing
+        {
+            get
+            {
                 return ResourceManager.GetString("Ring_DeepPocketRing", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Defensive Action Loop 的本地化字符串。
         /// </summary>
-        public static string Ring_DefensiveActionLoop {
-            get {
+        public static string Ring_DefensiveActionLoop
+        {
+            get
+            {
                 return ResourceManager.GetString("Ring_DefensiveActionLoop", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Dense Silicon Ring 的本地化字符串。
         /// </summary>
-        public static string Ring_DenseSiliconRing {
-            get {
+        public static string Ring_DenseSiliconRing
+        {
+            get
+            {
                 return ResourceManager.GetString("Ring_DenseSiliconRing", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Embrace of Sha&apos;Hala 的本地化字符串。
         /// </summary>
-        public static string Ring_DowngradedRing {
-            get {
+        public static string Ring_DowngradedRing
+        {
+            get
+            {
                 return ResourceManager.GetString("Ring_DowngradedRing", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Drakestone Pearl 的本地化字符串。
         /// </summary>
-        public static string Ring_DrakestonePearl {
-            get {
+        public static string Ring_DrakestonePearl
+        {
+            get
+            {
                 return ResourceManager.GetString("Ring_DrakestonePearl", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Dran Memento 的本地化字符串。
         /// </summary>
-        public static string Ring_DranMemento {
-            get {
+        public static string Ring_DranMemento
+        {
+            get
+            {
                 return ResourceManager.GetString("Ring_DranMemento", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Dran Scavenger Ring 的本地化字符串。
         /// </summary>
-        public static string Ring_DranScavengerSigil {
-            get {
+        public static string Ring_DranScavengerSigil
+        {
+            get
+            {
                 return ResourceManager.GetString("Ring_DranScavengerSigil", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Dread Font 的本地化字符串。
         /// </summary>
-        public static string Ring_DreadFont {
-            get {
+        public static string Ring_DreadFont
+        {
+            get
+            {
                 return ResourceManager.GetString("Ring_DreadFont", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Drzyr Sniper Sigil 的本地化字符串。
         /// </summary>
-        public static string Ring_DrzyrSniperSigil {
-            get {
+        public static string Ring_DrzyrSniperSigil
+        {
+            get
+            {
                 return ResourceManager.GetString("Ring_DrzyrSniperSigil", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Dying Ember 的本地化字符串。
         /// </summary>
-        public static string Ring_DyingEmber {
-            get {
+        public static string Ring_DyingEmber
+        {
+            get
+            {
                 return ResourceManager.GetString("Ring_DyingEmber", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Encrypted Loop 的本地化字符串。
         /// </summary>
-        public static string Ring_EncryptedLoop {
-            get {
+        public static string Ring_EncryptedLoop
+        {
+            get
+            {
                 return ResourceManager.GetString("Ring_EncryptedLoop", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Endaira&apos;s Endless Loop 的本地化字符串。
         /// </summary>
-        public static string Ring_EndairasEndlessLoop {
-            get {
+        public static string Ring_EndairasEndlessLoop
+        {
+            get
+            {
                 return ResourceManager.GetString("Ring_EndairasEndlessLoop", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Excess Coil 的本地化字符串。
         /// </summary>
-        public static string Ring_ExcessCoil {
-            get {
+        public static string Ring_ExcessCoil
+        {
+            get
+            {
                 return ResourceManager.GetString("Ring_ExcessCoil", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Fae Bruiser Ring 的本地化字符串。
         /// </summary>
-        public static string Ring_FaeBruiserRing {
-            get {
+        public static string Ring_FaeBruiserRing
+        {
+            get
+            {
                 return ResourceManager.GetString("Ring_FaeBruiserRing", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Fae Hunter Ring 的本地化字符串。
         /// </summary>
-        public static string Ring_FaeHunterRing {
-            get {
+        public static string Ring_FaeHunterRing
+        {
+            get
+            {
                 return ResourceManager.GetString("Ring_FaeHunterRing", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Faelin&apos;s Sigil 的本地化字符串。
         /// </summary>
-        public static string Ring_FaelinsSigil {
-            get {
+        public static string Ring_FaelinsSigil
+        {
+            get
+            {
                 return ResourceManager.GetString("Ring_FaelinsSigil", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Fae Protector Signet 的本地化字符串。
         /// </summary>
-        public static string Ring_FaeProtectorSignet {
-            get {
+        public static string Ring_FaeProtectorSignet
+        {
+            get
+            {
                 return ResourceManager.GetString("Ring_FaeProtectorSignet", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Faerin&apos;s Sigil 的本地化字符串。
         /// </summary>
-        public static string Ring_FaerinsSigil {
-            get {
+        public static string Ring_FaerinsSigil
+        {
+            get
+            {
                 return ResourceManager.GetString("Ring_FaerinsSigil", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Fae Shaman Ring 的本地化字符串。
         /// </summary>
-        public static string Ring_FaeShamanRing {
-            get {
+        public static string Ring_FaeShamanRing
+        {
+            get
+            {
                 return ResourceManager.GetString("Ring_FaeShamanRing", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Fae Warrior Ring 的本地化字符串。
         /// </summary>
-        public static string Ring_FaeWarriorRing {
-            get {
+        public static string Ring_FaeWarriorRing
+        {
+            get
+            {
                 return ResourceManager.GetString("Ring_FaeWarriorRing", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Feastmaster&apos;s Signet 的本地化字符串。
         /// </summary>
-        public static string Ring_FeastmastersSignet {
-            get {
+        public static string Ring_FeastmastersSignet
+        {
+            get
+            {
                 return ResourceManager.GetString("Ring_FeastmastersSignet", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Feedback Loop 的本地化字符串。
         /// </summary>
-        public static string Ring_FeedbackLoop {
-            get {
+        public static string Ring_FeedbackLoop
+        {
+            get
+            {
                 return ResourceManager.GetString("Ring_FeedbackLoop", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Fire Stone 的本地化字符串。
         /// </summary>
-        public static string Ring_FireStone {
-            get {
+        public static string Ring_FireStone
+        {
+            get
+            {
                 return ResourceManager.GetString("Ring_FireStone", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Flyweight&apos;s Sting 的本地化字符串。
         /// </summary>
-        public static string Ring_FlyweightsSting {
-            get {
+        public static string Ring_FlyweightsSting
+        {
+            get
+            {
                 return ResourceManager.GetString("Ring_FlyweightsSting", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Focused Jewel 的本地化字符串。
         /// </summary>
-        public static string Ring_FocusedJewel {
-            get {
+        public static string Ring_FocusedJewel
+        {
+            get
+            {
                 return ResourceManager.GetString("Ring_FocusedJewel", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Frivolous Band 的本地化字符串。
         /// </summary>
-        public static string Ring_FrivolousBand {
-            get {
+        public static string Ring_FrivolousBand
+        {
+            get
+            {
                 return ResourceManager.GetString("Ring_FrivolousBand", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Galvanized Resupply Band 的本地化字符串。
         /// </summary>
-        public static string Ring_GalvanizedResupplyBand {
-            get {
+        public static string Ring_GalvanizedResupplyBand
+        {
+            get
+            {
                 return ResourceManager.GetString("Ring_GalvanizedResupplyBand", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Game Master&apos;s Pride 的本地化字符串。
         /// </summary>
-        public static string Ring_GameMastersPride {
-            get {
+        public static string Ring_GameMastersPride
+        {
+            get
+            {
                 return ResourceManager.GetString("Ring_GameMastersPride", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Generating Band 的本地化字符串。
         /// </summary>
-        public static string Ring_GeneratingBand {
-            get {
+        public static string Ring_GeneratingBand
+        {
+            get
+            {
                 return ResourceManager.GetString("Ring_GeneratingBand", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Grounding Stone 的本地化字符串。
         /// </summary>
-        public static string Ring_GroundingStone {
-            get {
+        public static string Ring_GroundingStone
+        {
+            get
+            {
                 return ResourceManager.GetString("Ring_GroundingStone", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Guardian&apos;s Ring 的本地化字符串。
         /// </summary>
-        public static string Ring_GuardiansRing {
-            get {
+        public static string Ring_GuardiansRing
+        {
+            get
+            {
                 return ResourceManager.GetString("Ring_GuardiansRing", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Gunslinger&apos;s Ring 的本地化字符串。
         /// </summary>
-        public static string Ring_GunslingersRing {
-            get {
+        public static string Ring_GunslingersRing
+        {
+            get
+            {
                 return ResourceManager.GetString("Ring_GunslingersRing", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Hardcore Metal Band 的本地化字符串。
         /// </summary>
-        public static string Ring_HardcoreMetalBand {
-            get {
+        public static string Ring_HardcoreMetalBand
+        {
+            get
+            {
                 return ResourceManager.GetString("Ring_HardcoreMetalBand", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Hardened Coil 的本地化字符串。
         /// </summary>
-        public static string Ring_HardenedCoil {
-            get {
+        public static string Ring_HardenedCoil
+        {
+            get
+            {
                 return ResourceManager.GetString("Ring_HardenedCoil", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Haymaker&apos;s Ring 的本地化字符串。
         /// </summary>
-        public static string Ring_HaymakersRing {
-            get {
+        public static string Ring_HaymakersRing
+        {
+            get
+            {
                 return ResourceManager.GetString("Ring_HaymakersRing", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Heart of the Wolf 的本地化字符串。
         /// </summary>
-        public static string Ring_HeartOfTheWolf {
-            get {
+        public static string Ring_HeartOfTheWolf
+        {
+            get
+            {
                 return ResourceManager.GetString("Ring_HeartOfTheWolf", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Hex Ward 的本地化字符串。
         /// </summary>
-        public static string Ring_HexWard {
-            get {
+        public static string Ring_HexWard
+        {
+            get
+            {
                 return ResourceManager.GetString("Ring_HexWard", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Kinetic Cycle Stone 的本地化字符串。
         /// </summary>
-        public static string Ring_KineticCycleStone {
-            get {
+        public static string Ring_KineticCycleStone
+        {
+            get
+            {
                 return ResourceManager.GetString("Ring_KineticCycleStone", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Lithic Signet 的本地化字符串。
         /// </summary>
-        public static string Ring_LithicSignet {
-            get {
+        public static string Ring_LithicSignet
+        {
+            get
+            {
                 return ResourceManager.GetString("Ring_LithicSignet", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 {Ring_LithicSignet} 的本地化字符串。
         /// </summary>
-        public static string Ring_LivingStone {
-            get {
+        public static string Ring_LivingStone
+        {
+            get
+            {
                 return ResourceManager.GetString("Ring_LivingStone", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Lodestone Ring 的本地化字符串。
         /// </summary>
-        public static string Ring_LodestoneRing {
-            get {
+        public static string Ring_LodestoneRing
+        {
+            get
+            {
                 return ResourceManager.GetString("Ring_LodestoneRing", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Low Yield Recovery Ring 的本地化字符串。
         /// </summary>
-        public static string Ring_LowYieldRecoveryRing {
-            get {
+        public static string Ring_LowYieldRecoveryRing
+        {
+            get
+            {
                 return ResourceManager.GetString("Ring_LowYieldRecoveryRing", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Mechanic&apos;s Cog 的本地化字符串。
         /// </summary>
-        public static string Ring_MechanicsCog {
-            get {
+        public static string Ring_MechanicsCog
+        {
+            get
+            {
                 return ResourceManager.GetString("Ring_MechanicsCog", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Metal Driver 的本地化字符串。
         /// </summary>
-        public static string Ring_MetalDriver {
-            get {
+        public static string Ring_MetalDriver
+        {
+            get
+            {
                 return ResourceManager.GetString("Ring_MetalDriver", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Meteorite Shard Ring 的本地化字符串。
         /// </summary>
-        public static string Ring_MeteoriteShardRing {
-            get {
+        public static string Ring_MeteoriteShardRing
+        {
+            get
+            {
                 return ResourceManager.GetString("Ring_MeteoriteShardRing", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Microcompressor 的本地化字符串。
         /// </summary>
-        public static string Ring_Microcompressor {
-            get {
+        public static string Ring_Microcompressor
+        {
+            get
+            {
                 return ResourceManager.GetString("Ring_Microcompressor", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Momentum Driver 的本地化字符串。
         /// </summary>
-        public static string Ring_MomentumDriver {
-            get {
+        public static string Ring_MomentumDriver
+        {
+            get
+            {
                 return ResourceManager.GetString("Ring_MomentumDriver", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Outcast Ring 的本地化字符串。
         /// </summary>
-        public static string Ring_OutcastRing {
-            get {
+        public static string Ring_OutcastRing
+        {
+            get
+            {
                 return ResourceManager.GetString("Ring_OutcastRing", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Ahanae Crystal 的本地化字符串。
         /// </summary>
-        public static string Ring_PanMageSigil {
-            get {
+        public static string Ring_PanMageSigil
+        {
+            get
+            {
                 return ResourceManager.GetString("Ring_PanMageSigil", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Point Focus Ring 的本地化字符串。
         /// </summary>
-        public static string Ring_PointFocusRing {
-            get {
+        public static string Ring_PointFocusRing
+        {
+            get
+            {
                 return ResourceManager.GetString("Ring_PointFocusRing", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Power Saver 的本地化字符串。
         /// </summary>
-        public static string Ring_PowerSaver {
-            get {
+        public static string Ring_PowerSaver
+        {
+            get
+            {
                 return ResourceManager.GetString("Ring_PowerSaver", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Probability Cord 的本地化字符串。
         /// </summary>
-        public static string Ring_ProbabilityCord {
-            get {
+        public static string Ring_ProbabilityCord
+        {
+            get
+            {
                 return ResourceManager.GetString("Ring_ProbabilityCord", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Propulsion Loop 的本地化字符串。
         /// </summary>
-        public static string Ring_PropulsionLoop {
-            get {
+        public static string Ring_PropulsionLoop
+        {
+            get
+            {
                 return ResourceManager.GetString("Ring_PropulsionLoop", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Provisioner Ring 的本地化字符串。
         /// </summary>
-        public static string Ring_ProvisionerRing {
-            get {
+        public static string Ring_ProvisionerRing
+        {
+            get
+            {
                 return ResourceManager.GetString("Ring_ProvisionerRing", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Reaping Stone 的本地化字符串。
         /// </summary>
-        public static string Ring_ReapingStone {
-            get {
+        public static string Ring_ReapingStone
+        {
+            get
+            {
                 return ResourceManager.GetString("Ring_ReapingStone", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Rerouting Cable 的本地化字符串。
         /// </summary>
-        public static string Ring_ReroutingCable {
-            get {
+        public static string Ring_ReroutingCable
+        {
+            get
+            {
                 return ResourceManager.GetString("Ring_ReroutingCable", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Reserve Boosting Gem 的本地化字符串。
         /// </summary>
-        public static string Ring_ReserveBoostingGem {
-            get {
+        public static string Ring_ReserveBoostingGem
+        {
+            get
+            {
                 return ResourceManager.GetString("Ring_ReserveBoostingGem", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Ring of Crisis 的本地化字符串。
         /// </summary>
-        public static string Ring_RingOfCrisis {
-            get {
+        public static string Ring_RingOfCrisis
+        {
+            get
+            {
                 return ResourceManager.GetString("Ring_RingOfCrisis", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Ring of Deflection 的本地化字符串。
         /// </summary>
-        public static string Ring_RingOfDeflection {
-            get {
+        public static string Ring_RingOfDeflection
+        {
+            get
+            {
                 return ResourceManager.GetString("Ring_RingOfDeflection", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Ring of Diversion 的本地化字符串。
         /// </summary>
-        public static string Ring_RingOfDiversion {
-            get {
+        public static string Ring_RingOfDiversion
+        {
+            get
+            {
                 return ResourceManager.GetString("Ring_RingOfDiversion", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Ring of Flawed Beauty 的本地化字符串。
         /// </summary>
-        public static string Ring_RingOfFlawedBeauty {
-            get {
+        public static string Ring_RingOfFlawedBeauty
+        {
+            get
+            {
                 return ResourceManager.GetString("Ring_RingOfFlawedBeauty", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Ring of Grace 的本地化字符串。
         /// </summary>
-        public static string Ring_RingOfGrace {
-            get {
+        public static string Ring_RingOfGrace
+        {
+            get
+            {
                 return ResourceManager.GetString("Ring_RingOfGrace", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Ring of Omens 的本地化字符串。
         /// </summary>
-        public static string Ring_RingOfOmens {
-            get {
+        public static string Ring_RingOfOmens
+        {
+            get
+            {
                 return ResourceManager.GetString("Ring_RingOfOmens", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Ring of Restocking 的本地化字符串。
         /// </summary>
-        public static string Ring_RingOfRestocking {
-            get {
+        public static string Ring_RingOfRestocking
+        {
+            get
+            {
                 return ResourceManager.GetString("Ring_RingOfRestocking", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Ring of Retribution 的本地化字符串。
         /// </summary>
-        public static string Ring_RingOfRetribution {
-            get {
+        public static string Ring_RingOfRetribution
+        {
+            get
+            {
                 return ResourceManager.GetString("Ring_RingOfRetribution", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Worn Admiral&apos;s Ring 的本地化字符串。
         /// </summary>
-        public static string Ring_RingOfTheAdmiral {
-            get {
+        public static string Ring_RingOfTheAdmiral
+        {
+            get
+            {
                 return ResourceManager.GetString("Ring_RingOfTheAdmiral", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Ring of the Forest Spirit 的本地化字符串。
         /// </summary>
-        public static string Ring_RingOfTheForestSpirit {
-            get {
+        public static string Ring_RingOfTheForestSpirit
+        {
+            get
+            {
                 return ResourceManager.GetString("Ring_RingOfTheForestSpirit", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Ring of the Robust 的本地化字符串。
         /// </summary>
-        public static string Ring_RingOfTheRobust {
-            get {
+        public static string Ring_RingOfTheRobust
+        {
+            get
+            {
                 return ResourceManager.GetString("Ring_RingOfTheRobust", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Rock of Anguish 的本地化字符串。
         /// </summary>
-        public static string Ring_RockOfAnguish {
-            get {
+        public static string Ring_RockOfAnguish
+        {
+            get
+            {
                 return ResourceManager.GetString("Ring_RockOfAnguish", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Rusted Heirloom 的本地化字符串。
         /// </summary>
-        public static string Ring_RustedHeirloom {
-            get {
+        public static string Ring_RustedHeirloom
+        {
+            get
+            {
                 return ResourceManager.GetString("Ring_RustedHeirloom", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Sagestone 的本地化字符串。
         /// </summary>
-        public static string Ring_Sagestone {
-            get {
+        public static string Ring_Sagestone
+        {
+            get
+            {
                 return ResourceManager.GetString("Ring_Sagestone", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Seal of the Empress 的本地化字符串。
         /// </summary>
-        public static string Ring_SealOfTheEmpress {
-            get {
+        public static string Ring_SealOfTheEmpress
+        {
+            get
+            {
                 return ResourceManager.GetString("Ring_SealOfTheEmpress", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Shaed Bloom Crystal 的本地化字符串。
         /// </summary>
-        public static string Ring_ShaedBloomCrystal {
-            get {
+        public static string Ring_ShaedBloomCrystal
+        {
+            get
+            {
                 return ResourceManager.GetString("Ring_ShaedBloomCrystal", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Shard Banded Ring 的本地化字符串。
         /// </summary>
-        public static string Ring_ShardBandedRing {
-            get {
+        public static string Ring_ShardBandedRing
+        {
+            get
+            {
                 return ResourceManager.GetString("Ring_ShardBandedRing", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Shiny Hog Lure 的本地化字符串。
         /// </summary>
-        public static string Ring_ShinyHogLure {
-            get {
+        public static string Ring_ShinyHogLure
+        {
+            get
+            {
                 return ResourceManager.GetString("Ring_ShinyHogLure", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Singed Ring 的本地化字符串。
         /// </summary>
-        public static string Ring_SingedRing {
-            get {
+        public static string Ring_SingedRing
+        {
+            get
+            {
                 return ResourceManager.GetString("Ring_SingedRing", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Slayers Crest 的本地化字符串。
         /// </summary>
-        public static string Ring_SlayersCrest {
-            get {
+        public static string Ring_SlayersCrest
+        {
+            get
+            {
                 return ResourceManager.GetString("Ring_SlayersCrest", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Soul Link 的本地化字符串。
         /// </summary>
-        public static string Ring_SoulLink {
-            get {
+        public static string Ring_SoulLink
+        {
+            get
+            {
                 return ResourceManager.GetString("Ring_SoulLink", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Spirit Stone 的本地化字符串。
         /// </summary>
-        public static string Ring_SpiritStone {
-            get {
+        public static string Ring_SpiritStone
+        {
+            get
+            {
                 return ResourceManager.GetString("Ring_SpiritStone", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Stockpile Charger 的本地化字符串。
         /// </summary>
-        public static string Ring_StockpileCharger {
-            get {
+        public static string Ring_StockpileCharger
+        {
+            get
+            {
                 return ResourceManager.GetString("Ring_StockpileCharger", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Stone of Balance 的本地化字符串。
         /// </summary>
-        public static string Ring_StoneOfBalance {
-            get {
+        public static string Ring_StoneOfBalance
+        {
+            get
+            {
                 return ResourceManager.GetString("Ring_StoneOfBalance", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Stone of Continuance 的本地化字符串。
         /// </summary>
-        public static string Ring_StoneOfContinuance {
-            get {
+        public static string Ring_StoneOfContinuance
+        {
+            get
+            {
                 return ResourceManager.GetString("Ring_StoneOfContinuance", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Stone of Expanse 的本地化字符串。
         /// </summary>
-        public static string Ring_StoneOfExpanse {
-            get {
+        public static string Ring_StoneOfExpanse
+        {
+            get
+            {
                 return ResourceManager.GetString("Ring_StoneOfExpanse", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Stone of Malevolence 的本地化字符串。
         /// </summary>
-        public static string Ring_StoneOfMalevolence {
-            get {
+        public static string Ring_StoneOfMalevolence
+        {
+            get
+            {
                 return ResourceManager.GetString("Ring_StoneOfMalevolence", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Stream Coupler Ring 的本地化字符串。
         /// </summary>
-        public static string Ring_StreamCoupler {
-            get {
+        public static string Ring_StreamCoupler
+        {
+            get
+            {
                 return ResourceManager.GetString("Ring_StreamCoupler", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Strong Arm Band 的本地化字符串。
         /// </summary>
-        public static string Ring_StrongArmBand {
-            get {
+        public static string Ring_StrongArmBand
+        {
+            get
+            {
                 return ResourceManager.GetString("Ring_StrongArmBand", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Subterfuge Link 的本地化字符串。
         /// </summary>
-        public static string Ring_SubterfugeLink {
-            get {
+        public static string Ring_SubterfugeLink
+        {
+            get
+            {
                 return ResourceManager.GetString("Ring_SubterfugeLink", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Suppression Ward 的本地化字符串。
         /// </summary>
-        public static string Ring_SuppressionWard {
-            get {
+        public static string Ring_SuppressionWard
+        {
+            get
+            {
                 return ResourceManager.GetString("Ring_SuppressionWard", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Targeting Jewel 的本地化字符串。
         /// </summary>
-        public static string Ring_TargetingJewel {
-            get {
+        public static string Ring_TargetingJewel
+        {
+            get
+            {
                 return ResourceManager.GetString("Ring_TargetingJewel", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Tarnished Ring 的本地化字符串。
         /// </summary>
-        public static string Ring_TarnishedRing {
-            get {
+        public static string Ring_TarnishedRing
+        {
+            get
+            {
                 return ResourceManager.GetString("Ring_TarnishedRing", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Tear of Kaeula 的本地化字符串。
         /// </summary>
-        public static string Ring_TearOfKaeula {
-            get {
+        public static string Ring_TearOfKaeula
+        {
+            get
+            {
                 return ResourceManager.GetString("Ring_TearOfKaeula", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Tempest Conduit 的本地化字符串。
         /// </summary>
-        public static string Ring_TempestConduit {
-            get {
+        public static string Ring_TempestConduit
+        {
+            get
+            {
                 return ResourceManager.GetString("Ring_TempestConduit", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Tightly Wound Coil 的本地化字符串。
         /// </summary>
-        public static string Ring_TightlyWoundCoil {
-            get {
+        public static string Ring_TightlyWoundCoil
+        {
+            get
+            {
                 return ResourceManager.GetString("Ring_TightlyWoundCoil", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Timekeeper&apos;s Jewel 的本地化字符串。
         /// </summary>
-        public static string Ring_TimekeepersJewel {
-            get {
+        public static string Ring_TimekeepersJewel
+        {
+            get
+            {
                 return ResourceManager.GetString("Ring_TimekeepersJewel", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Tomb Dweller&apos;s Ring 的本地化字符串。
         /// </summary>
-        public static string Ring_TombDwellersRing {
-            get {
+        public static string Ring_TombDwellersRing
+        {
+            get
+            {
                 return ResourceManager.GetString("Ring_TombDwellersRing", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Vacuum Seal 的本地化字符串。
         /// </summary>
-        public static string Ring_VacuumSeal {
-            get {
+        public static string Ring_VacuumSeal
+        {
+            get
+            {
                 return ResourceManager.GetString("Ring_VacuumSeal", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Vestige of Power 的本地化字符串。
         /// </summary>
-        public static string Ring_VestigeOfPower {
-            get {
+        public static string Ring_VestigeOfPower
+        {
+            get
+            {
                 return ResourceManager.GetString("Ring_VestigeOfPower", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Wax Sealed Ring 的本地化字符串。
         /// </summary>
-        public static string Ring_WaxSealedRing {
-            get {
+        public static string Ring_WaxSealedRing
+        {
+            get
+            {
                 return ResourceManager.GetString("Ring_WaxSealedRing", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 White Pawn Stamp 的本地化字符串。
         /// </summary>
-        public static string Ring_WhitePawnStamp {
-            get {
+        public static string Ring_WhitePawnStamp
+        {
+            get
+            {
                 return ResourceManager.GetString("Ring_WhitePawnStamp", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Wind Hollow Circlet 的本地化字符串。
         /// </summary>
-        public static string Ring_WindHollowCirclet {
-            get {
+        public static string Ring_WindHollowCirclet
+        {
+            get
+            {
                 return ResourceManager.GetString("Ring_WindHollowCirclet", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Zania&apos;s Malice 的本地化字符串。
         /// </summary>
-        public static string Ring_ZaniasMalice {
-            get {
+        public static string Ring_ZaniasMalice
+        {
+            get
+            {
                 return ResourceManager.GetString("Ring_ZaniasMalice", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Zohee&apos;s Ring 的本地化字符串。
         /// </summary>
-        public static string Ring_ZoheesRing {
-            get {
+        public static string Ring_ZoheesRing
+        {
+            get
+            {
                 return ResourceManager.GetString("Ring_ZoheesRing", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Rings 的本地化字符串。
         /// </summary>
-        public static string Rings {
-            get {
+        public static string Rings
+        {
+            get
+            {
                 return ResourceManager.GetString("Rings", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Flooding Sewer 的本地化字符串。
         /// </summary>
-        public static string RisingTides {
-            get {
+        public static string RisingTides
+        {
+            get
+            {
                 return ResourceManager.GetString("RisingTides", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Root 的本地化字符串。
         /// </summary>
-        public static string Root {
-            get {
+        public static string Root
+        {
+            get
+            {
                 return ResourceManager.GetString("Root", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Legion 的本地化字符串。
         /// </summary>
-        public static string RootCultist {
-            get {
+        public static string RootCultist
+        {
+            get
+            {
                 return ResourceManager.GetString("RootCultist", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Ashen Wasteland 的本地化字符串。
         /// </summary>
-        public static string RootEarthAshenWasteland {
-            get {
+        public static string RootEarthAshenWasteland
+        {
+            get
+            {
                 return ResourceManager.GetString("RootEarthAshenWasteland", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Corrupted Harbor 的本地化字符串。
         /// </summary>
-        public static string RootEarthCorruptedHarbor {
-            get {
+        public static string RootEarthCorruptedHarbor
+        {
+            get
+            {
                 return ResourceManager.GetString("RootEarthCorruptedHarbor", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Kaeula&apos;s Shadow 的本地化字符串。
         /// </summary>
-        public static string RootHorror {
-            get {
+        public static string RootHorror
+        {
+            get
+            {
                 return ResourceManager.GetString("RootHorror", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Root Nexus 的本地化字符串。
         /// </summary>
-        public static string RootNexus {
-            get {
+        public static string RootNexus
+        {
+            get
+            {
                 return ResourceManager.GetString("RootNexus", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Rot 的本地化字符串。
         /// </summary>
-        public static string Sarcophagus {
-            get {
+        public static string Sarcophagus
+        {
+            get
+            {
                 return ResourceManager.GetString("Sarcophagus", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 The Flooded Room 的本地化字符串。
         /// </summary>
-        public static string SewageFacility {
-            get {
+        public static string SewageFacility
+        {
+            get
+            {
                 return ResourceManager.GetString("SewageFacility", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Shattered Gallery 的本地化字符串。
         /// </summary>
-        public static string ShatteredGallery {
-            get {
+        public static string ShatteredGallery
+        {
+            get
+            {
                 return ResourceManager.GetString("ShatteredGallery", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Dungeon 的本地化字符串。
         /// </summary>
-        public static string SideD {
-            get {
+        public static string SideD
+        {
+            get
+            {
                 return ResourceManager.GetString("SideD", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 The Statues 的本地化字符串。
         /// </summary>
-        public static string SilverGold {
-            get {
+        public static string SilverGold
+        {
+            get
+            {
                 return ResourceManager.GetString("SilverGold", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Spectrum Nexus 的本地化字符串。
         /// </summary>
-        public static string SpectrumNexus {
-            get {
+        public static string SpectrumNexus
+        {
+            get
+            {
                 return ResourceManager.GetString("SpectrumNexus", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 The Progeny 的本地化字符串。
         /// </summary>
-        public static string StoreRoom {
-            get {
+        public static string StoreRoom
+        {
+            get
+            {
                 return ResourceManager.GetString("StoreRoom", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Summoner 的本地化字符串。
         /// </summary>
-        public static string Summoner {
-            get {
+        public static string Summoner
+        {
+            get
+            {
                 return ResourceManager.GetString("Summoner", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Tal Ratha 的本地化字符串。
         /// </summary>
-        public static string TalRatha {
-            get {
+        public static string TalRatha
+        {
+            get
+            {
                 return ResourceManager.GetString("TalRatha", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Terminus Station 的本地化字符串。
         /// </summary>
-        public static string TerminusStation {
-            get {
+        public static string TerminusStation
+        {
+            get
+            {
                 return ResourceManager.GetString("TerminusStation", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 TheTwistedChantry 的本地化字符串。
         /// </summary>
-        public static string The_Twisted_Chantry {
-            get {
+        public static string The_Twisted_Chantry
+        {
+            get
+            {
                 return ResourceManager.GetString("The Twisted Chantry", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 The Custodian 的本地化字符串。
         /// </summary>
-        public static string TheCustodian {
-            get {
+        public static string TheCustodian
+        {
+            get
+            {
                 return ResourceManager.GetString("TheCustodian", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 The Dappled Glade 的本地化字符串。
         /// </summary>
-        public static string TheDappledGlade {
-            get {
+        public static string TheDappledGlade
+        {
+            get
+            {
                 return ResourceManager.GetString("TheDappledGlade", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 The Expanding Glade 的本地化字符串。
         /// </summary>
-        public static string TheExpandingGlade {
-            get {
+        public static string TheExpandingGlade
+        {
+            get
+            {
                 return ResourceManager.GetString("TheExpandingGlade", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 The Great Bole 的本地化字符串。
         /// </summary>
-        public static string TheGreatBole {
-            get {
+        public static string TheGreatBole
+        {
+            get
+            {
                 return ResourceManager.GetString("TheGreatBole", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 The Great Hall 的本地化字符串。
         /// </summary>
-        public static string TheGreatHall {
-            get {
+        public static string TheGreatHall
+        {
+            get
+            {
                 return ResourceManager.GetString("TheGreatHall", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 The Great Sewers 的本地化字符串。
         /// </summary>
-        public static string TheGreatSewers {
-            get {
+        public static string TheGreatSewers
+        {
+            get
+            {
                 return ResourceManager.GetString("TheGreatSewers", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 The Hatchery 的本地化字符串。
         /// </summary>
-        public static string TheHatchery {
-            get {
+        public static string TheHatchery
+        {
+            get
+            {
                 return ResourceManager.GetString("TheHatchery", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 The Huntress 的本地化字符串。
         /// </summary>
-        public static string TheHunter {
-            get {
+        public static string TheHunter
+        {
+            get
+            {
                 return ResourceManager.GetString("TheHunter", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 The Lament 的本地化字符串。
         /// </summary>
-        public static string TheLament {
-            get {
+        public static string TheLament
+        {
+            get
+            {
                 return ResourceManager.GetString("TheLament", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 The Nameless Nest 的本地化字符串。
         /// </summary>
-        public static string TheNamelessNest {
-            get {
+        public static string TheNamelessNest
+        {
+            get
+            {
                 return ResourceManager.GetString("TheNamelessNest", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 The Phantom Wasteland 的本地化字符串。
         /// </summary>
-        public static string ThePhantomWasteland {
-            get {
+        public static string ThePhantomWasteland
+        {
+            get
+            {
                 return ResourceManager.GetString("ThePhantomWasteland", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 The Red Throne 的本地化字符串。
         /// </summary>
-        public static string TheRedThrone {
-            get {
+        public static string TheRedThrone
+        {
+            get
+            {
                 return ResourceManager.GetString("TheRedThrone", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Locked Safe 的本地化字符串。
         /// </summary>
-        public static string TheSafe {
-            get {
+        public static string TheSafe
+        {
+            get
+            {
                 return ResourceManager.GetString("TheSafe", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 The Twisted Chantry 的本地化字符串。
         /// </summary>
-        public static string TheTwistedChantry {
-            get {
+        public static string TheTwistedChantry
+        {
+            get
+            {
                 return ResourceManager.GetString("TheTwistedChantry", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 The Postulant 的本地化字符串。
         /// </summary>
-        public static string ThreeMenMorris {
-            get {
+        public static string ThreeMenMorris
+        {
+            get
+            {
                 return ResourceManager.GetString("ThreeMenMorris", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Threshold of the Unknown 的本地化字符串。
         /// </summary>
-        public static string ThresholdOfTheUnknown {
-            get {
+        public static string ThresholdOfTheUnknown
+        {
+            get
+            {
                 return ResourceManager.GetString("ThresholdOfTheUnknown", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Tiller&apos;s Rest 的本地化字符串。
         /// </summary>
-        public static string TillersRest {
-            get {
+        public static string TillersRest
+        {
+            get
+            {
                 return ResourceManager.GetString("TillersRest", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Tormented Asylum 的本地化字符串。
         /// </summary>
-        public static string TormentedAsylum {
-            get {
+        public static string TormentedAsylum
+        {
+            get
+            {
                 return ResourceManager.GetString("TormentedAsylum", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 The Elevator 的本地化字符串。
         /// </summary>
-        public static string Tower {
-            get {
+        public static string Tower
+        {
+            get
+            {
                 return ResourceManager.GetString("Tower", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Tower of the Unseen 的本地化字符串。
         /// </summary>
-        public static string TowerOfTheUnseen {
-            get {
+        public static string TowerOfTheUnseen
+        {
+            get
+            {
                 return ResourceManager.GetString("TowerOfTheUnseen", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Man in the Sewers 的本地化字符串。
         /// </summary>
-        public static string TownTurnedToDust {
-            get {
+        public static string TownTurnedToDust
+        {
+            get
+            {
                 return ResourceManager.GetString("TownTurnedToDust", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Ammo Reserves 的本地化字符串。
         /// </summary>
-        public static string Trait_AmmoReserves {
-            get {
+        public static string Trait_AmmoReserves
+        {
+            get
+            {
                 return ResourceManager.GetString("Trait_AmmoReserves", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Amplitude 的本地化字符串。
         /// </summary>
-        public static string Trait_Amplitude {
-            get {
+        public static string Trait_Amplitude
+        {
+            get
+            {
                 return ResourceManager.GetString("Trait_Amplitude", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Arcane Strike 的本地化字符串。
         /// </summary>
-        public static string Trait_ArcaneStrike {
-            get {
+        public static string Trait_ArcaneStrike
+        {
+            get
+            {
                 return ResourceManager.GetString("Trait_ArcaneStrike", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Barkskin 的本地化字符串。
         /// </summary>
-        public static string Trait_Barkskin {
-            get {
+        public static string Trait_Barkskin
+        {
+            get
+            {
                 return ResourceManager.GetString("Trait_Barkskin", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Blood Bond 的本地化字符串。
         /// </summary>
-        public static string Trait_BloodBond {
-            get {
+        public static string Trait_BloodBond
+        {
+            get
+            {
                 return ResourceManager.GetString("Trait_BloodBond", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Bloodstream 的本地化字符串。
         /// </summary>
-        public static string Trait_Bloodstream {
-            get {
+        public static string Trait_Bloodstream
+        {
+            get
+            {
                 return ResourceManager.GetString("Trait_Bloodstream", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Endurance 的本地化字符串。
         /// </summary>
-        public static string Trait_Endurance {
-            get {
+        public static string Trait_Endurance
+        {
+            get
+            {
                 return ResourceManager.GetString("Trait_Endurance", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Expertise 的本地化字符串。
         /// </summary>
-        public static string Trait_Expertise {
-            get {
+        public static string Trait_Expertise
+        {
+            get
+            {
                 return ResourceManager.GetString("Trait_Expertise", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Fitness 的本地化字符串。
         /// </summary>
-        public static string Trait_Fitness {
-            get {
+        public static string Trait_Fitness
+        {
+            get
+            {
                 return ResourceManager.GetString("Trait_Fitness", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Flash Caster 的本地化字符串。
         /// </summary>
-        public static string Trait_FlashCaster {
-            get {
+        public static string Trait_FlashCaster
+        {
+            get
+            {
                 return ResourceManager.GetString("Trait_FlashCaster", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Footwork 的本地化字符串。
         /// </summary>
-        public static string Trait_Footwork {
-            get {
+        public static string Trait_Footwork
+        {
+            get
+            {
                 return ResourceManager.GetString("Trait_Footwork", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Fortify 的本地化字符串。
         /// </summary>
-        public static string Trait_Fortify {
-            get {
+        public static string Trait_Fortify
+        {
+            get
+            {
                 return ResourceManager.GetString("Trait_Fortify", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Glutton 的本地化字符串。
         /// </summary>
-        public static string Trait_Glutton {
-            get {
+        public static string Trait_Glutton
+        {
+            get
+            {
                 return ResourceManager.GetString("Trait_Glutton", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Handling 的本地化字符串。
         /// </summary>
-        public static string Trait_Handling {
-            get {
+        public static string Trait_Handling
+        {
+            get
+            {
                 return ResourceManager.GetString("Trait_Handling", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Kinship 的本地化字符串。
         /// </summary>
-        public static string Trait_Kinship {
-            get {
+        public static string Trait_Kinship
+        {
+            get
+            {
                 return ResourceManager.GetString("Trait_Kinship", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Longshot 的本地化字符串。
         /// </summary>
-        public static string Trait_Longshot {
-            get {
+        public static string Trait_Longshot
+        {
+            get
+            {
                 return ResourceManager.GetString("Trait_Longshot", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Potency 的本地化字符串。
         /// </summary>
-        public static string Trait_Potency {
-            get {
+        public static string Trait_Potency
+        {
+            get
+            {
                 return ResourceManager.GetString("Trait_Potency", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Recovery 的本地化字符串。
         /// </summary>
-        public static string Trait_Recovery {
-            get {
+        public static string Trait_Recovery
+        {
+            get
+            {
                 return ResourceManager.GetString("Trait_Recovery", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Regrowth 的本地化字符串。
         /// </summary>
-        public static string Trait_Regrowth {
-            get {
+        public static string Trait_Regrowth
+        {
+            get
+            {
                 return ResourceManager.GetString("Trait_Regrowth", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Resonance 的本地化字符串。
         /// </summary>
-        public static string Trait_Resonance {
-            get {
+        public static string Trait_Resonance
+        {
+            get
+            {
                 return ResourceManager.GetString("Trait_Resonance", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Revivalist 的本地化字符串。
         /// </summary>
-        public static string Trait_Revivalist {
-            get {
+        public static string Trait_Revivalist
+        {
+            get
+            {
                 return ResourceManager.GetString("Trait_Revivalist", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Rugged 的本地化字符串。
         /// </summary>
-        public static string Trait_Rugged {
-            get {
+        public static string Trait_Rugged
+        {
+            get
+            {
                 return ResourceManager.GetString("Trait_Rugged", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Scholar 的本地化字符串。
         /// </summary>
-        public static string Trait_Scholar {
-            get {
+        public static string Trait_Scholar
+        {
+            get
+            {
                 return ResourceManager.GetString("Trait_Scholar", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Shadeskin 的本地化字符串。
         /// </summary>
-        public static string Trait_Shadeskin {
-            get {
+        public static string Trait_Shadeskin
+        {
+            get
+            {
                 return ResourceManager.GetString("Trait_Shadeskin", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Siphoner 的本地化字符串。
         /// </summary>
-        public static string Trait_Siphoner {
-            get {
+        public static string Trait_Siphoner
+        {
+            get
+            {
                 return ResourceManager.GetString("Trait_Siphoner", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Spirit 的本地化字符串。
         /// </summary>
-        public static string Trait_Spirit {
-            get {
+        public static string Trait_Spirit
+        {
+            get
+            {
                 return ResourceManager.GetString("Trait_Spirit", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Strong Back 的本地化字符串。
         /// </summary>
-        public static string Trait_StrongBack {
-            get {
+        public static string Trait_StrongBack
+        {
+            get
+            {
                 return ResourceManager.GetString("Trait_StrongBack", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Swiftness 的本地化字符串。
         /// </summary>
-        public static string Trait_Swiftness {
-            get {
+        public static string Trait_Swiftness
+        {
+            get
+            {
                 return ResourceManager.GetString("Trait_Swiftness", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Triage 的本地化字符串。
         /// </summary>
-        public static string Trait_Triage {
-            get {
+        public static string Trait_Triage
+        {
+            get
+            {
                 return ResourceManager.GetString("Trait_Triage", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Untouchable 的本地化字符串。
         /// </summary>
-        public static string Trait_Untouchable {
-            get {
+        public static string Trait_Untouchable
+        {
+            get
+            {
                 return ResourceManager.GetString("Trait_Untouchable", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Vigor 的本地化字符串。
         /// </summary>
-        public static string Trait_Vigor {
-            get {
+        public static string Trait_Vigor
+        {
+            get
+            {
                 return ResourceManager.GetString("Trait_Vigor", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Wayfarer 的本地化字符串。
         /// </summary>
-        public static string Trait_Wayfarer {
-            get {
+        public static string Trait_Wayfarer
+        {
+            get
+            {
                 return ResourceManager.GetString("Trait_Wayfarer", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Tome of Knowledge 的本地化字符串。
         /// </summary>
-        public static string TraitBook {
-            get {
+        public static string TraitBook
+        {
+            get
+            {
                 return ResourceManager.GetString("TraitBook", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Traits 的本地化字符串。
         /// </summary>
-        public static string Traits {
-            get {
+        public static string Traits
+        {
+            get
+            {
                 return ResourceManager.GetString("Traits", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Void Vessel Facility 的本地化字符串。
         /// </summary>
-        public static string VoidVesselFacility {
-            get {
+        public static string VoidVesselFacility
+        {
+            get
+            {
                 return ResourceManager.GetString("VoidVesselFacility", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Ward 13 的本地化字符串。
         /// </summary>
-        public static string Ward13 {
-            get {
+        public static string Ward13
+        {
+            get
+            {
                 return ResourceManager.GetString("Ward13", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Aphelion 的本地化字符串。
         /// </summary>
-        public static string Weapon_Aphelion {
-            get {
+        public static string Weapon_Aphelion
+        {
+            get
+            {
                 return ResourceManager.GetString("Weapon_Aphelion", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Assassin&apos;s Dagger 的本地化字符串。
         /// </summary>
-        public static string Weapon_AssassinsDagger {
-            get {
+        public static string Weapon_AssassinsDagger
+        {
+            get
+            {
                 return ResourceManager.GetString("Weapon_AssassinsDagger", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Blackmaw AR-47 的本地化字符串。
         /// </summary>
-        public static string Weapon_AssaultRifle {
-            get {
+        public static string Weapon_AssaultRifle
+        {
+            get
+            {
                 return ResourceManager.GetString("Weapon_AssaultRifle", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Atom Smasher 的本地化字符串。
         /// </summary>
-        public static string Weapon_AtomSmasher {
-            get {
+        public static string Weapon_AtomSmasher
+        {
+            get
+            {
                 return ResourceManager.GetString("Weapon_AtomSmasher", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Atom Splitter 的本地化字符串。
         /// </summary>
-        public static string Weapon_AtomSplitter {
-            get {
+        public static string Weapon_AtomSplitter
+        {
+            get
+            {
                 return ResourceManager.GetString("Weapon_AtomSplitter", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Blade of Gul 的本地化字符串。
         /// </summary>
-        public static string Weapon_BladeOfGul {
-            get {
+        public static string Weapon_BladeOfGul
+        {
+            get
+            {
                 return ResourceManager.GetString("Weapon_BladeOfGul", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Bolt Driver 的本地化字符串。
         /// </summary>
-        public static string Weapon_BoltDriver {
-            get {
+        public static string Weapon_BoltDriver
+        {
+            get
+            {
                 return ResourceManager.GetString("Weapon_BoltDriver", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Bone Chopper 的本地化字符串。
         /// </summary>
-        public static string Weapon_BoneChopper {
-            get {
+        public static string Weapon_BoneChopper
+        {
+            get
+            {
                 return ResourceManager.GetString("Weapon_BoneChopper", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Royal Hunting Bow 的本地化字符串。
         /// </summary>
-        public static string Weapon_Bow {
-            get {
+        public static string Weapon_Bow
+        {
+            get
+            {
                 return ResourceManager.GetString("Weapon_Bow", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Crescent Moon 的本地化字符串。
         /// </summary>
-        public static string Weapon_CrescentMoon {
-            get {
+        public static string Weapon_CrescentMoon
+        {
+            get
+            {
                 return ResourceManager.GetString("Weapon_CrescentMoon", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Crossbow 的本地化字符串。
         /// </summary>
-        public static string Weapon_Crossbow {
-            get {
+        public static string Weapon_Crossbow
+        {
+            get
+            {
                 return ResourceManager.GetString("Weapon_Crossbow", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Cube Gun 的本地化字符串。
         /// </summary>
-        public static string Weapon_CubeGun {
-            get {
+        public static string Weapon_CubeGun
+        {
+            get
+            {
                 return ResourceManager.GetString("Weapon_CubeGun", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Deceit 的本地化字符串。
         /// </summary>
-        public static string Weapon_Deceit {
-            get {
+        public static string Weapon_Deceit
+        {
+            get
+            {
                 return ResourceManager.GetString("Weapon_Deceit", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Dreamcatcher 的本地化字符串。
         /// </summary>
-        public static string Weapon_Dreamcatcher {
-            get {
+        public static string Weapon_Dreamcatcher
+        {
+            get
+            {
                 return ResourceManager.GetString("Weapon_Dreamcatcher", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Edge of the Forest 的本地化字符串。
         /// </summary>
-        public static string Weapon_EdgeOfTheForest {
-            get {
+        public static string Weapon_EdgeOfTheForest
+        {
+            get
+            {
                 return ResourceManager.GetString("Weapon_EdgeOfTheForest", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Enigma 的本地化字符串。
         /// </summary>
-        public static string Weapon_Enigma {
-            get {
+        public static string Weapon_Enigma
+        {
+            get
+            {
                 return ResourceManager.GetString("Weapon_Enigma", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Feral Judgment 的本地化字符串。
         /// </summary>
-        public static string Weapon_FeralJudgment {
-            get {
+        public static string Weapon_FeralJudgment
+        {
+            get
+            {
                 return ResourceManager.GetString("Weapon_FeralJudgment", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Steel Flail 的本地化字符串。
         /// </summary>
-        public static string Weapon_Flail {
-            get {
+        public static string Weapon_Flail
+        {
+            get
+            {
                 return ResourceManager.GetString("Weapon_Flail", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Godsplitter 的本地化字符串。
         /// </summary>
-        public static string Weapon_Godsplitter {
-            get {
+        public static string Weapon_Godsplitter
+        {
+            get
+            {
                 return ResourceManager.GetString("Weapon_Godsplitter", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Iron Greatsword 的本地化字符串。
         /// </summary>
-        public static string Weapon_Greatsword {
-            get {
+        public static string Weapon_Greatsword
+        {
+            get
+            {
                 return ResourceManager.GetString("Weapon_Greatsword", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Scrap Hatchet 的本地化字符串。
         /// </summary>
-        public static string Weapon_Hatchet {
-            get {
+        public static string Weapon_Hatchet
+        {
+            get
+            {
                 return ResourceManager.GetString("Weapon_Hatchet", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Hellfire 的本地化字符串。
         /// </summary>
-        public static string Weapon_Hellfire {
-            get {
+        public static string Weapon_Hellfire
+        {
+            get
+            {
                 return ResourceManager.GetString("Weapon_Hellfire", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Hero&apos;s Sword 的本地化字符串。
         /// </summary>
-        public static string Weapon_HerosSword {
-            get {
+        public static string Weapon_HerosSword
+        {
+            get
+            {
                 return ResourceManager.GetString("Weapon_HerosSword", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Sureshot 的本地化字符串。
         /// </summary>
-        public static string Weapon_HuntingPistol {
-            get {
+        public static string Weapon_HuntingPistol
+        {
+            get
+            {
                 return ResourceManager.GetString("Weapon_HuntingPistol", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Huntress Spear 的本地化字符串。
         /// </summary>
-        public static string Weapon_HuntressSpear {
-            get {
+        public static string Weapon_HuntressSpear
+        {
+            get
+            {
                 return ResourceManager.GetString("Weapon_HuntressSpear", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Katana 的本地化字符串。
         /// </summary>
-        public static string Weapon_Katana {
-            get {
+        public static string Weapon_Katana
+        {
+            get
+            {
                 return ResourceManager.GetString("Weapon_Katana", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Krell Axe 的本地化字符串。
         /// </summary>
-        public static string Weapon_KrellAxe {
-            get {
+        public static string Weapon_KrellAxe
+        {
+            get
+            {
                 return ResourceManager.GetString("Weapon_KrellAxe", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Labyrinth Staff 的本地化字符串。
         /// </summary>
-        public static string Weapon_LabyrinthStaff {
-            get {
+        public static string Weapon_LabyrinthStaff
+        {
+            get
+            {
                 return ResourceManager.GetString("Weapon_LabyrinthStaff", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Wrangler 1860 的本地化字符串。
         /// </summary>
-        public static string Weapon_LeverAction {
-            get {
+        public static string Weapon_LeverAction
+        {
+            get
+            {
                 return ResourceManager.GetString("Weapon_LeverAction", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Rusty Lever Action 的本地化字符串。
         /// </summary>
-        public static string Weapon_LeverAction_Rusty {
-            get {
+        public static string Weapon_LeverAction_Rusty
+        {
+            get
+            {
                 return ResourceManager.GetString("Weapon_LeverAction_Rusty", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 XMG57 Bonesaw 的本地化字符串。
         /// </summary>
-        public static string Weapon_LMG {
-            get {
+        public static string Weapon_LMG
+        {
+            get
+            {
                 return ResourceManager.GetString("Weapon_LMG", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Silverback Model 500 的本地化字符串。
         /// </summary>
-        public static string Weapon_Magnum {
-            get {
+        public static string Weapon_Magnum
+        {
+            get
+            {
                 return ResourceManager.GetString("Weapon_Magnum", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Merciless 的本地化字符串。
         /// </summary>
-        public static string Weapon_Merciless {
-            get {
+        public static string Weapon_Merciless
+        {
+            get
+            {
                 return ResourceManager.GetString("Weapon_Merciless", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Meridian 的本地化字符串。
         /// </summary>
-        public static string Weapon_Meridian {
-            get {
+        public static string Weapon_Meridian
+        {
+            get
+            {
                 return ResourceManager.GetString("Weapon_Meridian", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Nebula 的本地化字符串。
         /// </summary>
-        public static string Weapon_Nebula {
-            get {
+        public static string Weapon_Nebula
+        {
+            get
+            {
                 return ResourceManager.GetString("Weapon_Nebula", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Nightfall 的本地化字符串。
         /// </summary>
-        public static string Weapon_Nightfall {
-            get {
+        public static string Weapon_Nightfall
+        {
+            get
+            {
                 return ResourceManager.GetString("Weapon_Nightfall", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Nightshade 的本地化字符串。
         /// </summary>
-        public static string Weapon_Nightshade {
-            get {
+        public static string Weapon_Nightshade
+        {
+            get
+            {
                 return ResourceManager.GetString("Weapon_Nightshade", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Plasma Cutter 的本地化字符串。
         /// </summary>
-        public static string Weapon_PlasmaCutter {
-            get {
+        public static string Weapon_PlasmaCutter
+        {
+            get
+            {
                 return ResourceManager.GetString("Weapon_PlasmaCutter", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Pulse Rifle 的本地化字符串。
         /// </summary>
-        public static string Weapon_PulseRifle {
-            get {
+        public static string Weapon_PulseRifle
+        {
+            get
+            {
                 return ResourceManager.GetString("Weapon_PulseRifle", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Red Doe Staff 的本地化字符串。
         /// </summary>
-        public static string Weapon_RedDoeStaff {
-            get {
+        public static string Weapon_RedDoeStaff
+        {
+            get
+            {
                 return ResourceManager.GetString("Weapon_RedDoeStaff", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Rusty Repeater 的本地化字符串。
         /// </summary>
-        public static string Weapon_Repeater_Rusty {
-            get {
+        public static string Weapon_Repeater_Rusty
+        {
+            get
+            {
                 return ResourceManager.GetString("Weapon_Repeater_Rusty", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Western Classic 的本地化字符串。
         /// </summary>
-        public static string Weapon_Revolver {
-            get {
+        public static string Weapon_Revolver
+        {
+            get
+            {
                 return ResourceManager.GetString("Weapon_Revolver", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Royal Broadsword 的本地化字符串。
         /// </summary>
-        public static string Weapon_RoyalBroadsword {
-            get {
+        public static string Weapon_RoyalBroadsword
+        {
+            get
+            {
                 return ResourceManager.GetString("Weapon_RoyalBroadsword", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Rune Pistol 的本地化字符串。
         /// </summary>
-        public static string Weapon_RunePistol {
-            get {
+        public static string Weapon_RunePistol
+        {
+            get
+            {
                 return ResourceManager.GetString("Weapon_RunePistol", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Rupture Cannon 的本地化字符串。
         /// </summary>
-        public static string Weapon_RuptureCannon {
-            get {
+        public static string Weapon_RuptureCannon
+        {
+            get
+            {
                 return ResourceManager.GetString("Weapon_RuptureCannon", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Sagittarius 的本地化字符串。
         /// </summary>
-        public static string Weapon_Sagittarius {
-            get {
+        public static string Weapon_Sagittarius
+        {
+            get
+            {
                 return ResourceManager.GetString("Weapon_Sagittarius", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Savior 的本地化字符串。
         /// </summary>
-        public static string Weapon_Savior {
-            get {
+        public static string Weapon_Savior
+        {
+            get
+            {
                 return ResourceManager.GetString("Weapon_Savior", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Service Pistol 的本地化字符串。
         /// </summary>
-        public static string Weapon_ServicePistol {
-            get {
+        public static string Weapon_ServicePistol
+        {
+            get
+            {
                 return ResourceManager.GetString("Weapon_ServicePistol", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Double Barrel 的本地化字符串。
         /// </summary>
-        public static string Weapon_ShortBarrel {
-            get {
+        public static string Weapon_ShortBarrel
+        {
+            get
+            {
                 return ResourceManager.GetString("Weapon_ShortBarrel", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Shotgun 的本地化字符串。
         /// </summary>
-        public static string Weapon_Shotgun {
-            get {
+        public static string Weapon_Shotgun
+        {
+            get
+            {
                 return ResourceManager.GetString("Weapon_Shotgun", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 MP60-R 的本地化字符串。
         /// </summary>
-        public static string Weapon_SMG {
-            get {
+        public static string Weapon_SMG
+        {
+            get
+            {
                 return ResourceManager.GetString("Weapon_SMG", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Smolder 的本地化字符串。
         /// </summary>
-        public static string Weapon_Smolder {
-            get {
+        public static string Weapon_Smolder
+        {
+            get
+            {
                 return ResourceManager.GetString("Weapon_Smolder", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Sorrow 的本地化字符串。
         /// </summary>
-        public static string Weapon_Sorrow {
-            get {
+        public static string Weapon_Sorrow
+        {
+            get
+            {
                 return ResourceManager.GetString("Weapon_Sorrow", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Spectral Blade 的本地化字符串。
         /// </summary>
-        public static string Weapon_SpectralBlade {
-            get {
+        public static string Weapon_SpectralBlade
+        {
+            get
+            {
                 return ResourceManager.GetString("Weapon_SpectralBlade", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Sporebloom 的本地化字符串。
         /// </summary>
-        public static string Weapon_Sporebloom {
-            get {
+        public static string Weapon_Sporebloom
+        {
+            get
+            {
                 return ResourceManager.GetString("Weapon_Sporebloom", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Starkiller 的本地化字符串。
         /// </summary>
-        public static string Weapon_Starkiller {
-            get {
+        public static string Weapon_Starkiller
+        {
+            get
+            {
                 return ResourceManager.GetString("Weapon_Starkiller", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Star Shot 的本地化字符串。
         /// </summary>
-        public static string Weapon_StarShot {
-            get {
+        public static string Weapon_StarShot
+        {
+            get
+            {
                 return ResourceManager.GetString("Weapon_StarShot", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Stonebreaker 的本地化字符串。
         /// </summary>
-        public static string Weapon_Stonebreaker {
-            get {
+        public static string Weapon_Stonebreaker
+        {
+            get
+            {
                 return ResourceManager.GetString("Weapon_Stonebreaker", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Gas Giant 的本地化字符串。
         /// </summary>
-        public static string Weapon_TalRatha_Hammer {
-            get {
+        public static string Weapon_TalRatha_Hammer
+        {
+            get
+            {
                 return ResourceManager.GetString("Weapon_TalRatha_Hammer", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Chicago Typewritter 的本地化字符串。
         /// </summary>
-        public static string Weapon_TommyGun {
-            get {
+        public static string Weapon_TommyGun
+        {
+            get
+            {
                 return ResourceManager.GetString("Weapon_TommyGun", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Twisted Arbalest 的本地化字符串。
         /// </summary>
-        public static string Weapon_TwistedArbalest {
-            get {
+        public static string Weapon_TwistedArbalest
+        {
+            get
+            {
                 return ResourceManager.GetString("Weapon_TwistedArbalest", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Vice Grips 的本地化字符串。
         /// </summary>
-        public static string Weapon_ViceGrips {
-            get {
+        public static string Weapon_ViceGrips
+        {
+            get
+            {
                 return ResourceManager.GetString("Weapon_ViceGrips", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 World&apos;s Edge 的本地化字符串。
         /// </summary>
-        public static string Weapon_WorldsEdge {
-            get {
+        public static string Weapon_WorldsEdge
+        {
+            get
+            {
                 return ResourceManager.GetString("Weapon_WorldsEdge", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Weapons 的本地化字符串。
         /// </summary>
-        public static string Weapons {
-            get {
+        public static string Weapons
+        {
+            get
+            {
                 return ResourceManager.GetString("Weapons", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Flute Tower 的本地化字符串。
         /// </summary>
-        public static string WindHollow {
-            get {
+        public static string WindHollow
+        {
+            get
+            {
                 return ResourceManager.GetString("WindHollow", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Earth 的本地化字符串。
         /// </summary>
-        public static string World_Earth {
-            get {
+        public static string World_Earth
+        {
+            get
+            {
                 return ResourceManager.GetString("World_Earth", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Losomn 的本地化字符串。
         /// </summary>
-        public static string World_Fae {
-            get {
+        public static string World_Fae
+        {
+            get
+            {
                 return ResourceManager.GetString("World_Fae", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Yaesha 的本地化字符串。
         /// </summary>
-        public static string World_Jungle {
-            get {
+        public static string World_Jungle
+        {
+            get
+            {
                 return ResourceManager.GetString("World_Jungle", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Labyrinth 的本地化字符串。
         /// </summary>
-        public static string World_Labyrinth {
-            get {
+        public static string World_Labyrinth
+        {
+            get
+            {
                 return ResourceManager.GetString("World_Labyrinth", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 N&apos;Erud 的本地化字符串。
         /// </summary>
-        public static string World_Nerud {
-            get {
+        public static string World_Nerud
+        {
+            get
+            {
                 return ResourceManager.GetString("World_Nerud", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 Root Earth 的本地化字符串。
         /// </summary>
-        public static string World_RootEarth {
-            get {
+        public static string World_RootEarth
+        {
+            get
+            {
                 return ResourceManager.GetString("World_RootEarth", resourceCulture);
             }
         }
-        
+
         /// <summary>
         ///   查找类似 World Boss 的本地化字符串。
         /// </summary>
-        public static string WorldBoss {
-            get {
+        public static string WorldBoss
+        {
+            get
+            {
                 return ResourceManager.GetString("WorldBoss", resourceCulture);
             }
         }

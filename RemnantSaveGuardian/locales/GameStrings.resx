@@ -828,6 +828,9 @@
   <data name="Quest_Story_Empress_Zone01_Template01" xml:space="preserve">
     <value>The Red Throne</value>
   </data>
+  <data name="RavagersLair" xml:space="preserve">
+    <value>Ravager's Lair</value>
+  </data>
   <data name="RavagerStory" xml:space="preserve">
     <value>Ravager &amp; Doe</value>
   </data>
@@ -1655,6 +1658,9 @@
   </data>
   <data name="Weapon_Nightshade" xml:space="preserve">
     <value>Nightshade</value>
+  </data>
+  <data name="Weapon_OrnateBlade" xml:space="preserve">
+    <value>Ornate Blade</value>
   </data>
   <data name="Weapon_PlasmaCutter" xml:space="preserve">
     <value>Plasma Cutter</value>

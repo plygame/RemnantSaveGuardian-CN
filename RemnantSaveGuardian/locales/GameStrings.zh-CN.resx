@@ -2050,13 +2050,13 @@
     <value>补锌指环</value>
   </data>
   <data name="AsylumHouse" xml:space="preserve">
-    <value>病院屋子</value>
+    <value>精神病院屋子</value>
   </data>
   <data name="AsylumStory" xml:space="preserve">
-    <value>病院</value>
+    <value>精神病院</value>
   </data>
   <data name="Asylum" xml:space="preserve">
-    <value>病院</value>
+    <value>精神病院</value>
   </data>
   <data name="Ring_ReroutingCable" xml:space="preserve">
     <value>变线电缆</value>
@@ -2177,5 +2177,35 @@
   </data>
   <data name="AllFather" xml:space="preserve">
     <value>{AllFatherStory}</value>
+  </data>
+  <data name="City" xml:space="preserve">
+    <value>城市</value>
+  </data>
+  <data name="City02" xml:space="preserve">
+    <value>城市02</value>
+  </data>
+  <data name="Overworld" xml:space="preserve">
+    <value>地图</value>
+  </data>
+  <data name="Overworld01" xml:space="preserve">
+    <value>地图01</value>
+  </data>
+  <data name="Overworld02" xml:space="preserve">
+    <value>地图02</value>
+  </data>
+  <data name="Overworld1" xml:space="preserve">
+    <value>地图1</value>
+  </data>
+  <data name="Overworld_Zone2" xml:space="preserve">
+    <value>地图区域2</value>
+  </data>
+  <data name="Towers_Test" xml:space="preserve">
+    <value>塔楼测试</value>
+  </data>
+  <data name="Underground_Stasis" xml:space="preserve">
+    <value>地下-静滞</value>
+  </data>
+  <data name="Whispers" xml:space="preserve">
+    <value>低语</value>
   </data>
 </root>

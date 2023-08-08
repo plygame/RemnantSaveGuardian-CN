@@ -1542,11 +1542,11 @@
         },
         {
           "name": "/Items/Trinkets/Amulets/LetosAmulet/Amulet_LetosAmulet",
-          "notes": "扑倒100次"
+          "notes": "flop 100 times"
         },
         {
           "name": "/Items/Trinkets/Rings/BlackCatBand/Ring_BlackCatBand",
-          "notes": "死15此"
+          "notes": "die 15 times"
         }
       ],
       "Cass": [

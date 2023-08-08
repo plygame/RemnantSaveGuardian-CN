@@ -1285,6 +1285,15 @@ namespace RemnantSaveGuardian.locales {
         }
         
         /// <summary>
+        ///   查找类似 扑倒100次 的本地化字符串。
+        /// </summary>
+        public static string flop_100_times {
+            get {
+                return ResourceManager.GetString("flop 100 times", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   查找类似 Forgotten Field 的本地化字符串。
         /// </summary>
         public static string ForgottenField {
@@ -3765,6 +3774,15 @@ namespace RemnantSaveGuardian.locales {
         public static string StoreRoom {
             get {
                 return ResourceManager.GetString("StoreRoom", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   查找类似 死15次 的本地化字符串。
+        /// </summary>
+        public static string String1 {
+            get {
+                return ResourceManager.GetString("String1", resourceCulture);
             }
         }
         

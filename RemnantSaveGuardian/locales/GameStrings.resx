@@ -525,6 +525,9 @@
   <data name="FaeWarriorRing" xml:space="preserve">
     <value>Fae Warrior Ring</value>
   </data>
+  <data name="flop 100 times" xml:space="preserve">
+    <value>扑倒100次</value>
+  </data>
   <data name="ForgottenField" xml:space="preserve">
     <value>Forgotten Field</value>
   </data>
@@ -1352,6 +1355,9 @@
   </data>
   <data name="StoreRoom" xml:space="preserve">
     <value>The Progeny</value>
+  </data>
+  <data name="String1" xml:space="preserve">
+    <value>死15次</value>
   </data>
   <data name="Summoner" xml:space="preserve">
     <value>Summoner</value>

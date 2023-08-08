@@ -2208,4 +2208,37 @@
   <data name="Whispers" xml:space="preserve">
     <value>低语</value>
   </data>
+  <data name="Complete Yaesha on HC" xml:space="preserve">
+    <value>在硬核模式下完成耶莎</value>
+  </data>
+  <data name="Complete Labyrinth on HC" xml:space="preserve">
+    <value>在硬核模式下完成迷宫</value>
+  </data>
+  <data name="Complete Losomn on HC" xml:space="preserve">
+    <value>在硬核模式下完成洛斯曼</value>
+  </data>
+  <data name="Complete N'Erud on HC" xml:space="preserve">
+    <value>在硬核模式下完成涅鲁德</value>
+  </data>
+  <data name="Complete the game" xml:space="preserve">
+    <value>完成游戏</value>
+  </data>
+  <data name="Complete the game on Apocalypse" xml:space="preserve">
+    <value>在末日难度下完成游戏</value>
+  </data>
+  <data name="Complete the game on HC" xml:space="preserve">
+    <value>在硬核模式下完成游戏</value>
+  </data>
+  <data name="Complete the game on Veteran" xml:space="preserve">
+    <value>在老手难度下完成游戏</value>
+  </data>
+  <data name="Complete the game on Veteran HC" xml:space="preserve">
+    <value>在硬核老手难度下完成游戏</value>
+  </data>
+  <data name="Hardcore" xml:space="preserve">
+    <value>硬核</value>
+  </data>
+  <data name="Weapon_CoachGun" xml:space="preserve">
+    <value>双管霰弹枪</value>
+  </data>
 </root>

@@ -19,12 +19,9 @@
 5. 运行原版的 RemnantSaveGuardian.exe
 
 ## 已知问题
-- [某些项目错误地显示为缺失](https://github.com/Razzmatazzz/RemnantSaveGuardian/issues/16)
-- [某些事件和物品没有良好的格式化的名称](https://github.com/Razzmatazzz/RemnantSaveGuardian/issues/9)
-- [某些事件(特别是Boss)显示错误](https://github.com/Razzmatazzz/RemnantSaveGuardian/issues/12)
-- [某些事件是重复的](https://github.com/Razzmatazzz/RemnantSaveGuardian/issues/14)
-
-
+- [某些项目错误地显示为缺失](https://github.com/Razzmatazzz/RemnantSaveGuardian/issues/43)
+- [某些事件和物品没有良好的格式化的名称](https://github.com/Razzmatazzz/RemnantSaveGuardian/issues/45)
+- [某些事件未显示或错误的显示](https://github.com/Razzmatazzz/RemnantSaveGuardian/issues/44)
 
 Thanks for @crackedmind for the inflation code to convert saves into partial plaintext. 
 

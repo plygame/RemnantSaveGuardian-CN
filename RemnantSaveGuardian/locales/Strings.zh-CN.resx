@@ -310,7 +310,7 @@
     <value>恢复备份</value>
   </data>
   <data name="Missing Items" xml:space="preserve">
-    <value>物品</value>
+    <value>缺失的物品</value>
   </data>
   <data name="Move Backups" xml:space="preserve">
     <value>移动备份</value>

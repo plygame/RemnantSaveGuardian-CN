@@ -58,16 +58,25 @@
 
   <ItemGroup>
     <EmbeddedResource Update="locales\GameStrings.resx">
-      <LastGenOutput>GameStrings.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
       <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>GameStrings.Designer.cs</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Update="locales\GameStrings.ko.resx">
       <Generator>PublicResXFileCodeGenerator</Generator>
     </EmbeddedResource>
-    <EmbeddedResource Update="locales\Strings.resx">
+    <EmbeddedResource Update="locales\Strings.en-US.resx">
       <LastGenOutput>Strings.Designer.cs</LastGenOutput>
       <Generator>PublicResXFileCodeGenerator</Generator>
     </EmbeddedResource>
+	  <EmbeddedResource Update="locales\Strings.resx">
+		  <LastGenOutput>Strings.Designer.cs</LastGenOutput>
+		  <Generator>PublicResXFileCodeGenerator</Generator>
+	  </EmbeddedResource>
+	  <EmbeddedResource Update="locales\Strings.zh-CN.resx">
+		  <LastGenOutput>Strings.zh-CN.Designer.cs</LastGenOutput>
+		  <Generator>PublicResXFileCodeGenerator</Generator>
+	  </EmbeddedResource>
     <EmbeddedResource Update="locales\Strings.ko.resx">
       <Generator>PublicResXFileCodeGenerator</Generator>
     </EmbeddedResource>

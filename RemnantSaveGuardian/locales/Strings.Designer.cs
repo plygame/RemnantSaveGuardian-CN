@@ -61,7 +61,7 @@ namespace RemnantSaveGuardian.locales {
         }
         
         /// <summary>
-        ///   查找类似 About Remnant Save Guardian 的本地化字符串。
+        ///   查找类似 关于 的本地化字符串。
         /// </summary>
         public static string AboutRSG {
             get {
@@ -70,7 +70,7 @@ namespace RemnantSaveGuardian.locales {
         }
         
         /// <summary>
-        ///   查找类似 Active 的本地化字符串。
+        ///   查找类似 启用 的本地化字符串。
         /// </summary>
         public static string Active {
             get {
@@ -79,7 +79,7 @@ namespace RemnantSaveGuardian.locales {
         }
         
         /// <summary>
-        ///   查找类似 Adventure 的本地化字符串。
+        ///   查找类似 冒险 的本地化字符串。
         /// </summary>
         public static string Adventure {
             get {
@@ -88,7 +88,7 @@ namespace RemnantSaveGuardian.locales {
         }
         
         /// <summary>
-        ///   查找类似 Are you sure you want to delete backup {backupName}? 的本地化字符串。
+        ///   查找类似 您确定要删除备份 {backupName} 吗？ 的本地化字符串。
         /// </summary>
         public static string Are_you_sure_you_want_to_delete_backup__backupName__ {
             get {
@@ -97,7 +97,7 @@ namespace RemnantSaveGuardian.locales {
         }
         
         /// <summary>
-        ///   查找类似 Backup completed 的本地化字符串。
+        ///   查找类似 备份完成 的本地化字符串。
         /// </summary>
         public static string Backup_completed {
             get {
@@ -106,7 +106,7 @@ namespace RemnantSaveGuardian.locales {
         }
         
         /// <summary>
-        ///   查找类似 Backup Folder 的本地化字符串。
+        ///   查找类似 备份文件夹 的本地化字符串。
         /// </summary>
         public static string Backup_Folder {
             get {
@@ -115,7 +115,7 @@ namespace RemnantSaveGuardian.locales {
         }
         
         /// <summary>
-        ///   查找类似 Backup folder not set; reverting to default. 的本地化字符串。
+        ///   查找类似 未设置备份文件夹；恢复为默认。 的本地化字符串。
         /// </summary>
         public static string Backup_folder_not_set__reverting_to_default_ {
             get {
@@ -124,7 +124,7 @@ namespace RemnantSaveGuardian.locales {
         }
         
         /// <summary>
-        ///   查找类似 Backup restored 的本地化字符串。
+        ///   查找类似 备份已恢复 的本地化字符串。
         /// </summary>
         public static string Backup_restored {
             get {
@@ -133,7 +133,7 @@ namespace RemnantSaveGuardian.locales {
         }
         
         /// <summary>
-        ///   查找类似 Backups folder not found, creating... 的本地化字符串。
+        ///   查找类似 未找到备份文件夹，正在创建... 的本地化字符串。
         /// </summary>
         public static string Backups_folder_not_found__creating___ {
             get {
@@ -142,7 +142,7 @@ namespace RemnantSaveGuardian.locales {
         }
         
         /// <summary>
-        ///   查找类似 Backups found 的本地化字符串。
+        ///   查找类似 找到备份 的本地化字符串。
         /// </summary>
         public static string Backups_found {
             get {
@@ -151,7 +151,7 @@ namespace RemnantSaveGuardian.locales {
         }
         
         /// <summary>
-        ///   查找类似 Backup current save 的本地化字符串。
+        ///   查找类似 备份当前保存 的本地化字符串。
         /// </summary>
         public static string btnBackup_ToolTip {
             get {
@@ -160,7 +160,7 @@ namespace RemnantSaveGuardian.locales {
         }
         
         /// <summary>
-        ///   查找类似 Check Now 的本地化字符串。
+        ///   查找类似 立即查看 的本地化字符串。
         /// </summary>
         public static string btnCheckUpdate_Content {
             get {
@@ -169,7 +169,7 @@ namespace RemnantSaveGuardian.locales {
         }
         
         /// <summary>
-        ///   查找类似 Open backups folder 的本地化字符串。
+        ///   查找类似 打开备份文件夹 的本地化字符串。
         /// </summary>
         public static string btnOpenBackupsFolder_ToolTip {
             get {
@@ -178,7 +178,7 @@ namespace RemnantSaveGuardian.locales {
         }
         
         /// <summary>
-        ///   查找类似 Start game 的本地化字符串。
+        ///   查找类似 开始游戏 的本地化字符串。
         /// </summary>
         public static string btnStartGame_ToolTip {
             get {
@@ -187,7 +187,7 @@ namespace RemnantSaveGuardian.locales {
         }
         
         /// <summary>
-        ///   查找类似 Campaign 的本地化字符串。
+        ///   查找类似 战役 的本地化字符串。
         /// </summary>
         public static string Campaign {
             get {
@@ -196,7 +196,7 @@ namespace RemnantSaveGuardian.locales {
         }
         
         /// <summary>
-        ///   查找类似 Cancel 的本地化字符串。
+        ///   查找类似 取消 的本地化字符串。
         /// </summary>
         public static string Cancel {
             get {
@@ -205,7 +205,7 @@ namespace RemnantSaveGuardian.locales {
         }
         
         /// <summary>
-        ///   查找类似 Character 的本地化字符串。
+        ///   查找类似 角色 的本地化字符串。
         /// </summary>
         public static string Character {
             get {
@@ -214,7 +214,7 @@ namespace RemnantSaveGuardian.locales {
         }
         
         /// <summary>
-        ///   查找类似 Characters 的本地化字符串。
+        ///   查找类似 角色 的本地化字符串。
         /// </summary>
         public static string Characters {
             get {
@@ -223,7 +223,7 @@ namespace RemnantSaveGuardian.locales {
         }
         
         /// <summary>
-        ///   查找类似 Automatically backup save files 的本地化字符串。
+        ///   查找类似 自动备份存档 的本地化字符串。
         /// </summary>
         public static string chkAutoBackup_Content {
             get {
@@ -232,7 +232,7 @@ namespace RemnantSaveGuardian.locales {
         }
         
         /// <summary>
-        ///   查找类似 Monitor Remnant save files and back them up when they&apos;re changed 的本地化字符串。
+        ///   查找类似 监控遗迹存档文件，并在文件更改时进行备份 的本地化字符串。
         /// </summary>
         public static string chkAutoBackup_ToolTip {
             get {
@@ -241,7 +241,7 @@ namespace RemnantSaveGuardian.locales {
         }
         
         /// <summary>
-        ///   查找类似 Automatically check for program update 的本地化字符串。
+        ///   查找类似 自动检查更新 的本地化字符串。
         /// </summary>
         public static string chkAutoCheckUpdate_Content {
             get {
@@ -250,7 +250,7 @@ namespace RemnantSaveGuardian.locales {
         }
         
         /// <summary>
-        ///   查找类似 Create log file 的本地化字符串。
+        ///   查找类似 创建日志文件 的本地化字符串。
         /// </summary>
         public static string chkCreateLogFile_Content {
             get {
@@ -259,7 +259,7 @@ namespace RemnantSaveGuardian.locales {
         }
         
         /// <summary>
-        ///   查找类似 Whether a log.txt file should be created 的本地化字符串。
+        ///   查找类似 是否创建log.txt文件 的本地化字符串。
         /// </summary>
         public static string chkCreateLogFile_ToolTip {
             get {
@@ -268,7 +268,7 @@ namespace RemnantSaveGuardian.locales {
         }
         
         /// <summary>
-        ///   查找类似 Show Possible Items column in analyzer 的本地化字符串。
+        ///   查找类似 在分析器中显示可能出现的物品 的本地化字符串。
         /// </summary>
         public static string chkShowPossibleItems_Content {
             get {
@@ -277,7 +277,7 @@ namespace RemnantSaveGuardian.locales {
         }
         
         /// <summary>
-        ///   查找类似 Choose a backup to restore from the list. 的本地化字符串。
+        ///   查找类似 从列表中选择要还原的备份。 的本地化字符串。
         /// </summary>
         public static string Choose_a_backup_to_restore_from_the_list_ {
             get {
@@ -286,7 +286,7 @@ namespace RemnantSaveGuardian.locales {
         }
         
         /// <summary>
-        ///   查找类似 Confirm Delete 的本地化字符串。
+        ///   查找类似 确认删除 的本地化字符串。
         /// </summary>
         public static string Confirm_Delete {
             get {
@@ -295,7 +295,7 @@ namespace RemnantSaveGuardian.locales {
         }
         
         /// <summary>
-        ///   查找类似 Copy 的本地化字符串。
+        ///   查找类似 复制 的本地化字符串。
         /// </summary>
         public static string Copy {
             get {
@@ -304,7 +304,7 @@ namespace RemnantSaveGuardian.locales {
         }
         
         /// <summary>
-        ///   查找类似 Could not find save file location; please set manually 的本地化字符串。
+        ///   查找类似 找不到存档文件的位置; 请手动设置 的本地化字符串。
         /// </summary>
         public static string Could_not_find_save_file_location__please_set_manually {
             get {
@@ -313,7 +313,7 @@ namespace RemnantSaveGuardian.locales {
         }
         
         /// <summary>
-        ///   查找类似 Dark 的本地化字符串。
+        ///   查找类似 黑暗 的本地化字符串。
         /// </summary>
         public static string Dark {
             get {
@@ -322,7 +322,7 @@ namespace RemnantSaveGuardian.locales {
         }
         
         /// <summary>
-        ///   查找类似 Date 的本地化字符串。
+        ///   查找类似 日期 的本地化字符串。
         /// </summary>
         public static string Date {
             get {
@@ -331,7 +331,7 @@ namespace RemnantSaveGuardian.locales {
         }
         
         /// <summary>
-        ///   查找类似 Delete 的本地化字符串。
+        ///   查找类似 删除 的本地化字符串。
         /// </summary>
         public static string Delete {
             get {
@@ -340,7 +340,7 @@ namespace RemnantSaveGuardian.locales {
         }
         
         /// <summary>
-        ///   查找类似 Deleting excess backup 的本地化字符串。
+        ///   查找类似 删除多余备份 的本地化字符串。
         /// </summary>
         public static string Deleting_excess_backup {
             get {
@@ -349,7 +349,7 @@ namespace RemnantSaveGuardian.locales {
         }
         
         /// <summary>
-        ///   查找类似 Do you want to move your backups to this new folder? 的本地化字符串。
+        ///   查找类似 您想将备份移动到这个新文件夹吗？ 的本地化字符串。
         /// </summary>
         public static string Do_you_want_to_move_your_backups_to_this_new_folder_ {
             get {
@@ -358,7 +358,7 @@ namespace RemnantSaveGuardian.locales {
         }
         
         /// <summary>
-        ///   查找类似 Error checking for new game info 的本地化字符串。
+        ///   查找类似 检查新游戏信息时出错 的本地化字符串。
         /// </summary>
         public static string Error_checking_for_new_game_info {
             get {
@@ -367,7 +367,7 @@ namespace RemnantSaveGuardian.locales {
         }
         
         /// <summary>
-        ///   查找类似 Error checking for new version 的本地化字符串。
+        ///   查找类似 检查新版本时出错 的本地化字符串。
         /// </summary>
         public static string Error_checking_for_new_version {
             get {
@@ -376,7 +376,7 @@ namespace RemnantSaveGuardian.locales {
         }
         
         /// <summary>
-        ///   查找类似 Exit the game before restoring a save backup. 的本地化字符串。
+        ///   查找类似 在恢复存档备份前请退出游戏。 的本地化字符串。
         /// </summary>
         public static string Exit_the_game_before_restoring_a_save_backup_ {
             get {
@@ -385,7 +385,7 @@ namespace RemnantSaveGuardian.locales {
         }
         
         /// <summary>
-        ///   查找类似 Export save files 的本地化字符串。
+        ///   查找类似 导出存档文件 的本地化字符串。
         /// </summary>
         public static string Export_save_files_as_plaintext {
             get {
@@ -394,7 +394,7 @@ namespace RemnantSaveGuardian.locales {
         }
         
         /// <summary>
-        ///   查找类似 Game Folder 的本地化字符串。
+        ///   查找类似 游戏文件夹 的本地化字符串。
         /// </summary>
         public static string Game_Folder {
             get {
@@ -403,7 +403,7 @@ namespace RemnantSaveGuardian.locales {
         }
         
         /// <summary>
-        ///   查找类似 Game info updated. 的本地化字符串。
+        ///   查找类似 游戏信息已更新。 的本地化字符串。
         /// </summary>
         public static string Game_info_updated_ {
             get {
@@ -412,7 +412,7 @@ namespace RemnantSaveGuardian.locales {
         }
         
         /// <summary>
-        ///   查找类似 Hardcore 的本地化字符串。
+        ///   查找类似 硬核 的本地化字符串。
         /// </summary>
         public static string Hardcore {
             get {
@@ -421,7 +421,7 @@ namespace RemnantSaveGuardian.locales {
         }
         
         /// <summary>
-        ///   查找类似 Home 的本地化字符串。
+        ///   查找类似 首页 的本地化字符串。
         /// </summary>
         public static string Home {
             get {
@@ -430,7 +430,7 @@ namespace RemnantSaveGuardian.locales {
         }
         
         /// <summary>
-        ///   查找类似 Info 的本地化字符串。
+        ///   查找类似 信息 的本地化字符串。
         /// </summary>
         public static string Info {
             get {
@@ -439,7 +439,7 @@ namespace RemnantSaveGuardian.locales {
         }
         
         /// <summary>
-        ///   查找类似 Invalid backup restore type 的本地化字符串。
+        ///   查找类似 备份还原类型无效 的本地化字符串。
         /// </summary>
         public static string Invalid_backup_restore_type {
             get {
@@ -448,7 +448,7 @@ namespace RemnantSaveGuardian.locales {
         }
         
         /// <summary>
-        ///   查找类似 Invalid Folder 的本地化字符串。
+        ///   查找类似 无效文件夹 的本地化字符串。
         /// </summary>
         public static string Invalid_Folder {
             get {
@@ -457,7 +457,7 @@ namespace RemnantSaveGuardian.locales {
         }
         
         /// <summary>
-        ///   查找类似 Invalid folder: Backup folder cannot be the game&apos;s save folder. 的本地化字符串。
+        ///   查找类似 文件夹无效：备份文件夹不能是游戏的存档文件夹。 的本地化字符串。
         /// </summary>
         public static string InvalidBackupFolderNoBackupsInSaves {
             get {
@@ -466,7 +466,7 @@ namespace RemnantSaveGuardian.locales {
         }
         
         /// <summary>
-        ///   查找类似 Invalid folder: Select where your Remnant II game is installed. 的本地化字符串。
+        ///   查找类似 文件夹无效：选择遗迹2的安装位置。 的本地化字符串。
         /// </summary>
         public static string InvalidGameFolder {
             get {
@@ -475,7 +475,7 @@ namespace RemnantSaveGuardian.locales {
         }
         
         /// <summary>
-        ///   查找类似 Invalid folder: Select where your Remnant II saves are stored 的本地化字符串。
+        ///   查找类似 文件夹无效：选择遗迹2存档位置 的本地化字符串。
         /// </summary>
         public static string InvalidSaveFolder {
             get {
@@ -484,7 +484,7 @@ namespace RemnantSaveGuardian.locales {
         }
         
         /// <summary>
-        ///   查找类似 Invalid folder: Please select a folder other than the backup folder. 的本地化字符串。
+        ///   查找类似 无效文件夹：请选择备份文件夹以外的文件夹。 的本地化字符串。
         /// </summary>
         public static string InvalidSaveFolderNoSavesInBackups {
             get {
@@ -493,7 +493,7 @@ namespace RemnantSaveGuardian.locales {
         }
         
         /// <summary>
-        ///   查找类似 Keep 的本地化字符串。
+        ///   查找类似 保留 的本地化字符串。
         /// </summary>
         public static string Keep {
             get {
@@ -502,7 +502,7 @@ namespace RemnantSaveGuardian.locales {
         }
         
         /// <summary>
-        ///   查找类似 Last backup save date 的本地化字符串。
+        ///   查找类似 最后备份日期 的本地化字符串。
         /// </summary>
         public static string Last_backup_save_date {
             get {
@@ -511,7 +511,7 @@ namespace RemnantSaveGuardian.locales {
         }
         
         /// <summary>
-        ///   查找类似 Backups to keep (0 for unlimited) 的本地化字符串。
+        ///   查找类似 要保留的备份（0 表示无限制） 的本地化字符串。
         /// </summary>
         public static string lblBackupLimit_Text {
             get {
@@ -520,7 +520,7 @@ namespace RemnantSaveGuardian.locales {
         }
         
         /// <summary>
-        ///   查找类似 When your number of backups reaches this number, backups will automatically be deleted starting with the oldest 的本地化字符串。
+        ///   查找类似 当备份数量达到此值时，将自动从最旧的备份开始删除。 的本地化字符串。
         /// </summary>
         public static string lblBackupLimit_ToolTip {
             get {
@@ -529,7 +529,7 @@ namespace RemnantSaveGuardian.locales {
         }
         
         /// <summary>
-        ///   查找类似 Minutes between backups 的本地化字符串。
+        ///   查找类似 备份间隔时间 的本地化字符串。
         /// </summary>
         public static string lblBackupMins_Text {
             get {
@@ -538,7 +538,7 @@ namespace RemnantSaveGuardian.locales {
         }
         
         /// <summary>
-        ///   查找类似 Minimum amount of time that must have passed since last backup before a new backup is made 的本地化字符串。
+        ///   查找类似 自上次备份后必须经过的最短时间，然后才能进行新的备份 的本地化字符串。
         /// </summary>
         public static string lblBackupMins_ToolTip {
             get {
@@ -547,7 +547,7 @@ namespace RemnantSaveGuardian.locales {
         }
         
         /// <summary>
-        ///   查找类似 World analzyer missing item color 的本地化字符串。
+        ///   查找类似 世界分析器中未取得物品的颜色 的本地化字符串。
         /// </summary>
         public static string lblMissingItemColor_Content {
             get {
@@ -556,7 +556,7 @@ namespace RemnantSaveGuardian.locales {
         }
         
         /// <summary>
-        ///   查找类似 Start page 的本地化字符串。
+        ///   查找类似 起始页 的本地化字符串。
         /// </summary>
         public static string lblStartPage_Text {
             get {
@@ -565,7 +565,7 @@ namespace RemnantSaveGuardian.locales {
         }
         
         /// <summary>
-        ///   查找类似 Which page to load on app start 的本地化字符串。
+        ///   查找类似 应用程序启动时加载哪个页面 的本地化字符串。
         /// </summary>
         public static string lblStartPage_ToolTip {
             get {
@@ -574,7 +574,7 @@ namespace RemnantSaveGuardian.locales {
         }
         
         /// <summary>
-        ///   查找类似 Light 的本地化字符串。
+        ///   查找类似 明亮 的本地化字符串。
         /// </summary>
         public static string Light {
             get {
@@ -583,7 +583,16 @@ namespace RemnantSaveGuardian.locales {
         }
         
         /// <summary>
-        ///   查找类似 Log 的本地化字符串。
+        ///   查找类似 位置 的本地化字符串。
+        /// </summary>
+        public static string Location {
+            get {
+                return ResourceManager.GetString("Location", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   查找类似 日志 的本地化字符串。
         /// </summary>
         public static string Log {
             get {
@@ -592,7 +601,7 @@ namespace RemnantSaveGuardian.locales {
         }
         
         /// <summary>
-        ///   查找类似 Restore Backup 的本地化字符串。
+        ///   查找类似 恢复备份 的本地化字符串。
         /// </summary>
         public static string menuRestore_Header {
             get {
@@ -601,7 +610,7 @@ namespace RemnantSaveGuardian.locales {
         }
         
         /// <summary>
-        ///   查找类似 Everything 的本地化字符串。
+        ///   查找类似 一切 的本地化字符串。
         /// </summary>
         public static string menuRestoreAll_Header {
             get {
@@ -610,7 +619,7 @@ namespace RemnantSaveGuardian.locales {
         }
         
         /// <summary>
-        ///   查找类似 Characters Only 的本地化字符串。
+        ///   查找类似 仅角色 的本地化字符串。
         /// </summary>
         public static string menuRestoreCharacters_Header {
             get {
@@ -619,7 +628,7 @@ namespace RemnantSaveGuardian.locales {
         }
         
         /// <summary>
-        ///   查找类似 Worlds Only 的本地化字符串。
+        ///   查找类似 仅世界 的本地化字符串。
         /// </summary>
         public static string menuRestoreWorlds_Header {
             get {
@@ -628,7 +637,7 @@ namespace RemnantSaveGuardian.locales {
         }
         
         /// <summary>
-        ///   查找类似 Missing Items 的本地化字符串。
+        ///   查找类似 缺失的物品 的本地化字符串。
         /// </summary>
         public static string Missing_Items {
             get {
@@ -637,7 +646,7 @@ namespace RemnantSaveGuardian.locales {
         }
         
         /// <summary>
-        ///   查找类似 Move Backups 的本地化字符串。
+        ///   查找类似 移动备份 的本地化字符串。
         /// </summary>
         public static string Move_Backups {
             get {
@@ -646,7 +655,7 @@ namespace RemnantSaveGuardian.locales {
         }
         
         /// <summary>
-        ///   查找类似 Name 的本地化字符串。
+        ///   查找类似 名称 的本地化字符串。
         /// </summary>
         public static string Name {
             get {
@@ -655,7 +664,7 @@ namespace RemnantSaveGuardian.locales {
         }
         
         /// <summary>
-        ///   查找类似 New version available! 的本地化字符串。
+        ///   查找类似 可以更新到新版本！ 的本地化字符串。
         /// </summary>
         public static string New_version_available_ {
             get {
@@ -664,7 +673,7 @@ namespace RemnantSaveGuardian.locales {
         }
         
         /// <summary>
-        ///   查找类似 Normal 的本地化字符串。
+        ///   查找类似 正常 的本地化字符串。
         /// </summary>
         public static string Normal {
             get {
@@ -673,7 +682,7 @@ namespace RemnantSaveGuardian.locales {
         }
         
         /// <summary>
-        ///   查找类似 Open Folder 的本地化字符串。
+        ///   查找类似 打开文件夹 的本地化字符串。
         /// </summary>
         public static string Open_Folder {
             get {
@@ -682,7 +691,7 @@ namespace RemnantSaveGuardian.locales {
         }
         
         /// <summary>
-        ///   查找类似 Open wiki 的本地化字符串。
+        ///   查找类似 打开wiki 的本地化字符串。
         /// </summary>
         public static string Open_wiki {
             get {
@@ -691,7 +700,7 @@ namespace RemnantSaveGuardian.locales {
         }
         
         /// <summary>
-        ///   查找类似 Possible Items 的本地化字符串。
+        ///   查找类似 可能的项目 的本地化字符串。
         /// </summary>
         public static string Possible_Items {
             get {
@@ -700,7 +709,7 @@ namespace RemnantSaveGuardian.locales {
         }
         
         /// <summary>
-        ///   查找类似 Preferences 的本地化字符串。
+        ///   查找类似 首选项 的本地化字符串。
         /// </summary>
         public static string Preferences {
             get {
@@ -709,7 +718,7 @@ namespace RemnantSaveGuardian.locales {
         }
         
         /// <summary>
-        ///   查找类似 processing save file change 的本地化字符串。
+        ///   查找类似 处理存档件更改 的本地化字符串。
         /// </summary>
         public static string processing_save_file_change {
             get {
@@ -718,7 +727,7 @@ namespace RemnantSaveGuardian.locales {
         }
         
         /// <summary>
-        ///   查找类似 Progression 的本地化字符串。
+        ///   查找类似 进度 的本地化字符串。
         /// </summary>
         public static string Progression {
             get {
@@ -727,7 +736,7 @@ namespace RemnantSaveGuardian.locales {
         }
         
         /// <summary>
-        ///   查找类似 Red 的本地化字符串。
+        ///   查找类似 红色 的本地化字符串。
         /// </summary>
         public static string Red {
             get {
@@ -736,7 +745,7 @@ namespace RemnantSaveGuardian.locales {
         }
         
         /// <summary>
-        ///   查找类似 Save Backups 的本地化字符串。
+        ///   查找类似 存档备份 的本地化字符串。
         /// </summary>
         public static string Save_Backups {
             get {
@@ -745,7 +754,7 @@ namespace RemnantSaveGuardian.locales {
         }
         
         /// <summary>
-        ///   查找类似 Save change detected; waiting {numMinutes} minutes until next backup 的本地化字符串。
+        ///   查找类似 检测到存档改变；距离下次备份还有 {numMinutes} 分钟 的本地化字符串。
         /// </summary>
         public static string Save_change_detected__waiting__numMinutes__minutes_until_next_backup {
             get {
@@ -754,7 +763,7 @@ namespace RemnantSaveGuardian.locales {
         }
         
         /// <summary>
-        ///   查找类似 Save file in use; waiting 0.5 seconds and retrying. 的本地化字符串。
+        ///   查找类似 存档文件正在使用中；等待 0.5 秒后重试。 的本地化字符串。
         /// </summary>
         public static string Save_file_in_use__waiting_0_5_seconds_and_retrying_ {
             get {
@@ -763,7 +772,7 @@ namespace RemnantSaveGuardian.locales {
         }
         
         /// <summary>
-        ///   查找类似 Save Folder 的本地化字符串。
+        ///   查找类似 存档文件夹 的本地化字符串。
         /// </summary>
         public static string Save_Folder {
             get {
@@ -772,7 +781,7 @@ namespace RemnantSaveGuardian.locales {
         }
         
         /// <summary>
-        ///   查找类似 Save plaintext data 的本地化字符串。
+        ///   查找类似 存储纯文本数据 的本地化字符串。
         /// </summary>
         public static string Save_plaintext_data {
             get {
@@ -781,7 +790,7 @@ namespace RemnantSaveGuardian.locales {
         }
         
         /// <summary>
-        ///   查找类似 Save Date 的本地化字符串。
+        ///   查找类似 存档日期 的本地化字符串。
         /// </summary>
         public static string SaveDate {
             get {
@@ -790,7 +799,7 @@ namespace RemnantSaveGuardian.locales {
         }
         
         /// <summary>
-        ///   查找类似 Saves 的本地化字符串。
+        ///   查找类似 存档 的本地化字符串。
         /// </summary>
         public static string Saves {
             get {
@@ -799,7 +808,7 @@ namespace RemnantSaveGuardian.locales {
         }
         
         /// <summary>
-        ///   查找类似 Select a folder other than the game&apos;s save folder. 的本地化字符串。
+        ///   查找类似 选择游戏存档文件夹以外的文件夹。 的本地化字符串。
         /// </summary>
         public static string Select_a_folder_other_than_the_game_s_save_folder_ {
             get {
@@ -808,7 +817,7 @@ namespace RemnantSaveGuardian.locales {
         }
         
         /// <summary>
-        ///   查找类似 setting save file timer 的本地化字符串。
+        ///   查找类似 设置存档文件计时器 的本地化字符串。
         /// </summary>
         public static string setting_save_file_timer {
             get {
@@ -817,7 +826,7 @@ namespace RemnantSaveGuardian.locales {
         }
         
         /// <summary>
-        ///   查找类似 Settings 的本地化字符串。
+        ///   查找类似 设置 的本地化字符串。
         /// </summary>
         public static string Settings {
             get {
@@ -826,7 +835,7 @@ namespace RemnantSaveGuardian.locales {
         }
         
         /// <summary>
-        ///   查找类似 Survival 的本地化字符串。
+        ///   查找类似 生存 的本地化字符串。
         /// </summary>
         public static string Survival {
             get {
@@ -835,7 +844,7 @@ namespace RemnantSaveGuardian.locales {
         }
         
         /// <summary>
-        ///   查找类似 Highlight 的本地化字符串。
+        ///   查找类似 强调 的本地化字符串。
         /// </summary>
         public static string Text_Highlight {
             get {
@@ -844,7 +853,7 @@ namespace RemnantSaveGuardian.locales {
         }
         
         /// <summary>
-        ///   查找类似 Normal 的本地化字符串。
+        ///   查找类似 正常 的本地化字符串。
         /// </summary>
         public static string Text_Normal {
             get {
@@ -853,7 +862,7 @@ namespace RemnantSaveGuardian.locales {
         }
         
         /// <summary>
-        ///   查找类似 Theme 的本地化字符串。
+        ///   查找类似 主题 的本地化字符串。
         /// </summary>
         public static string Theme {
             get {
@@ -862,7 +871,16 @@ namespace RemnantSaveGuardian.locales {
         }
         
         /// <summary>
-        ///   查找类似 White 的本地化字符串。
+        ///   查找类似 类型 的本地化字符串。
+        /// </summary>
+        public static string Type {
+            get {
+                return ResourceManager.GetString("Type", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   查找类似 白色 的本地化字符串。
         /// </summary>
         public static string White {
             get {
@@ -871,7 +889,7 @@ namespace RemnantSaveGuardian.locales {
         }
         
         /// <summary>
-        ///   查找类似 World Analyzer 的本地化字符串。
+        ///   查找类似 世界分析器 的本地化字符串。
         /// </summary>
         public static string World_Analyzer {
             get {
@@ -880,7 +898,7 @@ namespace RemnantSaveGuardian.locales {
         }
         
         /// <summary>
-        ///   查找类似 Filter by events or items 的本地化字符串。
+        ///   查找类似 筛选 的本地化字符串。
         /// </summary>
         public static string WorldAnalyzerFilter_PlaceholderText {
             get {
@@ -889,7 +907,7 @@ namespace RemnantSaveGuardian.locales {
         }
         
         /// <summary>
-        ///   查找类似 You must wait 5 minutes between update checks 的本地化字符串。
+        ///   查找类似 两次更新检查之间必须等待5分钟 的本地化字符串。
         /// </summary>
         public static string You_must_wait_5_minutes_between_update_checks {
             get {
@@ -898,7 +916,7 @@ namespace RemnantSaveGuardian.locales {
         }
         
         /// <summary>
-        ///   查找类似 Zoom 的本地化字符串。
+        ///   查找类似 缩放 的本地化字符串。
         /// </summary>
         public static string Zoom {
             get {

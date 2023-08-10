@@ -182,7 +182,7 @@ namespace RemnantSaveGuardian.Views.Pages
                 if (Properties.Settings.Default.MissingItemColor == "Highlight")
                 {
                     var highlight = System.Drawing.SystemColors.Highlight;
-                    cellStyle.Setters.Add(new Setter(ForegroundProperty, new System.Windows.Media.SolidColorBrush(System.Windows.Media.Color.FromRgb(highlight.R, highlight.G, highlight.B))));
+                    cellStyle.Setters.Add(new Setter(ForegroundProperty, new System.Windows.Media.SolidColorBrush(System.Windows.Media.Color.FromRgb(60, 200, 255))));
                 }
             }
             else if (e.Column.Header.Equals("PossibleItemsString"))
@@ -311,26 +311,22 @@ namespace RemnantSaveGuardian.Views.Pages
             var treeItem = (TreeViewItem)treeMissingItems.SelectedItem;
             var item = (RemnantItem)treeItem.Tag;
 
-            var itemname = treeItem?.Header.ToString();
-            if (!WPFLocalizeExtension.Engine.LocalizeDictionary.Instance.Culture.ToString().StartsWith("en"))
+            var itemname = item.RawName;
+            var setFound = false;
+            if (item.RawType == "Armor")
             {
-                itemname = item.RawName;
-                var setFound = false;
-                if (item.RawType == "Armor")
+                var armorMatch = Regex.Match(itemname, @"\w+_(?<armorPart>(?:Head|Body|Gloves|Legs))_\w+");
+                if (armorMatch.Success)
                 {
-                    var armorMatch = Regex.Match(itemname, @"\w+_(?<armorPart>(?:Head|Body|Gloves|Legs))_\w+");
-                    if (armorMatch.Success)
-                    {
-                        itemname = itemname.Replace($"{armorMatch.Groups["armorPart"].Value}_", "");
-                        setFound = true;
-                    }
+                    itemname = itemname.Replace($"{armorMatch.Groups["armorPart"].Value}_", "");
+                    setFound = true;
                 }
-                itemname = Loc.GameT(itemname, new() { { "locale", "en-US" } });
-                if (setFound)
-                {
-                    itemname += " (";
-                }
-            } 
+            }
+            itemname = Loc.GameT(itemname, new() { { "locale", "en-US" } });
+            if (setFound)
+            {
+                itemname += " (";
+            }
 
             if (item.RawType == "Armor")
             {

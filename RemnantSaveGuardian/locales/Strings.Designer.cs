@@ -8,11 +8,10 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace RemnantSaveGuardian.locales
-{
+namespace RemnantSaveGuardian.locales {
     using System;
-
-
+    
+    
     /// <summary>
     ///   一个强类型的资源类，用于查找本地化的字符串等。
     /// </summary>
@@ -23,1104 +22,922 @@ namespace RemnantSaveGuardian.locales
     [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Resources.Tools.StronglyTypedResourceBuilder", "17.0.0.0")]
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
     [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
-    public class Strings
-    {
-
+    public class Strings {
+        
         private static global::System.Resources.ResourceManager resourceMan;
-
+        
         private static global::System.Globalization.CultureInfo resourceCulture;
-
+        
         [global::System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1811:AvoidUncalledPrivateCode")]
-        internal Strings()
-        {
+        internal Strings() {
         }
-
+        
         /// <summary>
         ///   返回此类使用的缓存的 ResourceManager 实例。
         /// </summary>
         [global::System.ComponentModel.EditorBrowsableAttribute(global::System.ComponentModel.EditorBrowsableState.Advanced)]
-        public static global::System.Resources.ResourceManager ResourceManager
-        {
-            get
-            {
-                if (object.ReferenceEquals(resourceMan, null))
-                {
+        public static global::System.Resources.ResourceManager ResourceManager {
+            get {
+                if (object.ReferenceEquals(resourceMan, null)) {
                     global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("RemnantSaveGuardian.locales.Strings", typeof(Strings).Assembly);
                     resourceMan = temp;
                 }
                 return resourceMan;
             }
         }
-
+        
         /// <summary>
         ///   重写当前线程的 CurrentUICulture 属性，对
         ///   使用此强类型资源类的所有资源查找执行重写。
         /// </summary>
         [global::System.ComponentModel.EditorBrowsableAttribute(global::System.ComponentModel.EditorBrowsableState.Advanced)]
-        public static global::System.Globalization.CultureInfo Culture
-        {
-            get
-            {
+        public static global::System.Globalization.CultureInfo Culture {
+            get {
                 return resourceCulture;
             }
-            set
-            {
+            set {
                 resourceCulture = value;
             }
         }
-
+        
         /// <summary>
         ///   查找类似 关于 的本地化字符串。
         /// </summary>
-        public static string AboutRSG
-        {
-            get
-            {
+        public static string AboutRSG {
+            get {
                 return ResourceManager.GetString("AboutRSG", resourceCulture);
             }
         }
-
+        
         /// <summary>
         ///   查找类似 启用 的本地化字符串。
         /// </summary>
-        public static string Active
-        {
-            get
-            {
+        public static string Active {
+            get {
                 return ResourceManager.GetString("Active", resourceCulture);
             }
         }
-
+        
         /// <summary>
         ///   查找类似 冒险 的本地化字符串。
         /// </summary>
-        public static string Adventure
-        {
-            get
-            {
+        public static string Adventure {
+            get {
                 return ResourceManager.GetString("Adventure", resourceCulture);
             }
         }
-
+        
         /// <summary>
         ///   查找类似 您确定要删除备份 {backupName} 吗？ 的本地化字符串。
         /// </summary>
-        public static string Are_you_sure_you_want_to_delete_backup__backupName__
-        {
-            get
-            {
+        public static string Are_you_sure_you_want_to_delete_backup__backupName__ {
+            get {
                 return ResourceManager.GetString("Are you sure you want to delete backup {backupName}?", resourceCulture);
             }
         }
-
+        
         /// <summary>
         ///   查找类似 备份完成 的本地化字符串。
         /// </summary>
-        public static string Backup_completed
-        {
-            get
-            {
+        public static string Backup_completed {
+            get {
                 return ResourceManager.GetString("Backup completed", resourceCulture);
             }
         }
-
+        
         /// <summary>
         ///   查找类似 备份文件夹 的本地化字符串。
         /// </summary>
-        public static string Backup_Folder
-        {
-            get
-            {
+        public static string Backup_Folder {
+            get {
                 return ResourceManager.GetString("Backup Folder", resourceCulture);
             }
         }
-
+        
         /// <summary>
         ///   查找类似 未设置备份文件夹；恢复为默认。 的本地化字符串。
         /// </summary>
-        public static string Backup_folder_not_set__reverting_to_default_
-        {
-            get
-            {
+        public static string Backup_folder_not_set__reverting_to_default_ {
+            get {
                 return ResourceManager.GetString("Backup folder not set; reverting to default.", resourceCulture);
             }
         }
-
+        
         /// <summary>
         ///   查找类似 备份已恢复 的本地化字符串。
         /// </summary>
-        public static string Backup_restored
-        {
-            get
-            {
+        public static string Backup_restored {
+            get {
                 return ResourceManager.GetString("Backup restored", resourceCulture);
             }
         }
-
+        
         /// <summary>
         ///   查找类似 未找到备份文件夹，正在创建... 的本地化字符串。
         /// </summary>
-        public static string Backups_folder_not_found__creating___
-        {
-            get
-            {
+        public static string Backups_folder_not_found__creating___ {
+            get {
                 return ResourceManager.GetString("Backups folder not found, creating...", resourceCulture);
             }
         }
-
+        
         /// <summary>
         ///   查找类似 找到备份 的本地化字符串。
         /// </summary>
-        public static string Backups_found
-        {
-            get
-            {
+        public static string Backups_found {
+            get {
                 return ResourceManager.GetString("Backups found", resourceCulture);
             }
         }
-
+        
         /// <summary>
         ///   查找类似 备份当前保存 的本地化字符串。
         /// </summary>
-        public static string btnBackup_ToolTip
-        {
-            get
-            {
+        public static string btnBackup_ToolTip {
+            get {
                 return ResourceManager.GetString("btnBackup_ToolTip", resourceCulture);
             }
         }
-
+        
         /// <summary>
         ///   查找类似 立即查看 的本地化字符串。
         /// </summary>
-        public static string btnCheckUpdate_Content
-        {
-            get
-            {
+        public static string btnCheckUpdate_Content {
+            get {
                 return ResourceManager.GetString("btnCheckUpdate_Content", resourceCulture);
             }
         }
-
+        
         /// <summary>
         ///   查找类似 打开备份文件夹 的本地化字符串。
         /// </summary>
-        public static string btnOpenBackupsFolder_ToolTip
-        {
-            get
-            {
+        public static string btnOpenBackupsFolder_ToolTip {
+            get {
                 return ResourceManager.GetString("btnOpenBackupsFolder_ToolTip", resourceCulture);
             }
         }
-
+        
         /// <summary>
         ///   查找类似 开始游戏 的本地化字符串。
         /// </summary>
-        public static string btnStartGame_ToolTip
-        {
-            get
-            {
+        public static string btnStartGame_ToolTip {
+            get {
                 return ResourceManager.GetString("btnStartGame_ToolTip", resourceCulture);
             }
         }
-
+        
         /// <summary>
         ///   查找类似 战役 的本地化字符串。
         /// </summary>
-        public static string Campaign
-        {
-            get
-            {
+        public static string Campaign {
+            get {
                 return ResourceManager.GetString("Campaign", resourceCulture);
             }
         }
-
+        
         /// <summary>
         ///   查找类似 取消 的本地化字符串。
         /// </summary>
-        public static string Cancel
-        {
-            get
-            {
+        public static string Cancel {
+            get {
                 return ResourceManager.GetString("Cancel", resourceCulture);
             }
         }
-
+        
         /// <summary>
         ///   查找类似 角色 的本地化字符串。
         /// </summary>
-        public static string Character
-        {
-            get
-            {
+        public static string Character {
+            get {
                 return ResourceManager.GetString("Character", resourceCulture);
             }
         }
-
+        
         /// <summary>
         ///   查找类似 角色 的本地化字符串。
         /// </summary>
-        public static string Characters
-        {
-            get
-            {
+        public static string Characters {
+            get {
                 return ResourceManager.GetString("Characters", resourceCulture);
             }
         }
-
+        
         /// <summary>
         ///   查找类似 自动备份存档 的本地化字符串。
         /// </summary>
-        public static string chkAutoBackup_Content
-        {
-            get
-            {
+        public static string chkAutoBackup_Content {
+            get {
                 return ResourceManager.GetString("chkAutoBackup_Content", resourceCulture);
             }
         }
-
+        
         /// <summary>
         ///   查找类似 监控遗迹存档文件，并在文件更改时进行备份 的本地化字符串。
         /// </summary>
-        public static string chkAutoBackup_ToolTip
-        {
-            get
-            {
+        public static string chkAutoBackup_ToolTip {
+            get {
                 return ResourceManager.GetString("chkAutoBackup_ToolTip", resourceCulture);
             }
         }
-
+        
         /// <summary>
         ///   查找类似 自动检查更新 的本地化字符串。
         /// </summary>
-        public static string chkAutoCheckUpdate_Content
-        {
-            get
-            {
+        public static string chkAutoCheckUpdate_Content {
+            get {
                 return ResourceManager.GetString("chkAutoCheckUpdate_Content", resourceCulture);
             }
         }
-
+        
         /// <summary>
         ///   查找类似 创建日志文件 的本地化字符串。
         /// </summary>
-        public static string chkCreateLogFile_Content
-        {
-            get
-            {
+        public static string chkCreateLogFile_Content {
+            get {
                 return ResourceManager.GetString("chkCreateLogFile_Content", resourceCulture);
             }
         }
-
+        
         /// <summary>
         ///   查找类似 是否创建log.txt文件 的本地化字符串。
         /// </summary>
-        public static string chkCreateLogFile_ToolTip
-        {
-            get
-            {
+        public static string chkCreateLogFile_ToolTip {
+            get {
                 return ResourceManager.GetString("chkCreateLogFile_ToolTip", resourceCulture);
             }
         }
-
+        
+        /// <summary>
+        ///   查找类似 在世界分析器中显示合作项目 的本地化字符串。
+        /// </summary>
+        public static string chkShowCoopItems_Content {
+            get {
+                return ResourceManager.GetString("chkShowCoopItems_Content", resourceCulture);
+            }
+        }
+        
         /// <summary>
         ///   查找类似 在分析器中显示可能出现的物品 的本地化字符串。
         /// </summary>
-        public static string chkShowPossibleItems_Content
-        {
-            get
-            {
+        public static string chkShowPossibleItems_Content {
+            get {
                 return ResourceManager.GetString("chkShowPossibleItems_Content", resourceCulture);
             }
         }
-
+        
         /// <summary>
         ///   查找类似 从列表中选择要还原的备份。 的本地化字符串。
         /// </summary>
-        public static string Choose_a_backup_to_restore_from_the_list_
-        {
-            get
-            {
+        public static string Choose_a_backup_to_restore_from_the_list_ {
+            get {
                 return ResourceManager.GetString("Choose a backup to restore from the list.", resourceCulture);
             }
         }
-
+        
         /// <summary>
         ///   查找类似 确认删除 的本地化字符串。
         /// </summary>
-        public static string Confirm_Delete
-        {
-            get
-            {
+        public static string Confirm_Delete {
+            get {
                 return ResourceManager.GetString("Confirm Delete", resourceCulture);
             }
         }
-
+        
         /// <summary>
         ///   查找类似 复制 的本地化字符串。
         /// </summary>
-        public static string Copy
-        {
-            get
-            {
+        public static string Copy {
+            get {
                 return ResourceManager.GetString("Copy", resourceCulture);
             }
         }
-
+        
         /// <summary>
         ///   查找类似 找不到存档文件的位置; 请手动设置 的本地化字符串。
         /// </summary>
-        public static string Could_not_find_save_file_location__please_set_manually
-        {
-            get
-            {
+        public static string Could_not_find_save_file_location__please_set_manually {
+            get {
                 return ResourceManager.GetString("Could not find save file location; please set manually", resourceCulture);
             }
         }
-
+        
         /// <summary>
         ///   查找类似 黑暗 的本地化字符串。
         /// </summary>
-        public static string Dark
-        {
-            get
-            {
+        public static string Dark {
+            get {
                 return ResourceManager.GetString("Dark", resourceCulture);
             }
         }
-
+        
         /// <summary>
         ///   查找类似 日期 的本地化字符串。
         /// </summary>
-        public static string Date
-        {
-            get
-            {
+        public static string Date {
+            get {
                 return ResourceManager.GetString("Date", resourceCulture);
             }
         }
-
+        
         /// <summary>
         ///   查找类似 删除 的本地化字符串。
         /// </summary>
-        public static string Delete
-        {
-            get
-            {
+        public static string Delete {
+            get {
                 return ResourceManager.GetString("Delete", resourceCulture);
             }
         }
-
+        
         /// <summary>
         ///   查找类似 删除多余备份 的本地化字符串。
         /// </summary>
-        public static string Deleting_excess_backup
-        {
-            get
-            {
+        public static string Deleting_excess_backup {
+            get {
                 return ResourceManager.GetString("Deleting excess backup", resourceCulture);
             }
         }
-
+        
         /// <summary>
         ///   查找类似 您想将备份移动到这个新文件夹吗？ 的本地化字符串。
         /// </summary>
-        public static string Do_you_want_to_move_your_backups_to_this_new_folder_
-        {
-            get
-            {
+        public static string Do_you_want_to_move_your_backups_to_this_new_folder_ {
+            get {
                 return ResourceManager.GetString("Do you want to move your backups to this new folder?", resourceCulture);
             }
         }
-
+        
         /// <summary>
         ///   查找类似 检查新游戏信息时出错 的本地化字符串。
         /// </summary>
-        public static string Error_checking_for_new_game_info
-        {
-            get
-            {
+        public static string Error_checking_for_new_game_info {
+            get {
                 return ResourceManager.GetString("Error checking for new game info", resourceCulture);
             }
         }
-
+        
         /// <summary>
         ///   查找类似 检查新版本时出错 的本地化字符串。
         /// </summary>
-        public static string Error_checking_for_new_version
-        {
-            get
-            {
+        public static string Error_checking_for_new_version {
+            get {
                 return ResourceManager.GetString("Error checking for new version", resourceCulture);
             }
         }
-
+        
         /// <summary>
         ///   查找类似 在恢复存档备份前请退出游戏。 的本地化字符串。
         /// </summary>
-        public static string Exit_the_game_before_restoring_a_save_backup_
-        {
-            get
-            {
+        public static string Exit_the_game_before_restoring_a_save_backup_ {
+            get {
                 return ResourceManager.GetString("Exit the game before restoring a save backup.", resourceCulture);
             }
         }
-
+        
         /// <summary>
         ///   查找类似 导出存档文件 的本地化字符串。
         /// </summary>
-        public static string Export_save_files_as_plaintext
-        {
-            get
-            {
+        public static string Export_save_files_as_plaintext {
+            get {
                 return ResourceManager.GetString("Export save files as plaintext", resourceCulture);
             }
         }
-
+        
         /// <summary>
         ///   查找类似 游戏文件夹 的本地化字符串。
         /// </summary>
-        public static string Game_Folder
-        {
-            get
-            {
+        public static string Game_Folder {
+            get {
                 return ResourceManager.GetString("Game Folder", resourceCulture);
             }
         }
-
+        
         /// <summary>
         ///   查找类似 游戏信息已更新。 的本地化字符串。
         /// </summary>
-        public static string Game_info_updated_
-        {
-            get
-            {
+        public static string Game_info_updated_ {
+            get {
                 return ResourceManager.GetString("Game info updated.", resourceCulture);
             }
         }
-
+        
         /// <summary>
         ///   查找类似 硬核 的本地化字符串。
         /// </summary>
-        public static string Hardcore
-        {
-            get
-            {
+        public static string Hardcore {
+            get {
                 return ResourceManager.GetString("Hardcore", resourceCulture);
             }
         }
-
+        
         /// <summary>
         ///   查找类似 首页 的本地化字符串。
         /// </summary>
-        public static string Home
-        {
-            get
-            {
+        public static string Home {
+            get {
                 return ResourceManager.GetString("Home", resourceCulture);
             }
         }
-
+        
         /// <summary>
         ///   查找类似 信息 的本地化字符串。
         /// </summary>
-        public static string Info
-        {
-            get
-            {
+        public static string Info {
+            get {
                 return ResourceManager.GetString("Info", resourceCulture);
             }
         }
-
+        
         /// <summary>
         ///   查找类似 备份还原类型无效 的本地化字符串。
         /// </summary>
-        public static string Invalid_backup_restore_type
-        {
-            get
-            {
+        public static string Invalid_backup_restore_type {
+            get {
                 return ResourceManager.GetString("Invalid backup restore type", resourceCulture);
             }
         }
-
+        
         /// <summary>
         ///   查找类似 无效文件夹 的本地化字符串。
         /// </summary>
-        public static string Invalid_Folder
-        {
-            get
-            {
+        public static string Invalid_Folder {
+            get {
                 return ResourceManager.GetString("Invalid Folder", resourceCulture);
             }
         }
-
+        
         /// <summary>
         ///   查找类似 文件夹无效：备份文件夹不能是游戏的存档文件夹。 的本地化字符串。
         /// </summary>
-        public static string InvalidBackupFolderNoBackupsInSaves
-        {
-            get
-            {
+        public static string InvalidBackupFolderNoBackupsInSaves {
+            get {
                 return ResourceManager.GetString("InvalidBackupFolderNoBackupsInSaves", resourceCulture);
             }
         }
-
+        
         /// <summary>
         ///   查找类似 文件夹无效：选择遗迹2的安装位置。 的本地化字符串。
         /// </summary>
-        public static string InvalidGameFolder
-        {
-            get
-            {
+        public static string InvalidGameFolder {
+            get {
                 return ResourceManager.GetString("InvalidGameFolder", resourceCulture);
             }
         }
-
+        
         /// <summary>
         ///   查找类似 文件夹无效：选择遗迹2存档位置 的本地化字符串。
         /// </summary>
-        public static string InvalidSaveFolder
-        {
-            get
-            {
+        public static string InvalidSaveFolder {
+            get {
                 return ResourceManager.GetString("InvalidSaveFolder", resourceCulture);
             }
         }
-
+        
         /// <summary>
         ///   查找类似 无效文件夹：请选择备份文件夹以外的文件夹。 的本地化字符串。
         /// </summary>
-        public static string InvalidSaveFolderNoSavesInBackups
-        {
-            get
-            {
+        public static string InvalidSaveFolderNoSavesInBackups {
+            get {
                 return ResourceManager.GetString("InvalidSaveFolderNoSavesInBackups", resourceCulture);
             }
         }
-
+        
         /// <summary>
         ///   查找类似 保留 的本地化字符串。
         /// </summary>
-        public static string Keep
-        {
-            get
-            {
+        public static string Keep {
+            get {
                 return ResourceManager.GetString("Keep", resourceCulture);
             }
         }
-
+        
         /// <summary>
         ///   查找类似 最后备份日期 的本地化字符串。
         /// </summary>
-        public static string Last_backup_save_date
-        {
-            get
-            {
+        public static string Last_backup_save_date {
+            get {
                 return ResourceManager.GetString("Last backup save date", resourceCulture);
             }
         }
-
+        
         /// <summary>
         ///   查找类似 要保留的备份（0 表示无限制） 的本地化字符串。
         /// </summary>
-        public static string lblBackupLimit_Text
-        {
-            get
-            {
+        public static string lblBackupLimit_Text {
+            get {
                 return ResourceManager.GetString("lblBackupLimit_Text", resourceCulture);
             }
         }
-
+        
         /// <summary>
         ///   查找类似 当备份数量达到此值时，将自动从最旧的备份开始删除。 的本地化字符串。
         /// </summary>
-        public static string lblBackupLimit_ToolTip
-        {
-            get
-            {
+        public static string lblBackupLimit_ToolTip {
+            get {
                 return ResourceManager.GetString("lblBackupLimit_ToolTip", resourceCulture);
             }
         }
-
+        
         /// <summary>
         ///   查找类似 备份间隔时间 的本地化字符串。
         /// </summary>
-        public static string lblBackupMins_Text
-        {
-            get
-            {
+        public static string lblBackupMins_Text {
+            get {
                 return ResourceManager.GetString("lblBackupMins_Text", resourceCulture);
             }
         }
-
+        
         /// <summary>
         ///   查找类似 自上次备份后必须经过的最短时间，然后才能进行新的备份 的本地化字符串。
         /// </summary>
-        public static string lblBackupMins_ToolTip
-        {
-            get
-            {
+        public static string lblBackupMins_ToolTip {
+            get {
                 return ResourceManager.GetString("lblBackupMins_ToolTip", resourceCulture);
             }
         }
-
+        
+        /// <summary>
+        ///   查找类似 世界分析器缺失物品颜色 的本地化字符串。
+        /// </summary>
+        public static string lblMissingItemColor {
+            get {
+                return ResourceManager.GetString("lblMissingItemColor", resourceCulture);
+            }
+        }
+        
         /// <summary>
         ///   查找类似 世界分析器中未取得物品的颜色 的本地化字符串。
         /// </summary>
-        public static string lblMissingItemColor_Content
-        {
-            get
-            {
+        public static string lblMissingItemColor_Content {
+            get {
                 return ResourceManager.GetString("lblMissingItemColor_Content", resourceCulture);
             }
         }
-
+        
         /// <summary>
         ///   查找类似 起始页 的本地化字符串。
         /// </summary>
-        public static string lblStartPage_Text
-        {
-            get
-            {
+        public static string lblStartPage_Text {
+            get {
                 return ResourceManager.GetString("lblStartPage_Text", resourceCulture);
             }
         }
-
+        
         /// <summary>
         ///   查找类似 应用程序启动时加载哪个页面 的本地化字符串。
         /// </summary>
-        public static string lblStartPage_ToolTip
-        {
-            get
-            {
+        public static string lblStartPage_ToolTip {
+            get {
                 return ResourceManager.GetString("lblStartPage_ToolTip", resourceCulture);
             }
         }
-
+        
         /// <summary>
         ///   查找类似 明亮 的本地化字符串。
         /// </summary>
-        public static string Light
-        {
-            get
-            {
+        public static string Light {
+            get {
                 return ResourceManager.GetString("Light", resourceCulture);
             }
         }
-
+        
         /// <summary>
         ///   查找类似 位置 的本地化字符串。
         /// </summary>
-        public static string Location
-        {
-            get
-            {
+        public static string Location {
+            get {
                 return ResourceManager.GetString("Location", resourceCulture);
             }
         }
-
+        
         /// <summary>
         ///   查找类似 日志 的本地化字符串。
         /// </summary>
-        public static string Log
-        {
-            get
-            {
+        public static string Log {
+            get {
                 return ResourceManager.GetString("Log", resourceCulture);
             }
         }
-
+        
         /// <summary>
         ///   查找类似 恢复备份 的本地化字符串。
         /// </summary>
-        public static string menuRestore_Header
-        {
-            get
-            {
+        public static string menuRestore_Header {
+            get {
                 return ResourceManager.GetString("menuRestore_Header", resourceCulture);
             }
         }
-
+        
         /// <summary>
         ///   查找类似 一切 的本地化字符串。
         /// </summary>
-        public static string menuRestoreAll_Header
-        {
-            get
-            {
+        public static string menuRestoreAll_Header {
+            get {
                 return ResourceManager.GetString("menuRestoreAll_Header", resourceCulture);
             }
         }
-
+        
         /// <summary>
         ///   查找类似 仅角色 的本地化字符串。
         /// </summary>
-        public static string menuRestoreCharacters_Header
-        {
-            get
-            {
+        public static string menuRestoreCharacters_Header {
+            get {
                 return ResourceManager.GetString("menuRestoreCharacters_Header", resourceCulture);
             }
         }
-
+        
         /// <summary>
         ///   查找类似 仅世界 的本地化字符串。
         /// </summary>
-        public static string menuRestoreWorlds_Header
-        {
-            get
-            {
+        public static string menuRestoreWorlds_Header {
+            get {
                 return ResourceManager.GetString("menuRestoreWorlds_Header", resourceCulture);
             }
         }
-
+        
         /// <summary>
         ///   查找类似 缺失的物品 的本地化字符串。
         /// </summary>
-        public static string Missing_Items
-        {
-            get
-            {
+        public static string Missing_Items {
+            get {
                 return ResourceManager.GetString("Missing Items", resourceCulture);
             }
         }
-
+        
         /// <summary>
         ///   查找类似 移动备份 的本地化字符串。
         /// </summary>
-        public static string Move_Backups
-        {
-            get
-            {
+        public static string Move_Backups {
+            get {
                 return ResourceManager.GetString("Move Backups", resourceCulture);
             }
         }
-
+        
         /// <summary>
         ///   查找类似 名称 的本地化字符串。
         /// </summary>
-        public static string Name
-        {
-            get
-            {
+        public static string Name {
+            get {
                 return ResourceManager.GetString("Name", resourceCulture);
             }
         }
-
+        
         /// <summary>
         ///   查找类似 可以更新到新版本！ 的本地化字符串。
         /// </summary>
-        public static string New_version_available_
-        {
-            get
-            {
+        public static string New_version_available_ {
+            get {
                 return ResourceManager.GetString("New version available!", resourceCulture);
             }
         }
-
+        
         /// <summary>
         ///   查找类似 正常 的本地化字符串。
         /// </summary>
-        public static string Normal
-        {
-            get
-            {
+        public static string Normal {
+            get {
                 return ResourceManager.GetString("Normal", resourceCulture);
             }
         }
-
+        
         /// <summary>
         ///   查找类似 打开文件夹 的本地化字符串。
         /// </summary>
-        public static string Open_Folder
-        {
-            get
-            {
+        public static string Open_Folder {
+            get {
                 return ResourceManager.GetString("Open Folder", resourceCulture);
             }
         }
-
+        
         /// <summary>
         ///   查找类似 打开wiki 的本地化字符串。
         /// </summary>
-        public static string Open_wiki
-        {
-            get
-            {
+        public static string Open_wiki {
+            get {
                 return ResourceManager.GetString("Open wiki", resourceCulture);
             }
         }
-
+        
         /// <summary>
         ///   查找类似 可能的项目 的本地化字符串。
         /// </summary>
-        public static string Possible_Items
-        {
-            get
-            {
+        public static string Possible_Items {
+            get {
                 return ResourceManager.GetString("Possible Items", resourceCulture);
             }
         }
-
+        
         /// <summary>
         ///   查找类似 首选项 的本地化字符串。
         /// </summary>
-        public static string Preferences
-        {
-            get
-            {
+        public static string Preferences {
+            get {
                 return ResourceManager.GetString("Preferences", resourceCulture);
             }
         }
-
+        
         /// <summary>
         ///   查找类似 处理存档件更改 的本地化字符串。
         /// </summary>
-        public static string processing_save_file_change
-        {
-            get
-            {
+        public static string processing_save_file_change {
+            get {
                 return ResourceManager.GetString("processing save file change", resourceCulture);
             }
         }
-
+        
         /// <summary>
         ///   查找类似 进度 的本地化字符串。
         /// </summary>
-        public static string Progression
-        {
-            get
-            {
+        public static string Progression {
+            get {
                 return ResourceManager.GetString("Progression", resourceCulture);
             }
         }
-
+        
         /// <summary>
         ///   查找类似 红色 的本地化字符串。
         /// </summary>
-        public static string Red
-        {
-            get
-            {
+        public static string Red {
+            get {
                 return ResourceManager.GetString("Red", resourceCulture);
             }
         }
-
+        
         /// <summary>
         ///   查找类似 存档备份 的本地化字符串。
         /// </summary>
-        public static string Save_Backups
-        {
-            get
-            {
+        public static string Save_Backups {
+            get {
                 return ResourceManager.GetString("Save Backups", resourceCulture);
             }
         }
-
+        
         /// <summary>
         ///   查找类似 检测到存档改变；距离下次备份还有 {numMinutes} 分钟 的本地化字符串。
         /// </summary>
-        public static string Save_change_detected__waiting__numMinutes__minutes_until_next_backup
-        {
-            get
-            {
+        public static string Save_change_detected__waiting__numMinutes__minutes_until_next_backup {
+            get {
                 return ResourceManager.GetString("Save change detected; waiting {numMinutes} minutes until next backup", resourceCulture);
             }
         }
-
+        
         /// <summary>
         ///   查找类似 存档文件正在使用中；等待 0.5 秒后重试。 的本地化字符串。
         /// </summary>
-        public static string Save_file_in_use__waiting_0_5_seconds_and_retrying_
-        {
-            get
-            {
+        public static string Save_file_in_use__waiting_0_5_seconds_and_retrying_ {
+            get {
                 return ResourceManager.GetString("Save file in use; waiting 0.5 seconds and retrying.", resourceCulture);
             }
         }
-
+        
         /// <summary>
         ///   查找类似 存档文件夹 的本地化字符串。
         /// </summary>
-        public static string Save_Folder
-        {
-            get
-            {
+        public static string Save_Folder {
+            get {
                 return ResourceManager.GetString("Save Folder", resourceCulture);
             }
         }
-
+        
         /// <summary>
         ///   查找类似 存储纯文本数据 的本地化字符串。
         /// </summary>
-        public static string Save_plaintext_data
-        {
-            get
-            {
+        public static string Save_plaintext_data {
+            get {
                 return ResourceManager.GetString("Save plaintext data", resourceCulture);
             }
         }
-
+        
         /// <summary>
         ///   查找类似 存档日期 的本地化字符串。
         /// </summary>
-        public static string SaveDate
-        {
-            get
-            {
+        public static string SaveDate {
+            get {
                 return ResourceManager.GetString("SaveDate", resourceCulture);
             }
         }
-
+        
         /// <summary>
         ///   查找类似 存档 的本地化字符串。
         /// </summary>
-        public static string Saves
-        {
-            get
-            {
+        public static string Saves {
+            get {
                 return ResourceManager.GetString("Saves", resourceCulture);
             }
         }
-
+        
         /// <summary>
         ///   查找类似 选择游戏存档文件夹以外的文件夹。 的本地化字符串。
         /// </summary>
-        public static string Select_a_folder_other_than_the_game_s_save_folder_
-        {
-            get
-            {
+        public static string Select_a_folder_other_than_the_game_s_save_folder_ {
+            get {
                 return ResourceManager.GetString("Select a folder other than the game\'s save folder.", resourceCulture);
             }
         }
-
+        
         /// <summary>
         ///   查找类似 设置存档文件计时器 的本地化字符串。
         /// </summary>
-        public static string setting_save_file_timer
-        {
-            get
-            {
+        public static string setting_save_file_timer {
+            get {
                 return ResourceManager.GetString("setting save file timer", resourceCulture);
             }
         }
-
+        
         /// <summary>
         ///   查找类似 设置 的本地化字符串。
         /// </summary>
-        public static string Settings
-        {
-            get
-            {
+        public static string Settings {
+            get {
                 return ResourceManager.GetString("Settings", resourceCulture);
             }
         }
-
+        
         /// <summary>
         ///   查找类似 生存 的本地化字符串。
         /// </summary>
-        public static string Survival
-        {
-            get
-            {
+        public static string Survival {
+            get {
                 return ResourceManager.GetString("Survival", resourceCulture);
             }
         }
-
+        
         /// <summary>
-        ///   查找类似 强调 的本地化字符串。
+        ///   查找类似 高亮 的本地化字符串。
         /// </summary>
-        public static string Text_Highlight
-        {
-            get
-            {
+        public static string Text_Highlight {
+            get {
                 return ResourceManager.GetString("Text_Highlight", resourceCulture);
             }
         }
-
+        
         /// <summary>
         ///   查找类似 正常 的本地化字符串。
         /// </summary>
-        public static string Text_Normal
-        {
-            get
-            {
+        public static string Text_Normal {
+            get {
                 return ResourceManager.GetString("Text_Normal", resourceCulture);
             }
         }
-
+        
         /// <summary>
         ///   查找类似 主题 的本地化字符串。
         /// </summary>
-        public static string Theme
-        {
-            get
-            {
+        public static string Theme {
+            get {
                 return ResourceManager.GetString("Theme", resourceCulture);
             }
         }
-
+        
         /// <summary>
         ///   查找类似 类型 的本地化字符串。
         /// </summary>
-        public static string Type
-        {
-            get
-            {
+        public static string Type {
+            get {
                 return ResourceManager.GetString("Type", resourceCulture);
             }
         }
-
+        
         /// <summary>
         ///   查找类似 白色 的本地化字符串。
         /// </summary>
-        public static string White
-        {
-            get
-            {
+        public static string White {
+            get {
                 return ResourceManager.GetString("White", resourceCulture);
             }
         }
-
+        
         /// <summary>
         ///   查找类似 世界分析器 的本地化字符串。
         /// </summary>
-        public static string World_Analyzer
-        {
-            get
-            {
+        public static string World_Analyzer {
+            get {
                 return ResourceManager.GetString("World Analyzer", resourceCulture);
             }
         }
-
+        
         /// <summary>
         ///   查找类似 筛选 的本地化字符串。
         /// </summary>
-        public static string WorldAnalyzerFilter_PlaceholderText
-        {
-            get
-            {
+        public static string WorldAnalyzerFilter_PlaceholderText {
+            get {
                 return ResourceManager.GetString("WorldAnalyzerFilter_PlaceholderText", resourceCulture);
             }
         }
-
+        
         /// <summary>
         ///   查找类似 两次更新检查之间必须等待5分钟 的本地化字符串。
         /// </summary>
-        public static string You_must_wait_5_minutes_between_update_checks
-        {
-            get
-            {
+        public static string You_must_wait_5_minutes_between_update_checks {
+            get {
                 return ResourceManager.GetString("You must wait 5 minutes between update checks", resourceCulture);
             }
         }
-
+        
         /// <summary>
         ///   查找类似 缩放 的本地化字符串。
         /// </summary>
-        public static string Zoom
-        {
-            get
-            {
+        public static string Zoom {
+            get {
                 return ResourceManager.GetString("Zoom", resourceCulture);
             }
         }

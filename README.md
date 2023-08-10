@@ -5,6 +5,10 @@
 
 ## 点击[这里下载](https://github.com/plygame/RemnantSaveGuardian-CN/releases/download/1.0.1.9/RemnantSaveGuardian.zip)
 
+现在[原版](https://github.com/Razzmatazzz/RemnantSaveGuardian)已经内置了我的汉化
+
+原版会根据系统语言自动判断使用语言, 想强制使用汉化版可以继续使用我这个版本
+
 ## 安装
 1. 下载并安装[Microsoft .NET Framework 4.8](https://dotnet.microsoft.com/en-us/download/dotnet-framework)
 2. 下载 [最新版](https://github.com/plygame/RemnantSaveGuardian-CN/releases/latest) (需要下载RemnantSaveGuardian.zip, 而不是source code)

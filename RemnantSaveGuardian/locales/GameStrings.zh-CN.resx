@@ -2307,4 +2307,13 @@
   <data name="Ring_BandOfAccord" xml:space="preserve">
     <value>协调指环</value>
   </data>
+  <data name="HiddenChamber" xml:space="preserve">
+    <value>隐藏的密室</value>
+  </data>
+  <data name="IslandJump" xml:space="preserve">
+    <value>岛屿跳跃</value>
+  </data>
+  <data name="TheFarWoods" xml:space="preserve">
+    <value>遥远森林</value>
+  </data>
 </root>

@@ -193,8 +193,8 @@ namespace RemnantSaveGuardian.Views.Pages
                 
                 if (Properties.Settings.Default.MissingItemColor == "Highlight")
                 {
-                    var highlight = System.Drawing.SystemColors.HotTrack;
-                    cellStyle.Setters.Add(new Setter(ForegroundProperty, new System.Windows.Media.SolidColorBrush(System.Windows.Media.Color.FromRgb(highlight.R, highlight.G, highlight.B))));
+                    //var highlight = System.Drawing.SystemColors.HotTrack;
+                    cellStyle.Setters.Add(new Setter(ForegroundProperty, new System.Windows.Media.SolidColorBrush(System.Windows.Media.Color.FromRgb(255, 0, 0))));
                 }
             }
             else if (e.Column.Header.Equals("PossibleItemsString"))

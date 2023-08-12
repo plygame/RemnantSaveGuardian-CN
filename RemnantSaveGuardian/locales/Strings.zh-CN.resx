@@ -411,4 +411,28 @@
   <data name="Backups found" xml:space="preserve">
     <value>找到备份</value>
   </data>
+  <data name="Backup deleted" xml:space="preserve">
+    <value>备份已删除</value>
+  </data>
+  <data name="Error exporting save files: {errorMessage}" xml:space="preserve">
+    <value>导出存档文件时出错: {errorMessage}</value>
+  </data>
+  <data name="Import_failed_backup_exists" xml:space="preserve">
+    <value>无法导入存档；具有该时间戳的备份已存在</value>
+  </data>
+  <data name="Import_save_success" xml:space="preserve">
+    <value>存档成功导入至备份</value>
+  </data>
+  <data name="No_profile_sav_found_warning" xml:space="preserve">
+    <value>必须包含 profile.sav 文件</value>
+  </data>
+  <data name="No_world_found_warning" xml:space="preserve">
+    <value>必须至少包含一个 save_#.sav 文件</value>
+  </data>
+  <data name="Unexpected_event_group_number_warning_{numberOfEventGroups}" xml:space="preserve">
+    <value>世界分析器发现了 {numberOfEventGroups} 组事件，但最多只能处理 2 组。这可能会导致功能不按预期工作。</value>
+  </data>
+  <data name="VaultOfTheFormless" xml:space="preserve">
+    <value>无形者的地下室</value>
+  </data>
 </root>

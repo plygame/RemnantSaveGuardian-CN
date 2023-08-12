@@ -3,6 +3,8 @@
 
 **该项目是一项正在进行的工作。许多功能被破坏或部分实现。**
 
+注: 右键的打开wiki功能已经可以用了
+
 ## 原版汉化说明
 1. [遗迹2存档管理器原版](https://github.com/Razzmatazzz/RemnantSaveGuardian)已经内置了此汉化, 所以不再提供汉化补丁
 2. 原版会[根据系统语言自动判断使用语言](https://github.com/Razzmatazzz/RemnantSaveGuardian/issues/36), 想强制使用汉化版可以继续使用我这个版本
@@ -21,6 +23,7 @@
 - [某些项目错误地显示为缺失](https://github.com/Razzmatazzz/RemnantSaveGuardian/issues/43)
 - [某些事件和物品没有良好的格式化的名称](https://github.com/Razzmatazzz/RemnantSaveGuardian/issues/45)
 - [某些事件未显示或错误的显示](https://github.com/Razzmatazzz/RemnantSaveGuardian/issues/44)
+- [如果您使用诺顿杀毒软件，它可能会对您的游戏存档和存档管理器造成影响。](https://github.com/Razzmatazzz/RemnantSaveGuardian/issues/70)
 
 Thanks for @crackedmind for the inflation code to convert saves into partial plaintext. 
 

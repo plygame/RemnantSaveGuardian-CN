@@ -21,6 +21,7 @@
 - [某些项目错误地显示为缺失](https://github.com/Razzmatazzz/RemnantSaveGuardian/issues/43)
 - [某些事件和物品没有良好的格式化的名称](https://github.com/Razzmatazzz/RemnantSaveGuardian/issues/45)
 - [某些事件未显示或错误的显示](https://github.com/Razzmatazzz/RemnantSaveGuardian/issues/44)
+- [如果您使用诺顿杀毒软件，它可能会对您的游戏保存和存档管理器造成影响。](https://github.com/Razzmatazzz/RemnantSaveGuardian/issues/70)
 
 Thanks for @crackedmind for the inflation code to convert saves into partial plaintext. 
 

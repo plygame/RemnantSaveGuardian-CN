@@ -2266,10 +2266,10 @@
     <value>XMG57“骨锯”</value>
   </data>
   <data name="LurkerVents" xml:space="preserve">
-    <value>W.D. 109</value>
+    <value>W.D.109</value>
   </data>
   <data name="Ring_StrongArmBand" xml:space="preserve">
-    <value>Strong Arm Band</value>
+    <value>强臂带</value>
   </data>
   <data name="SentinelsKeep" xml:space="preserve">
     <value>哨兵堡</value>
@@ -2303,5 +2303,8 @@
   </data>
   <data name="AllFather" xml:space="preserve">
     <value>{AllFatherStory}</value>
+  </data>
+  <data name="Ring_BandOfAccord" xml:space="preserve">
+    <value>协调指环</value>
   </data>
 </root>

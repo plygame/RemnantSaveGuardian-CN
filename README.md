@@ -1,20 +1,27 @@
-# Remnant Save Guardian
-Back up your Remnant 2 saves and view your world rolls.
+# 遗迹2存档管理器汉化版(Remnant Save Guardian)
+存档管理器 + **世界分析器**
 
-**This project is a work in progress. Lots of features are broken or partially implemented.**
+**该项目是一项正在进行的工作。许多功能被破坏或部分实现。**
 
-## Installation
-1. Download and install [Microsoft .NET 6.0](https://dotnet.microsoft.com/en-us/download) or greater
-2. Download the [latest release](https://github.com/Razzmatazzz/RemnantSaveGuardian/releases/latest) (make sure you download RemnantSaveGuardian.zip and not the source code)
-3. Unzip the latest release to a folder of your choosing (probably not the same folder where you have the game installed)
-4. Run RemnantSaveGuardian.exe
+## 原版汉化说明
+1. [遗迹2存档管理器原版](https://github.com/Razzmatazzz/RemnantSaveGuardian)已经内置了此汉化, 所以不再提供汉化补丁
+2. 原版会[根据系统语言自动判断使用语言](https://github.com/Razzmatazzz/RemnantSaveGuardian/issues/36), 想强制使用汉化版可以继续使用我这个版本
+   
+## 下载
 
-## Known Issues
-- [Some items are missing from the world analyzer](https://github.com/Razzmatazzz/RemnantSaveGuardian/issues/43)
-- [Many events and items do not have well-formatted names](https://github.com/Razzmatazzz/RemnantSaveGuardian/issues/45)
-- [Some events not displaying or are erroneously displaying](https://github.com/Razzmatazzz/RemnantSaveGuardian/issues/44)
-- [If you are using Norton Antivirus, it may cause weirdness with your game saves and RemnantSaveGuardian](https://github.com/Razzmatazzz/RemnantSaveGuardian/issues/70)
+点击[这里下载](https://github.com/plygame/RemnantSaveGuardian-CN/releases/download/1.0.1.9/RemnantSaveGuardian.zip)
 
-Thanks for [crackedmind](https://github.com/crackedmind) for the inflation code to convert saves into partial plaintext. 
+## 安装
+1. 下载并安装[Microsoft .NET Framework 4.8](https://dotnet.microsoft.com/en-us/download/dotnet-framework)
+2. 下载 [最新版](https://github.com/plygame/RemnantSaveGuardian-CN/releases/latest) (需要下载RemnantSaveGuardian.zip, 而不是source code)
+3. 将最新版本解压缩到任意文件夹中（可以不用解压到游戏目录）
+4. 运行 RemnantSaveGuardian.exe
 
-Thanks to [AuriCrystal](https://github.com/Auricrystal) for event/item list.
+## 已知问题
+- [某些项目错误地显示为缺失](https://github.com/Razzmatazzz/RemnantSaveGuardian/issues/43)
+- [某些事件和物品没有良好的格式化的名称](https://github.com/Razzmatazzz/RemnantSaveGuardian/issues/45)
+- [某些事件未显示或错误的显示](https://github.com/Razzmatazzz/RemnantSaveGuardian/issues/44)
+
+Thanks for @crackedmind for the inflation code to convert saves into partial plaintext. 
+
+Thanks to AuriCrystal for event/item list.

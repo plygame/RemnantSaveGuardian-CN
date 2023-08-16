@@ -1,16 +1,15 @@
+## 原版已经有汉化, 此版本不再更新
+1. [遗迹2存档管理器原版](https://github.com/Razzmatazzz/RemnantSaveGuardian)已有内置汉化, 此版本不再更新
+2. 原版会[根据系统语言自动判断使用语言](https://github.com/Razzmatazzz/RemnantSaveGuardian/issues/36)
+
 # 遗迹2存档管理器汉化版(Remnant Save Guardian)
 存档管理器 + **世界分析器**
 
 **该项目是一项正在进行的工作。许多功能被破坏或部分实现。**
 
 注: 右键的打开wiki功能已经可以用了
-
-## 原版汉化说明
-1. [遗迹2存档管理器原版](https://github.com/Razzmatazzz/RemnantSaveGuardian)已经内置了此汉化, 所以不再提供汉化补丁
-2. 原版会[根据系统语言自动判断使用语言](https://github.com/Razzmatazzz/RemnantSaveGuardian/issues/36), 想强制使用汉化版可以继续使用我这个版本
    
 ## 下载
-
 点击[这里下载](https://github.com/plygame/RemnantSaveGuardian-CN/releases/download/1.0.1.9/RemnantSaveGuardian.zip)
 
 ## 安装

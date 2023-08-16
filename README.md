@@ -1,6 +1,7 @@
-## 原版已经有汉化, 此版本不再更新
+# 原版已经有汉化, 此版本不再更新
 1. [遗迹2存档管理器原版](https://github.com/Razzmatazzz/RemnantSaveGuardian)已有内置汉化, 此版本不再更新
 2. 原版会[根据系统语言自动判断使用语言](https://github.com/Razzmatazzz/RemnantSaveGuardian/issues/36)
+
 
 # 遗迹2存档管理器汉化版(Remnant Save Guardian)
 存档管理器 + **世界分析器**
